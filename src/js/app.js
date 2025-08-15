@@ -6,6 +6,7 @@ class BurgerWeekMap {
         this.filteredData = [];
         this.selectedMarker = null;
         this.isStreetView = true;
+        this.userLocationMarker = null;
         
         // Get the base URL for the app to handle image paths correctly
         this.baseUrl = import.meta.env?.BASE_URL || '/';
@@ -248,6 +249,10 @@ class BurgerWeekMap {
 
         document.getElementById('toggleSatellite').addEventListener('click', () => {
             this.toggleMapLayer();
+        });
+
+        document.getElementById('locateMe').addEventListener('click', () => {
+            this.locateUser();
         });
 
         // Restaurant modal controls
@@ -625,6 +630,85 @@ class BurgerWeekMap {
             button.textContent = 'Satellite';
             this.isStreetView = true;
         }
+    }
+
+    locateUser() {
+        const button = document.getElementById('locateMe');
+        const originalText = button.innerHTML;
+        
+        // Show loading state
+        button.innerHTML = `
+            <svg class="w-5 h-5 animate-spin" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"></path>
+            </svg>
+        `;
+        button.disabled = true;
+
+        if (!navigator.geolocation) {
+            alert('Geolocation is not supported by this browser.');
+            button.innerHTML = originalText;
+            button.disabled = false;
+            return;
+        }
+
+        navigator.geolocation.getCurrentPosition(
+            (position) => {
+                const lat = position.coords.latitude;
+                const lng = position.coords.longitude;
+                
+                // Remove existing user location marker if it exists
+                if (this.userLocationMarker) {
+                    this.map.removeLayer(this.userLocationMarker);
+                }
+                
+                // Create a custom icon for user location
+                const userIcon = L.divIcon({
+                    className: 'user-location-marker',
+                    html: `
+                        <div class="relative">
+                            <div class="w-4 h-4 bg-blue-500 rounded-full border-2 border-white shadow-lg"></div>
+                            <div class="absolute inset-0 w-4 h-4 bg-blue-500 rounded-full animate-ping opacity-75"></div>
+                        </div>
+                    `,
+                    iconSize: [16, 16],
+                    iconAnchor: [8, 8]
+                });
+                
+                // Add user location marker
+                this.userLocationMarker = L.marker([lat, lng], { icon: userIcon })
+                    .bindPopup('📍 Your Location')
+                    .addTo(this.map);
+                
+                // Pan to user location
+                this.map.setView([lat, lng], 15);
+                
+                // Reset button
+                button.innerHTML = originalText;
+                button.disabled = false;
+            },
+            (error) => {
+                let errorMessage = 'Unable to get your location.';
+                switch(error.code) {
+                    case error.PERMISSION_DENIED:
+                        errorMessage = 'Location access denied by user.';
+                        break;
+                    case error.POSITION_UNAVAILABLE:
+                        errorMessage = 'Location information is unavailable.';
+                        break;
+                    case error.TIMEOUT:
+                        errorMessage = 'Location request timed out.';
+                        break;
+                }
+                alert(errorMessage);
+                button.innerHTML = originalText;
+                button.disabled = false;
+            },
+            {
+                enableHighAccuracy: true,
+                timeout: 10000,
+                maximumAge: 300000 // 5 minutes
+            }
+        );
     }
 
     updateStats() {

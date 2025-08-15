@@ -39,3 +39,41 @@
     overflow-y: auto;
   }
 }
+
+/* User location marker styles */
+.user-location-marker {
+  background: transparent !important;
+  border: none !important;
+}
+
+.user-location-marker div {
+  position: relative;
+}
+
+@keyframes ping {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
+.animate-ping {
+  animation: ping 1s cubic-bezier(0, 0, 0.2, 1) infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin {
+  animation: spin 1s linear infinite;
+}
