@@ -326,6 +326,12 @@ class BurgerWeekMap {
             <h3>${restaurant.burgerName}</h3>
             <p><strong>Neighborhood:</strong> ${restaurant.neighborhood}</p>
             
+            ${restaurant.image ? `
+                <div class="burger-image-container">
+                    <img src="${restaurant.image}" alt="${restaurant.burgerName}" class="burger-image" />
+                </div>
+            ` : ''}
+            
             ${restaurant.description ? `
                 <div>
                     <h4>Description</h4>
