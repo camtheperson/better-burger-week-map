@@ -1,9 +1,9 @@
 [
   {
-    "restaurantName": "Abigail Hall",
-    "neighborhood": "Portland",
+    "restaurantName": "10 Barrel Brewing",
+    "neighborhood": "Pearl District",
     "burgerName": "\"Chili\" Cheese Fry Burger",
-    "eventUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
+    "eventUrl": "https://everout.com/portland/events/the-8th-wonder-of-the-world/e211981/",
     "burgerUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
     "description": "4oz beef patty, chipotle BBQ grilled onions, American cheese, fries, garlic aioli, on a brioche bun",
     "address": "813 SW Alder",
@@ -33,10 +33,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Aji Tram Restaurant and Bar",
+    "restaurantName": "Abigail Hall",
     "neighborhood": "Southwest Portland",
     "burgerName": "The Peter Piper Peck of Peppers",
-    "eventUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
+    "eventUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
     "burgerUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
     "description": "Beef patty, bacon, pepper jack cheese, poblano aioli, pickled fresnos, fried jalapeños",
     "address": "4477 Lakeview Blvd",
@@ -66,10 +66,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Ate Oh Ate",
-    "neighborhood": "Portland",
+    "restaurantName": "Aji Tram Restaurant and Bar",
+    "neighborhood": "Lake Oswego",
     "burgerName": "The North Shore Burger",
-    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
+    "eventUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "2454 E Burnside",
@@ -100,9 +100,9 @@
   },
   {
     "restaurantName": "Ate Oh Ate",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "The North Shore Burger",
-    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "5200 SE Woodstock",
@@ -132,10 +132,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Ate-Oh-Ate",
+    "restaurantName": "Ate Oh Ate",
     "neighborhood": "Southeast Portland",
     "burgerName": "The North Shore Burger",
-    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "4570 SW Watson Avenue",
@@ -161,10 +161,10 @@
     ]
   },
   {
-    "restaurantName": "Bacchus Bar",
-    "neighborhood": "Portland",
+    "restaurantName": "Ate-Oh-Ate",
+    "neighborhood": "Beaverton",
     "burgerName": "No Reservations Burger",
-    "eventUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
     "burgerUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
     "description": "Beef patty, sliced mortadella, provolone, creolenaisse, dill pickle, on a Dos Hermanos burger bun",
     "address": "422 SW Broadway",
@@ -194,10 +194,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Barbur World Foods",
-    "neighborhood": "Portland",
+    "restaurantName": "Bacchus Bar",
+    "neighborhood": "Southwest Portland",
     "burgerName": "The Spanakoburger",
-    "eventUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
+    "eventUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
     "burgerUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
     "description": "Greek-spiced beef patty, spinach, lemon, feta, olives, tzatziki, brioche bun.",
     "address": "9845 SW Barbur Blvd",
@@ -227,10 +227,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Besaw's",
-    "neighborhood": "Portland",
+    "restaurantName": "Barbur World Foods",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Always Sunny at Besaw's",
-    "eventUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
+    "eventUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
     "burgerUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
     "description": "A wagyu burger on a pub bun with burger sauce, lettuce, tomato, onion, pickle, jack cheese and topped with a sunny egg",
     "address": "1545 NW 21st",
@@ -260,10 +260,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Beulahland",
-    "neighborhood": "Portland",
+    "restaurantName": "Besaw's",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Beulahful Buffalo Blue Cheese Burger",
-    "eventUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
+    "eventUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
     "burgerUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
     "description": "5oz all-beef patty, candied bacon, a home-made spicy buffalo blue cheese dressing, topped with pickles, lettuce, and tomato, held together by a Portland Pub potato bun",
     "address": "118 NE 28th",
@@ -293,10 +293,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Big's Chicken",
-    "neighborhood": "Portland",
+    "restaurantName": "Beulahland",
+    "neighborhood": "Kerns",
     "burgerName": "Country Fried Burger",
-    "eventUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
+    "eventUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
     "burgerUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
     "description": "Breaded and fried house ground beef patty, slaw, Worcestershire onions, pickles, American and Swiss cheese on a soft bun",
     "address": "4606 NE Glisan",
@@ -326,10 +326,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Binary Brewing",
+    "restaurantName": "Big's Chicken",
     "neighborhood": "North Tabor",
     "burgerName": "Teriyakimoto’s Smash’d Lemongrass Burger",
-    "eventUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
+    "eventUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
     "burgerUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
     "description": "Double smashed all-beef patties infused with Cambodian kreoung paste (made of lemongrass, shallots, and herbs) topped with American cheese, tangy kewpie mayo, green papaya, sour carrots, and fresh cilantro on a toasted bun.",
     "address": "12345 SW Broadway St",
@@ -359,10 +359,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Boke Bowl",
-    "neighborhood": "Portland",
+    "restaurantName": "Binary Brewing",
+    "neighborhood": "Central Beaverton",
     "burgerName": "Boke Double Crunch Burger",
-    "eventUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
+    "eventUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
     "burgerUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
     "description": "Double patty, Tillamook cheddar, caramelized onions, Boke pickled cucumbers and our Boke Secret sauce with Japanese kewpie mayo, gochujang and chili crunch! All served on our favorite An Xuyen bakery Brioche bun.",
     "address": "1028 SE Water",
@@ -392,10 +392,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Botto’s BBQ",
-    "neighborhood": "div>",
+    "restaurantName": "Boke Bowl",
+    "neighborhood": "Buckman",
     "burgerName": "Basque Burger",
-    "eventUrl": "https://everout.com/portland/events/basque-burger/e212133/",
+    "eventUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
     "burgerUrl": "https://everout.com/portland/events/basque-burger/e212133/",
     "description": "House-ground brisket patty, Spanish seasoning, caramelized sherry tomato jam, Manchego frico, tallow-fried padrón peppers, toasted Martin's potato roll",
     "address": "3120 SE Milwaukie Ave",
@@ -425,10 +425,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Breakside Brewery - Dekum",
-    "neighborhood": "Portland",
+    "restaurantName": "Botto’s BBQ",
+    "neighborhood": "Southeast Portland",
     "burgerName": "🌶️Livin’ La Enchilada Loca",
-    "eventUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
+    "eventUrl": "https://everout.com/portland/events/basque-burger/e212133/",
     "burgerUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
     "description": "A local beef patty blended with pickled jalapeños, enchilada sauce, cilantro, onions, and crushed tortilla chips for that rich toasted corn flavor. Grilled and blanketed in melted Oaxaca cheese, drenched in smoky red enchilada sauce, and topped with shredded cabbage and a cool drizzle of Mexican sour cream. (We can substitute a vegetarian black bean patty.)",
     "address": "820 NE Dekum",
@@ -458,10 +458,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Breakside Brewery - Slabtown",
-    "neighborhood": "Portland",
+    "restaurantName": "Breakside Brewery - Dekum",
+    "neighborhood": "Woodlawn",
     "burgerName": "Braised and Confused",
-    "eventUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
+    "eventUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
     "burgerUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
     "description": "Beer-braised caramelized onions, shredded lettuce, roasted garlic & jalapeño mayo, provolone, bacon powder, and balsamic reduction on a classic hamburger bun. The veggie burger option is an Impossible Burger with no bacon powder.",
     "address": "1570 NW 22nd",
@@ -491,10 +491,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Brix Tavern",
-    "neighborhood": "Portland",
+    "restaurantName": "Breakside Brewery - Slabtown",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Pacific Crunch Burger",
-    "eventUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
+    "eventUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
     "burgerUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
     "description": "1/3 lb beef, cabbage and carrot slaw, sweet and spicy mayo, and teriyaki sauce",
     "address": "1338 NW Hoyt St",
@@ -524,10 +524,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Bunk Bar",
-    "neighborhood": "Portland",
+    "restaurantName": "Brix Tavern",
+    "neighborhood": "Pearl District",
     "burgerName": "Green Chili Chorizo Juicy Lucy",
-    "eventUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
+    "eventUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
     "burgerUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
     "description": "Queso fresco-stuffed beef & pork chorizo burger with green chili-caramelized onion jam, chipotle special sauce & pepper jack on an An Xuyen butter roll",
     "address": "1028 SE Water Ave",
@@ -557,10 +557,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Carina Lounge",
-    "neighborhood": "Portland",
+    "restaurantName": "Bunk Bar",
+    "neighborhood": "Buckman",
     "burgerName": "The Goat Yoga Burger",
-    "eventUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
+    "eventUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
     "burgerUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
     "description": "Fresh ground beef with caramelized sweet onions, creamy goat cheese, and a roasted garlic aioli. Burger is gluten-free with bun substitution at no extra charge.",
     "address": "410 NW 21st",
@@ -590,10 +590,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Clarklewis",
-    "neighborhood": "Portland",
+    "restaurantName": "Carina Lounge",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Mediterranean Vibes",
-    "eventUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
+    "eventUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
     "burgerUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
     "description": "100% American wagyu beef patty, Portland French potato bun, pickled red onion, chevre tzatziki, heirloom tomato, shredded romaine",
     "address": "1001 SE Water Ave",
@@ -623,10 +623,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Creepy's",
-    "neighborhood": "Portland",
+    "restaurantName": "Clarklewis",
+    "neighborhood": "Buckman",
     "burgerName": "The Big Top Burger",
-    "eventUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
+    "eventUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
     "burgerUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
     "description": "Steak trim 100% beef patty, cheddar cheese, candied bacon & roasted peanut crumble, zesty slaw, and spicy ketchup on a butter-toasted bun.",
     "address": "627 SE Morrison",
@@ -656,10 +656,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Daily Planet",
-    "neighborhood": "div>",
+    "restaurantName": "Creepy's",
+    "neighborhood": "Buckman",
     "burgerName": "The Metropolis Melt",
-    "eventUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
+    "eventUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
     "burgerUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
     "description": "Our burger starts with 6 ounces of fresh ground beef, melted white cheddar, and a generous helping of house-made bacon onion jam. Stacked with all the fixins on a grilled pub bun and served with house-cut fries. It’s bold, juicy, and built to please any Metropolitan or even a Portlander.",
     "address": "11312 SE Powell Blvd",
@@ -689,10 +689,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Deadshot",
-    "neighborhood": "Portland",
+    "restaurantName": "Daily Planet",
+    "neighborhood": "Powellhurst-Gilbert",
     "burgerName": "Sauce Burger",
-    "eventUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
+    "eventUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
     "burgerUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
     "description": "4oz beef & pork patty with raclette cheese and horsey secret sauce on a rustic bun",
     "address": "2133 SE 11th",
@@ -716,10 +716,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Deschutes Brewery & Public House",
-    "neighborhood": "Portland",
+    "restaurantName": "Dea's In & Out",
+    "neighborhood": "Gresham",
     "burgerName": "Elote Burger",
-    "eventUrl": "https://everout.com/portland/events/elote-burger/e212132/",
+    "eventUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
     "burgerUrl": "https://everout.com/portland/events/elote-burger/e212132/",
     "description": "1/4 lb beef patty, chili-lime mayo, queso Oaxaca, roasted corn & poblano salad with red onion, arugula, and a cilantro vinaigrette, on a housemate bun.",
     "address": "210 NW 11th Ave",
@@ -749,10 +749,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Dea's In & Out",
+    "restaurantName": "Deadshot",
     "neighborhood": "Hosford-Abernethy",
     "burgerName": "Aloha-Loa Burger",
-    "eventUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
+    "eventUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
     "burgerUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
     "description": "1/4lb beef patty with pepper jack cheese, pineapple jalapeño slaw, mayonnaise & teryaki sauce",
     "address": "755 NE Burnside Rd",
@@ -782,10 +782,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Dimo's Italian Specialties",
+    "restaurantName": "Deschutes Brewery & Public House",
     "neighborhood": "Northwest Portland",
     "burgerName": "Fonduta Burger",
-    "eventUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
+    "eventUrl": "https://everout.com/portland/events/elote-burger/e212132/",
     "burgerUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
     "description": "Porcini-rubbed beef patty, American cheese, potato bun, provolone-fontina fonduta, chives",
     "address": "701 E Burnside St suite a",
@@ -815,10 +815,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Duke's Public House",
+    "restaurantName": "Dimo's Italian Specialties",
     "neighborhood": "Kerns",
     "burgerName": "Simply Irresistible",
-    "eventUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
+    "eventUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
     "burgerUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
     "description": "All-beef 4oz patty with secret seasonings, lettuce, tomato, fry sauce, and American cheese",
     "address": "506 A Ave",
@@ -848,10 +848,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "DV8",
-    "neighborhood": "Portland",
+    "restaurantName": "Duke's Public House",
+    "neighborhood": "Lake Oswego",
     "burgerName": "The VIP Smash Burger",
-    "eventUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
+    "eventUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
     "burgerUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
     "description": "New Cascade traditional gluten-free bun, shredded lettuce, fresh tomato, minced red onion, deep-fried bacon bits, 1/4lb grass-fed beef patty, American-style pepper jack cheese, spicy mayo",
     "address": "5021 SE Powell Blvd",
@@ -881,10 +881,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Farmer and the Beast",
-    "neighborhood": "Portland",
+    "restaurantName": "DV8",
+    "neighborhood": "Richmond",
     "burgerName": "The Beast and Cheddar",
-    "eventUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
+    "eventUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
     "burgerUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
     "description": "6oz Medium-Rare burger with Cheddar N' Onion Cheese, Chipotle-Q sauce, and Crispy Onion Strings on a Franz bakery bun",
     "address": "1845 NW 23rd Pl",
@@ -914,10 +914,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Fuller's Burger Shack",
-    "neighborhood": "Portland",
+    "restaurantName": "Farmer and the Beast",
+    "neighborhood": "Nob Hill",
     "burgerName": "Backyard BBQ Burger",
-    "eventUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
+    "eventUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
     "burgerUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
     "description": "¼ lb patty, American cheese, bacon, zesty BBQ sauce, fried onion ring, lettuce , tomato, pickle, secret sauce",
     "address": "10131 NE Cascades Pkwy",
@@ -947,10 +947,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Gift Bar",
-    "neighborhood": "div>",
+    "restaurantName": "Fuller's Burger Shack",
+    "neighborhood": "Northeast Portland",
     "burgerName": "Flamingo Doom",
-    "eventUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
+    "eventUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
     "burgerUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
     "description": "A fresh ground patty with slow-roasted tomatoes, sharp white cheddar, arugula, pickled onions, and lemon-pepper aioli, served on a warm pretzel bun. Vegetarian with veggie patty, omit cheese for vegan.",
     "address": "1935 SE Hawthorne Blvd",
@@ -980,10 +980,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Grand Fir Brewing",
-    "neighborhood": "Portland",
+    "restaurantName": "Gift Bar",
+    "neighborhood": "Hawthorne District",
     "burgerName": "Western Bacon FirBurger",
-    "eventUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
+    "eventUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
     "burgerUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
     "description": "Bacon, honey chipotle BBQ sauce, sweet hot jalapeños, American cheese, fried onions",
     "address": "1403 SE Stark Street",
@@ -1013,10 +1013,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Grassa",
-    "neighborhood": "div>",
+    "restaurantName": "Grand Fir Brewing",
+    "neighborhood": "Buckman",
     "burgerName": "Meatball Burger",
-    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
+    "eventUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1375 SE Hawthorne Boulevard",
@@ -1047,9 +1047,9 @@
   },
   {
     "restaurantName": "Grassa",
-    "neighborhood": "div>",
+    "neighborhood": "Hawthorne District",
     "burgerName": "Meatball Burger",
-    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1506 NW 23rd Avenue",
@@ -1080,9 +1080,9 @@
   },
   {
     "restaurantName": "Grassa",
-    "neighborhood": "Portland",
+    "neighborhood": "Nob Hill",
     "burgerName": "Meatball Burger",
-    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1205 SW Washington",
@@ -1112,10 +1112,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Grays Restaurant and Bar",
+    "restaurantName": "Grassa",
     "neighborhood": "Southwest Portland",
     "burgerName": "The Diesel",
-    "eventUrl": "https://everout.com/portland/events/the-diesel/e212090/",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
     "burgerUrl": "https://everout.com/portland/events/the-diesel/e212090/",
     "description": "Charbroiled ¼ lb patty, Catalina spread, American cheese, lettuce, tomato, pickle, grilled garlic Texas toast, beef brisket sloppy joe, fontina-shishito pepper fondue, kaiser bun",
     "address": "301 W Sixth St",
@@ -1145,10 +1145,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Hawker Station PDX",
-    "neighborhood": "div>",
+    "restaurantName": "Grays Restaurant and Bar",
+    "neighborhood": "Vancouver",
     "burgerName": "Eastern Black Pepper Burger",
-    "eventUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
+    "eventUrl": "https://everout.com/portland/events/the-diesel/e212090/",
     "burgerUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
     "description": "1/4 lb Angus beef patties , fried fried onion rings , famous house black pepper sauce, lettuce , toasted potato bun",
     "address": "1015 SE Stark St",
@@ -1178,10 +1178,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Haymaker",
-    "neighborhood": "Portland",
+    "restaurantName": "Hawker Station PDX",
+    "neighborhood": "Buckman",
     "burgerName": "Argentinian Steakhouse Burger",
-    "eventUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
+    "eventUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
     "burgerUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
     "description": "Thick ground beef, lightly seasoned topped with our fresh hand-chopped chimichurri! An avocado and pineapple sauce, lettuce, and tomato.",
     "address": "1233 N Killingsworth",
@@ -1205,10 +1205,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Hopworks Brewery",
-    "neighborhood": "Portland",
+    "restaurantName": "Haymaker",
+    "neighborhood": "Overlook",
     "burgerName": "The Heatwave",
-    "eventUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
+    "eventUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
     "burgerUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
     "description": "A 1/4 lb beef patty topped with savory sliced ham, melted provolone and cheddar cheeses, freshly sliced jalapeños, sweet mango chutney, and crisp lettuce on a toasted bun.",
     "address": "2944 SE Powell",
@@ -1238,10 +1238,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Hunny Beez",
-    "neighborhood": "Portland",
+    "restaurantName": "Hopworks Brewery",
+    "neighborhood": "Creston - Kenilworth",
     "burgerName": "Adobo Burger",
-    "eventUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
+    "eventUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
     "burgerUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
     "description": "An Adobo-seasoned burger with, grilled Adobo onions, grilled pineapple, Adobo mayo, and seasonal greens on a potato bun.",
     "address": "1434 SW Park Ave",
@@ -1271,10 +1271,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Interurban",
-    "neighborhood": "Portland",
+    "restaurantName": "Hunny Beez",
+    "neighborhood": "Portland Downtown",
     "burgerName": "\"Chicago Dog\" Boar Burger",
-    "eventUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
+    "eventUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
     "burgerUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
     "description": "Wild boar/black Angus beef blend, topped with neon relish, tomato, sweet onion, sport peppers, yellow mustard, and celery salt on Portland French poppy seed brioche.",
     "address": "4057 N Mississippi",
@@ -1304,10 +1304,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "John's Marketplace",
+    "restaurantName": "Interurban",
     "neighborhood": "North Portland",
     "burgerName": "Beaverton Bangkok Smash",
-    "eventUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
+    "eventUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
     "burgerUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
     "description": "Spicy Thai peanut sauce, grilled pineapple, pickled jalapeños, sautéed bell pepper & onion, fresh arugula, smashed Angus beef patty, melted provolone cheese, toasted pub bun. Chips included.",
     "address": "3700 SW Hall Blvd",
@@ -1337,10 +1337,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Killer Burger",
-    "neighborhood": "Portland",
+    "restaurantName": "John's Marketplace",
+    "neighborhood": "Beaverton",
     "burgerName": "Philly Supreme",
-    "eventUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
+    "eventUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
     "burgerUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
     "description": "Perfectly seared 5oz beef patty, Philly steak, bacon, double provolone, brined red bell peppers, Killer House sauce, grilled onion, mayo between toasted buns.",
     "address": "510 SW 3rd",
@@ -1370,10 +1370,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lardo",
-    "neighborhood": "Portland",
+    "restaurantName": "Killer Burger",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Pig Mac",
-    "eventUrl": "https://everout.com/portland/events/pig-mac/e212116/",
+    "eventUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212116/",
     "description": "Pork burger, bacon, brown butter peaches, dirty mustard, American cheese",
     "address": "1212 SE Hawthorne",
@@ -1403,10 +1403,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lariat Lounge",
-    "neighborhood": "div>",
+    "restaurantName": "Lardo",
+    "neighborhood": "Ladd's Addition",
     "burgerName": "The Rope",
-    "eventUrl": "https://everout.com/portland/events/the-rope/e212749/",
+    "eventUrl": "https://everout.com/portland/events/pig-mac/e212116/",
     "burgerUrl": "https://everout.com/portland/events/the-rope/e212749/",
     "description": "Tillamook sharp cheddar-stuffed cheeseburger (Juicy Lucy), frizzled onions & jalapeños, BBQ sauce, mayo, lettuce & tomato on a toasted pub bun.",
     "address": "17238 SE Division",
@@ -1436,10 +1436,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lazy Days Brewing",
-    "neighborhood": "div>",
+    "restaurantName": "Lariat Lounge",
+    "neighborhood": "Southeast Portland",
     "burgerName": "Brick Cheese Breakdown",
-    "eventUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
+    "eventUrl": "https://everout.com/portland/events/the-rope/e212749/",
     "burgerUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
     "description": "Two house-ground beef and pepperoni smash patties, brick cheese, garlic aioli, caramelized red onions and mushrooms with a dollop of our red sauce, all sandwiched between a slice of Detroit-style cheese pizza. Available with a pepperoni-spiced Impossible patty.",
     "address": "2326 N. Flint Ave",
@@ -1469,10 +1469,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lone Star Burger Bar",
-    "neighborhood": "Portland",
+    "restaurantName": "Lazy Days Brewing",
+    "neighborhood": "Eliot",
     "burgerName": "Hamburguesa al Pastor",
-    "eventUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
+    "eventUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
     "burgerUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
     "description": "1/4lb brisket and sirloin patty, pork belly burnt ends al pastor, smoked pineapple, cilantro, onion, achiote aioli",
     "address": "1625 NE Killingsworth Street",
@@ -1502,10 +1502,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Loyal Legion",
-    "neighborhood": "Portland",
+    "restaurantName": "Lo's Burgers",
+    "neighborhood": "Boise",
     "burgerName": "Peachy Keen Burger",
-    "eventUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
+    "eventUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
     "burgerUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
     "description": "1/4lb beef patty smothered in house-made bourbon-peach jalapeño jam topped with smoked provolone and arugula on a brioche bun",
     "address": "710 SE 6th",
@@ -1535,10 +1535,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Loowit Brewing - Downtown Pub",
+    "restaurantName": "Lone Star Burger Bar",
     "neighborhood": "Vernon",
     "burgerName": "Pinche Smash Burger",
-    "eventUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
+    "eventUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
     "burgerUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
     "description": "Seasoned smashed patty with pico de gallo, pepper jack cheese, cilantro lime crema, and shredded lettuce, on a toasted brioche bun.",
     "address": "507 Columbia St",
@@ -1568,10 +1568,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lo's Burgers",
-    "neighborhood": "div>",
+    "restaurantName": "Loowit Brewing - Downtown Pub",
+    "neighborhood": "Esther Short",
     "burgerName": "The Kaldereta",
-    "eventUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
+    "eventUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
     "burgerUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
     "description": "A Filipino beef stew reduction sauce, made by our new neighbors at Sunrice, drizzled on a classic Lo’s Burger with pickled veg, served on a Dos Hermanos brioche bun",
     "address": "3944 N Williams Ave",
@@ -1601,10 +1601,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Lucky Devil Lounge",
-    "neighborhood": "Portland",
+    "restaurantName": "Loyal Legion",
+    "neighborhood": "Buckman",
     "burgerName": "The Bad HABit Burger",
-    "eventUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
+    "eventUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
     "burgerUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
     "description": "Pub bun, shredded lettuce, tomato, pickled & grilled jalapeños, cheddar cheese, 1/4lb grass-fed beef patty, house-made aioli featuring HAB heirloom tomato & Scotch bonnet hot sauce",
     "address": "633 SE Powell Blvd",
@@ -1634,10 +1634,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Makulít",
+    "restaurantName": "Lucky Devil Lounge",
     "neighborhood": "Hosford-Abernethy",
     "burgerName": "Spaghetti Western",
-    "eventUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
+    "eventUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
     "burgerUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
     "description": "Smashed meatball patty with Filipino spaghetti and shredded cheddar cheese in a garlic butter-toasted bun",
     "address": "1015 SE Stark Street",
@@ -1667,10 +1667,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "MidCity SmashedBurger @ Prost! Marketplace",
-    "neighborhood": "Portland",
+    "restaurantName": "Makulít",
+    "neighborhood": "Buckman",
     "burgerName": "Jalapeño Popper Burger",
-    "eventUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
+    "eventUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
     "burgerUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
     "description": "Two 1/4lb all-beef patties, Spicy SmashSauce, bacon, jalapeño cream cheese, bun",
     "address": "4237 N Mississippi Ave",
@@ -1700,10 +1700,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Migration Brewing Co.",
-    "neighborhood": "Portland",
+    "restaurantName": "MidCity SmashedBurger @ Prost! Marketplace",
+    "neighborhood": "Boise",
     "burgerName": "The Don of Burgers",
-    "eventUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
+    "eventUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
     "burgerUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
     "description": "Spicy Italian sausage, pesto aioli, giardiniera relish, marinara sauce, Parmesan cheese and arugula!",
     "address": "2828 NE Glisan",
@@ -1733,10 +1733,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Mirisata",
-    "neighborhood": "Portland",
+    "restaurantName": "Migration Brewing & Papa's Frita",
+    "neighborhood": "Boise",
     "burgerName": "The Island Burger",
-    "eventUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
+    "eventUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
     "burgerUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
     "description": "Lankan-spiced Impossible meatball patty, pineapple sambol, deviled sauce, parippu spread, chao cheese, vegenaise, manioc chips",
     "address": "2420 SE Belmont St",
@@ -1766,10 +1766,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Migration Brewing & Papa's Frita",
-    "neighborhood": "Portland",
+    "restaurantName": "Migration Brewing Co.",
+    "neighborhood": "Kerns",
     "burgerName": "Chilero Duro",
-    "eventUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
+    "eventUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
     "burgerUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
     "description": "A spicy piece of Nicaragua in every bite: a smashed beef patty with American cheese, grilled Chilero (pickled onions and habanero), sweet fried plantain, and our house-made Mombacho sauce",
     "address": "3947 North Williams Ave",
@@ -1799,10 +1799,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Moreland Ale House",
-    "neighborhood": "Portland",
+    "restaurantName": "Mirisata",
+    "neighborhood": "Buckman",
     "burgerName": "The Godfather",
-    "eventUrl": "https://everout.com/portland/events/the-godfather/e212385/",
+    "eventUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
     "burgerUrl": "https://everout.com/portland/events/the-godfather/e212385/",
     "description": "House-cured brown sugar pork belly on top of Tillamook cheddar cheese and a 100% Angus beef patty with shredded lettuce and our Mama Lil’s pepper aioli. Vegetarian option uses field roast patty and vegan bacon.",
     "address": "7995 SE Milwaukie",
@@ -1832,10 +1832,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Next Level Burger",
-    "neighborhood": "Portland",
+    "restaurantName": "Moreland Ale House",
+    "neighborhood": "Southeast Portland",
     "burgerName": "Smoky Mountain BBQ Burger",
-    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
+    "eventUrl": "https://everout.com/portland/events/the-godfather/e212385/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
     "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "4121 SE Hawthorne",
@@ -1865,10 +1865,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Nick's Famous Coney Island",
-    "neighborhood": "Portland",
+    "restaurantName": "Next Level Burger",
+    "neighborhood": "Sunnyside",
     "burgerName": "The Jerk",
-    "eventUrl": "https://everout.com/portland/events/the-jerk/e212121/",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
     "burgerUrl": "https://everout.com/portland/events/the-jerk/e212121/",
     "description": "Painted Hills beef patties, house made Jamaican jerk sauce, pineapple, lettuce, onion",
     "address": "3746 SE Hawthorne Blvd",
@@ -1898,10 +1898,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Nom Nom Wings",
-    "neighborhood": "Portland",
+    "restaurantName": "Nick's Famous Coney Island",
+    "neighborhood": "Richmond",
     "burgerName": "Đặc Biệt Burger",
-    "eventUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
+    "eventUrl": "https://everout.com/portland/events/the-jerk/e212121/",
     "burgerUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
     "description": "1/4lb. Tri-Blend Beef (Brisket, Short-Rib, Chuck), Roasted Bone Marrow Infused Aioli, Thai Basil Dust, Pickled Onion and Bean Sprouts, Sliced Jalapenos, Swiss Cheese, Martin's Potato Sesame Bun.",
     "address": "524 NW 14th Avenue",
@@ -1931,10 +1931,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Northport",
-    "neighborhood": "div>",
+    "restaurantName": "Nom Nom Wings",
+    "neighborhood": "Pearl District",
     "burgerName": "The Kiss Me Away",
-    "eventUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
+    "eventUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
     "burgerUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
     "description": "Brioche bun, onion sauce, smash burger patty, grilled onions, pepper jack cheese, shredded lettuce, crispy onions, horseradish mayo.",
     "address": "8103 N Denver Ave",
@@ -1964,10 +1964,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Pacific Standard",
-    "neighborhood": "div>",
+    "restaurantName": "Northport",
+    "neighborhood": "Kenton",
     "burgerName": "Get Slaw-tered",
-    "eventUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
+    "eventUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
     "burgerUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
     "description": "All-beef patty layered with a crisp red cabbage and jalapeño slaw tossed in a coriander-lime vinaigrette, finished with Kewpie mayo and a pinch of furikake on a toasted Martin’s bun.",
     "address": "100 NE Martin Luther King Jr Blvd",
@@ -1997,10 +1997,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Pambiche",
-    "neighborhood": "Portland",
+    "restaurantName": "Pacific Standard",
+    "neighborhood": "Kerns",
     "burgerName": "Frita Cubana",
-    "eventUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
+    "eventUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
     "burgerUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
     "description": "A juicy, well-seasoned pork and beef burger basted in beef tallow on a bed of minced red onion, then piled high with crisp shoestring potato sticks and served on a toasted Cuban bun slathered in our smokey Mojo Ketchup and garlicky Mojo Mustard. Add cheese $1 Add fried egg $2",
     "address": "2811 NE Glisan St",
@@ -2030,10 +2030,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Papi Chulo's Taqueria",
-    "neighborhood": "Portland",
+    "restaurantName": "Pambiche",
+    "neighborhood": "Kerns",
     "burgerName": "Choriqueso Burger",
-    "eventUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
+    "eventUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
     "burgerUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
     "description": "6oz Angus beef patty, chipotle aioli, shredded lettuce, guac, grilled onions, sesame bun",
     "address": "611 NW 13th Ave",
@@ -2063,10 +2063,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Paymaster Lounge",
+    "restaurantName": "Papi Chulo's Taqueria",
     "neighborhood": "Pearl District",
     "burgerName": "The Veggie Medley Hash Burger",
-    "eventUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
+    "eventUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
     "burgerUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
     "description": "The medley: grilled mushrooms, corn, onions, potato, jalapeño, smashed patty with American cheese, bacon, mayo",
     "address": "1020 NW 17th",
@@ -2096,10 +2096,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "PLS on Sixth",
-    "neighborhood": "Portland",
+    "restaurantName": "Paymaster Lounge",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Jam Session Smashburger",
-    "eventUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
+    "eventUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
     "burgerUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
     "description": "Natural ground beef, brioche bun, whiskey bacon jam, Tillamook cheddar, lettuce, and tomato. Burger comes with fries.",
     "address": "515 SW Clay St",
@@ -2129,10 +2129,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Portland Burger",
-    "neighborhood": "Portland",
+    "restaurantName": "PLS on Sixth",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Pirates of the Caribbean",
-    "eventUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
+    "eventUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
     "burgerUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
     "description": "Set sail on a flavor adventure with this juicy, 1/3lb all-beef patty topped with melty American cheese, crowned with Caribbean slaw and rum-caramelized onions. It's a tantalizing blend of smoky sweetness and tropical flair. Mesquite-smoked jalapeño aioli and crispy jalapeño straws add a crunchy (not too) spicy crescendo. Fire-roasted green chili drizzle and house sauce bring a richness to satisfy your craving for a taste of the islands. A burger that dares to be different & promises a voyage of",
     "address": "304 SW 2nd",
@@ -2162,10 +2162,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Portland Cider Company",
+    "restaurantName": "Portland Burger",
     "neighborhood": "Southwest Portland",
     "burgerName": "Rajas Burger",
-    "eventUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
+    "eventUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
     "burgerUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
     "description": "1/3lb beef patty, smoked rajas (poblano pepper & onion), Oaxaca cheese, chipotle aioli, topped with avocado crema slaw.",
     "address": "8925 SE Jannsen, Building F",
@@ -2195,10 +2195,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Prime Tap House: West End District",
+    "restaurantName": "Portland Cider Company",
     "neighborhood": "Clackamas",
     "burgerName": "Spicy Pineapple Jam Smash Burger",
-    "eventUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
+    "eventUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
     "burgerUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
     "description": "3.5 oz smashed beef patty, American cheese, spicy pineapple jam (roasted jalapeño, roasted garlic, pineapple, and fresh cilantro), garlic aioli, toasted potato bun",
     "address": "3900 SW Orbit St Suite 120",
@@ -2228,10 +2228,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Reverend's BBQ",
-    "neighborhood": "Portland",
+    "restaurantName": "Prime Tap House: West End District",
+    "neighborhood": "Beaverton",
     "burgerName": "The Holler Pain Ya Burger",
-    "eventUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
+    "eventUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
     "burgerUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
     "description": "Candied jalapeños, spicy pepper aioli, American cheese, fried onions on a toasted brioche bun",
     "address": "7712 SE 13th",
@@ -2261,10 +2261,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "River Pig Saloon",
-    "neighborhood": "Portland",
+    "restaurantName": "Reverend's BBQ",
+    "neighborhood": "Southeast Portland",
     "burgerName": "Pig Mac",
-    "eventUrl": "https://everout.com/portland/events/pig-mac/e212231/",
+    "eventUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212231/",
     "description": "Two beef patties, American cheese, River Pig sauce, shredded lettuce, pickles.",
     "address": "529 NW 13th",
@@ -2294,10 +2294,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Sad Valley",
-    "neighborhood": "Portland",
+    "restaurantName": "River Pig Saloon",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Homecoming Queen",
-    "eventUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
+    "eventUrl": "https://everout.com/portland/events/pig-mac/e212231/",
     "burgerUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
     "description": "Two local beef patties from Fulton Provision Co., pepper bacon, sharp cheddar, pepper jack, and garlic aioli on an egg-wash brioche bun from Dos Hermanos Bakery.",
     "address": "832 N Killingsworth Street",
@@ -2327,10 +2327,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Salvador Molly's",
-    "neighborhood": "Portland",
+    "restaurantName": "Sad Valley",
+    "neighborhood": "Humboldt",
     "burgerName": "Tiki Tango",
-    "eventUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
+    "eventUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
     "burgerUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
     "description": "Island curry burger with mint chutney, aioli, lettuce and tomato",
     "address": "1523 SW Sunset Blvd",
@@ -2360,10 +2360,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Sandy-O's",
-    "neighborhood": "Portland",
+    "restaurantName": "Salvador Molly's",
+    "neighborhood": "Southwest Portland",
     "burgerName": "BLT Burger Gone Wild",
-    "eventUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
+    "eventUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
     "burgerUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
     "description": "House ground beef, LM bacon, fried mozzarella drizzled in hot honey, summer tomatoes, lettuce, basil pesto mayo on a soft bun",
     "address": "10505 NE Sandy Blvd",
@@ -2393,10 +2393,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Solo Club",
+    "restaurantName": "Sandy-O's",
     "neighborhood": "Parkrose Heights",
     "burgerName": "Katsu Got Your Tongue",
-    "eventUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
+    "eventUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
     "burgerUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
     "description": "Panko-breaded 5oz patty, Kewpie mayo, tonkatsu sauce, red cabbage, green cabbage, pickles, cheddar on a brioche bun",
     "address": "2110 NW Raleigh St",
@@ -2426,10 +2426,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Speed-o Cappuccino",
-    "neighborhood": "Portland",
+    "restaurantName": "Solo Club",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Tickle My Pickle",
-    "eventUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
+    "eventUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
     "burgerUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
     "description": "Our famous smash with crispy deep-fried pickle chips, a juicy layer of our classic house pickles, dripping in pickle ranch.",
     "address": "1015 SE Stark St",
@@ -2459,10 +2459,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Spoke & Fork",
-    "neighborhood": "div>",
+    "restaurantName": "Speed-o Cappuccino",
+    "neighborhood": "Central Eastside",
     "burgerName": "Bridgetown BBQ Duxelle & Truffle Burger",
-    "eventUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
+    "eventUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
     "burgerUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
     "description": "1/4lb beef patty, wild mushroom duxelle, crispy fried onions, provolone, truffle aioli, Grand Central potato roll",
     "address": "375 NE Holladay St",
@@ -2492,10 +2492,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Steakadelphia",
-    "neighborhood": "Portland",
+    "restaurantName": "Spoke & Fork",
+    "neighborhood": "Lloyd District",
     "burgerName": "Laughing Burger",
-    "eventUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
+    "eventUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
     "burgerUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
     "description": "Angus burger topped with Laughing Cow cheese, red onions, spinach, ketchup and mustard on a sweet bun.",
     "address": "5835 SE Powell",
@@ -2519,10 +2519,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Steeplejack Brewing Co.",
-    "neighborhood": "Portland",
+    "restaurantName": "Steakadelphia",
+    "neighborhood": "South Tabor",
     "burgerName": "Burgs Phở Life",
-    "eventUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
+    "eventUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
     "burgerUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
     "description": "Peahini, hoisin sauce, sambal aioli, arugula, herb mix, beef patty, on a brioche roll",
     "address": "2400 NE Broadway",
@@ -2552,10 +2552,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Stoopid Burger",
-    "neighborhood": "Portland",
+    "restaurantName": "Steeplejack Brewing Co.",
+    "neighborhood": "Sullivan's Gulch",
     "burgerName": "Kooky Burger",
-    "eventUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
+    "eventUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
     "burgerUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
     "description": "Beef, bacon, blue cheese, buffalo sauce, fried onion, strings, lettuce, and pickle Stoopid sauce",
     "address": "2039 Lloyd Center",
@@ -2585,10 +2585,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "SuperDeluxe",
-    "neighborhood": "Portland",
+    "restaurantName": "Stoopid Burger",
+    "neighborhood": "Lloyd District",
     "burgerName": "Brunch Burger",
-    "eventUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
+    "eventUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
     "burgerUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
     "description": "All-beef patty, eggs, cheese, bacon, avocado, and chipotle aioli on a toasted potato bun.",
     "address": "5000 SE Powell",
@@ -2618,10 +2618,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Sweet Home Bar & Grill",
-    "neighborhood": "div>",
+    "restaurantName": "SuperDeluxe",
+    "neighborhood": "Richmond",
     "burgerName": "Pretzel Bacon Cheddar Burger",
-    "eventUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
+    "eventUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
     "burgerUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
     "description": "House-made soft pretzel bun, all-beef Angus patty, topped with thick-cut bacon in cheese sauce.",
     "address": "2824 N Lombard St",
@@ -2651,10 +2651,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Take Two",
-    "neighborhood": "Portland",
+    "restaurantName": "Sweet Home Bar & Grill",
+    "neighborhood": "North Portland",
     "burgerName": "The Messy Pickle",
-    "eventUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
+    "eventUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
     "burgerUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
     "description": "Beef patty, pickle dip, heirloom tomato, provolone, garlic aioli, fried pickles",
     "address": "3000 NE Killingsworth Street",
@@ -2684,10 +2684,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Taylor Street Tavern",
-    "neighborhood": "Portland",
+    "restaurantName": "Take Two",
+    "neighborhood": "Concordia",
     "burgerName": "Chorizo Con Queso Burger",
-    "eventUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
+    "eventUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
     "burgerUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
     "description": "1/3 lb wagyu beef chargrilled with green chilies, Manchego cheese, avocado and tomato smash, with chipotle aioli",
     "address": "808 SW Taylor Street",
@@ -2717,10 +2717,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Chinese Cowboy",
-    "neighborhood": "Portland",
+    "restaurantName": "Taylor Street Tavern",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Seoul Fire Burger",
-    "eventUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
+    "eventUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
     "burgerUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
     "description": "A bold fusion of Korean flavor and street-style heat. Featuring a juicy bulgogi-marinated patty, crisp iceberg lettuce, ginger sesame slaw, sriracha mayo, and molten red chili queso— sweet, spicy, and unapologetically crave-worthy.",
     "address": "727 SE Washington Street",
@@ -2750,10 +2750,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Hostel Cafe",
-    "neighborhood": "Portland",
+    "restaurantName": "The Chinese Cowboy",
+    "neighborhood": "Buckman",
     "burgerName": "Rose City Shroom",
-    "eventUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
+    "eventUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
     "burgerUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
     "description": "Savory sautéed mushrooms, garlic, and onions grilled to perfection on top of our locally sourced beef patty, with melty Swiss cheese, and a lemon & dill aioli(v). Served on a Grand Central bun with spring mix and tomato. Substitute our house-made veggie patty for a vegetarian option, and omit the cheese for a vegan version. NOTE: As of lunchtime on 8/13 gluten free buns are sold out. More should be available 8/14.",
     "address": "1810 NW Glisan",
@@ -2783,10 +2783,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Office Bar",
+    "restaurantName": "The Hostel Cafe",
     "neighborhood": "Northwest Portland",
     "burgerName": "Chilli Relleno Burger",
-    "eventUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
+    "eventUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
     "burgerUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
     "description": "Fresh ground beef patty with pepper jack cheese, an Anaheim chili pepper stuffed with a pepper blend cheese, with a tomato pico de gallo sauce on a brioche bun.",
     "address": "10598 SE 32nd Ave",
@@ -2816,10 +2816,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Paladins League",
-    "neighborhood": "Portland",
+    "restaurantName": "The Office Bar",
+    "neighborhood": "Milwaukie",
     "burgerName": "The Inspiration Point",
-    "eventUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
+    "eventUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
     "burgerUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
     "description": "1/3 pound beef patty, spiced pickled Pink Lady apples, blueberry-basil preserves, chevre and arugula on an artisan brioche bun.",
     "address": "4765 NE Fremont St",
@@ -2849,10 +2849,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Secret Pizza Society",
-    "neighborhood": "Portland",
+    "restaurantName": "The Paladins League",
+    "neighborhood": "Northeast Portland",
     "burgerName": "Cassian And/or Burger",
-    "eventUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
+    "eventUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
     "burgerUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
     "description": "Fennel Tamari Patty Au Gratin Potatoes Cheesy Sauce Mixed Greens On a Homemade Bun",
     "address": "7201 NE Glisan",
@@ -2882,10 +2882,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Social Spoon",
-    "neighborhood": "div>",
+    "restaurantName": "The Secret Pizza Society",
+    "neighborhood": "Montavilla",
     "burgerName": "Ciabatta-Bing!",
-    "eventUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
+    "eventUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
     "burgerUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
     "description": "4oz burger patty topped with spicy pepperoni and caramelized onion relish, pesto aioli, arugula, and provolone cheese on a ciabatta roll",
     "address": "550 SW Oak St",
@@ -2915,10 +2915,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "The Tavern at Heathman",
-    "neighborhood": "Portland",
+    "restaurantName": "The Social Spoon",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Uncle Andy's Diabolical Burger",
-    "eventUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
+    "eventUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
     "burgerUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
     "description": "Beer-battered onion ring, oven-dried tomato jam, house steak sauce, gouda on an English muffin",
     "address": "1001 SW Broadway",
@@ -2948,10 +2948,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Three Mermaids Public House",
+    "restaurantName": "The Tavern at Heathman",
     "neighborhood": "Portland Downtown",
     "burgerName": "Pout-It-In-Your-Mouth Burger",
-    "eventUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
+    "eventUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
     "burgerUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
     "description": "Toasted pub bun, roasted garlic aioli, hand-formed 6oz beef patty, topped with cheese curds, shoestring fries, and house-made Poutine gravy, garnished with green onion.",
     "address": "18041 SW Lower Boones Ferry Road #1B",
@@ -2981,10 +2981,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Veggie Grill by Next Level",
+    "restaurantName": "Three Mermaids Public House",
     "neighborhood": "Tigard",
     "burgerName": "Smoky Mountain BBQ Burger",
-    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
+    "eventUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
     "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "508 SW Taylor St",
@@ -3014,10 +3014,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Von Ebert Brewing Glendoveer + Kitchen",
-    "neighborhood": "Portland",
+    "restaurantName": "Veggie Grill - Cedar Hills Crossing",
+    "neighborhood": "Central Beaverton",
     "burgerName": "Beer Cheese Philly Smash",
-    "eventUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
     "burgerUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
     "description": "Bun, single smash patty, peppers, onions, mushrooms, smothered in Clubhaus beer cheese",
     "address": "14021 NE Glisan St",
@@ -3047,10 +3047,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Veggie Grill - Cedar Hills Crossing",
+    "restaurantName": "Veggie Grill by Next Level",
     "neighborhood": "Southwest Portland",
     "burgerName": "Smoky Mountain BBQ Burger",
-    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
     "description": "Quarter pound beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "3435 SW Cedar Hills Blvd D",
@@ -3080,10 +3080,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Wayfinder Beer",
-    "neighborhood": "div>",
+    "restaurantName": "Von Ebert Brewing Glendoveer + Kitchen",
+    "neighborhood": "Hazelwood",
     "burgerName": "Sourdough jacked",
-    "eventUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
+    "eventUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
     "burgerUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
     "description": "Smash patty, applewood smoked bacon, swiss cheese, tomato, mayo, ketchup on toasted sourdough, served with an egg roll, homemade sweet and sour sauce with a sprinkle of magik.",
     "address": "304 SE 2nd",
@@ -3113,10 +3113,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "White Owl Social Club",
-    "neighborhood": "div>",
+    "restaurantName": "Wayfinder Beer",
+    "neighborhood": "Buckman",
     "burgerName": "Bingo Burger",
-    "eventUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
+    "eventUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
     "burgerUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
     "description": "Steak trim 100% beef patty, blue cheese spread, iceberg shred, natural bacon, golden crispy onions, Bingo sauce",
     "address": "1305 SE 8th",
@@ -3146,10 +3146,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Wolf's Head Portland",
-    "neighborhood": "Portland",
+    "restaurantName": "White Owl Social Club",
+    "neighborhood": "Buckman",
     "burgerName": "Midwest Beer Cheese Burger",
-    "eventUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
+    "eventUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
     "burgerUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
     "description": "Midwest beer cheese spread, maple-bacon-pretzel chili crisp",
     "address": "80 SE Madison Street Suite 100",
@@ -3179,10 +3179,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Wonderboy's Smokestack",
-    "neighborhood": "Portland",
+    "restaurantName": "Wolf's Head Portland",
+    "neighborhood": "Central Eastside",
     "burgerName": "The Sloppy Papí",
-    "eventUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
+    "eventUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
     "burgerUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
     "description": "Fresh ground brisket patties stuffed with sweet pepper cream cheese, rubbed n' rolled in mustard and black pepper. Cold-smoked, then griddle seared, slathered in jalapeño jelly and cowboy crack, with a bed of crispy fried onions, all on a Dos Hermanos pub bun. For an additional $10 we'll slap a slab of succulent, smoky brisket on there, too, making it a burgourmand's delight.",
     "address": "1027 NE Alberta Street",
@@ -3212,10 +3212,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "World Foods",
-    "neighborhood": "Portland",
+    "restaurantName": "Wonderboy's Smokestack",
+    "neighborhood": "King",
     "burgerName": "The Souk Stack Burger",
-    "eventUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
+    "eventUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
     "burgerUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
     "description": "Za'atar-spice beef patty, tomato, iceberg lettuce, cucumber, honeyed labneh, brioche bun.",
     "address": "830 NW Everett St",
@@ -3245,10 +3245,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Wow Cow",
+    "restaurantName": "World Foods",
     "neighborhood": "Northwest Portland",
     "burgerName": "KOREAN HULK— Kalbi smash burger",
-    "eventUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
+    "eventUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
     "burgerUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
     "description": "Kalbi smash burger patty with 100-year-old Korean BBQ recipe, melted Tillamook cheese, toasted brioche bun, gochugaru aioli and garlic aioli spread, grilled kimchi and pickles. Available vegetarian with a sweet and tangy seasoned tofu patty!",
     "address": "9100 SW Burnham st",
@@ -3278,10 +3278,10 @@
     "geocoding_method": "google_api"
   },
   {
-    "restaurantName": "Ya Hala",
-    "neighborhood": "Portland",
+    "restaurantName": "Wow Cow",
+    "neighborhood": "Tigard",
     "burgerName": "Falafel-Flavored Beef Burger",
-    "eventUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
+    "eventUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
     "burgerUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
     "description": "Beef patty, falafel spices, roasted pepper hummus, yogurt-tahini sauce, iceberg lettuce, tomato, cucumber pickles, brioche bun.",
     "address": "8005 SE Stark St",

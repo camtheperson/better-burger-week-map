@@ -328,21 +328,59 @@ class BurgerWeekScraper {
       fs.mkdirSync(dataDir, { recursive: true });
     }
 
-    // Save the data
-    fs.writeFileSync(filePath, JSON.stringify(this.burgers, null, 2));
+    // Load existing data to preserve coordinates
+    let existingData = [];
+    if (fs.existsSync(filePath)) {
+      try {
+        const existingContent = fs.readFileSync(filePath, 'utf8');
+        existingData = JSON.parse(existingContent);
+        console.log(`Loaded ${existingData.length} existing restaurants to preserve coordinates`);
+      } catch (error) {
+        console.log('Could not load existing data, creating new file');
+      }
+    }
+
+    // Merge new data with existing coordinates
+    const mergedData = this.burgers.map(newRestaurant => {
+      // Find matching restaurant in existing data
+      const existingRestaurant = existingData.find(existing => 
+        existing.restaurantName === newRestaurant.restaurantName &&
+        existing.burgerName === newRestaurant.burgerName
+      );
+
+      // If we have existing coordinates, preserve them
+      if (existingRestaurant && existingRestaurant.latitude && existingRestaurant.longitude) {
+        return {
+          ...newRestaurant,
+          latitude: existingRestaurant.latitude,
+          longitude: existingRestaurant.longitude,
+          geocoded_address: existingRestaurant.geocoded_address,
+          geocoding_method: existingRestaurant.geocoding_method
+        };
+      }
+
+      return newRestaurant;
+    });
+
+    // Save the merged data
+    fs.writeFileSync(filePath, JSON.stringify(mergedData, null, 2));
     console.log(`Data saved to ${filePath}`);
 
     // Also save a summary
     const summary = {
-      totalRestaurants: this.burgers.length,
-      withAddresses: this.burgers.filter(b => b.address && b.address.trim()).length,
-      geocodedRestaurants: this.burgers.filter(b => b.latitude && b.longitude).length,
+      totalRestaurants: mergedData.length,
+      withAddresses: mergedData.filter(b => b.address && b.address.trim()).length,
+      geocodedRestaurants: mergedData.filter(b => b.latitude && b.longitude).length,
       lastUpdated: new Date().toISOString(),
-      neighborhoods: [...new Set(this.burgers.map(b => b.neighborhood))].sort()
+      neighborhoods: [...new Set(mergedData.map(b => b.neighborhood))].sort()
     };
     
     fs.writeFileSync(path.join(dataDir, 'summary.json'), JSON.stringify(summary, null, 2));
     console.log('Summary saved');
+    console.log(`Coordinates preserved for ${summary.geocodedRestaurants} restaurants`);
+
+    // Update this.burgers with the merged data
+    this.burgers = mergedData;
   }
 }
 

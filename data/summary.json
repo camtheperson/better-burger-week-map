@@ -1,8 +1,8 @@
 {
   "totalRestaurants": 101,
   "withAddresses": 101,
-  "geocodedRestaurants": 0,
-  "lastUpdated": "2025-08-15T18:09:17.119Z",
+  "geocodedRestaurants": 100,
+  "lastUpdated": "2025-08-15T18:32:24.986Z",
   "neighborhoods": [
     "Beaverton",
     "Boise",
@@ -48,5 +48,6 @@
     "Vancouver",
     "Vernon",
     "Woodlawn"
-  ]
+  ],
+  "geocodingMethod": "google_api"
 }

@@ -6,6 +6,8 @@
   "scripts": {
     "scrape": "node scripts/scraper.js",
     "geocode": "node scripts/geocode.js",
+    "google-geocode": "node scripts/google-geocode.js",
+    "test-geocode": "node scripts/test-google-geocode.js",
     "scrape-and-geocode": "npm run scrape && npm run geocode",
     "dev": "http-server -p 8080 -c-1",
     "build": "./scripts/build.sh",

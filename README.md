@@ -64,6 +64,8 @@ Visit the live site: [https://cameronhermens.github.io/burger-week-map/](https:/
 ### Available Scripts
 
 - `npm run scrape` - Scrape latest burger data from EverOut
+- `npm run google-geocode` - Geocode addresses using Google Maps API (requires API key)
+- `npm run test-geocode` - Test Google geocoding setup
 - `npm run dev` - Start local development server
 - `npm run build` - Build for production
 - `npm run deploy` - Deploy to GitHub Pages
@@ -75,8 +77,15 @@ Data is scraped from the official [Portland Mercury's Burger Week 2025](https://
 1. Fetches the main burger week page
 2. Extracts restaurant names, burger names, and neighborhoods
 3. Scrapes individual restaurant pages for descriptions, addresses, and hours
-4. Geocodes addresses to get map coordinates
+4. Geocodes addresses to get map coordinates using Google Maps API
 5. Saves all data to JSON files
+
+### ⚠️ Important Notes about Geocoding
+
+- **Coordinates are already included**: The repository contains pre-geocoded coordinates for all restaurants
+- **GitHub Actions doesn't run geocoding**: To preserve coordinates and avoid API costs, automated deployments skip the geocoding step
+- **Manual geocoding**: If you need to re-geocode, set `GOOGLE_GEOCODING_API_KEY` environment variable and run `npm run google-geocode`
+- **Coordinate preservation**: The scraper automatically preserves existing coordinates when updating restaurant data
 
 ## 🔄 Automated Updates
 

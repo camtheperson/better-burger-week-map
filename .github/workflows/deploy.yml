@@ -36,8 +36,9 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
-    - name: Scrape data
-      run: npm run scrape
+    # Skip scraping since we have good geocoded data
+    # - name: Scrape data
+    #   run: npm run scrape
 
     - name: Build
       run: npm run build
