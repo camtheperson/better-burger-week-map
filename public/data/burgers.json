@@ -31,7 +31,7 @@
     "longitude": -122.6804979,
     "geocoded_address": "woodlark building, 813 SW Alder St, Portland, OR 97205, USA",
     "geocoding_method": "google_api",
-    "image": "./images/abigail_hall_chili_cheese_fry_burger.jpg",
+    "image": "/images/abigail_hall_chili_cheese_fry_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTgyOTM2OTM4Ni1BYmlnYWlsLUhhbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -66,7 +66,7 @@
     "longitude": -122.7231202,
     "geocoded_address": "Parking lot, 4477 Lakeview Blvd, Lake Oswego, OR 97035, USA",
     "geocoding_method": "google_api",
-    "image": "./images/aji_tram_restaurant_and_bar_the_peter_piper_peck_o.jpg",
+    "image": "/images/aji_tram_restaurant_and_bar_the_peter_piper_peck_o.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQ0NDEyODYxOC1BamktVHJhbS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -101,7 +101,7 @@
     "longitude": -122.6402556,
     "geocoded_address": "2454 E Burnside St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/ate_oh_ate_the_north_shore_burger.jpg",
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE2MzIwNTUzOC1BdGUtT2gtQXRlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -136,7 +136,7 @@
     "longitude": -122.6085941,
     "geocoded_address": "5200 SE Woodstock Blvd, Portland, OR 97206, USA",
     "geocoding_method": "google_api",
-    "image": "./images/ate_oh_ate_the_north_shore_burger.jpg",
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE3NTQ3NzM4LUF0ZS1PaC1BdGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -167,7 +167,7 @@
         "fullDate": "2025-08-17"
       }
     ],
-    "image": "./images/ate_oh_ate_the_north_shore_burger.jpg",
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE5OTI0MjY3NS1BdGUtT2gtQXRlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -202,7 +202,7 @@
     "longitude": -122.6785042,
     "geocoded_address": "422 SW Broadway, Portland, OR 97205, USA",
     "geocoding_method": "google_api",
-    "image": "./images/bacchus_bar_no_reservations_burger.jpg",
+    "image": "/images/bacchus_bar_no_reservations_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg3MDc2NDExNi1CYWNjaHVzLUJhci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -237,7 +237,7 @@
     "longitude": -122.7199964,
     "geocoded_address": "9845 SW Barbur Blvd, Portland, OR 97219, USA",
     "geocoding_method": "google_api",
-    "image": "./images/barbur_world_foods_the_spanakoburger.jpg",
+    "image": "/images/barbur_world_foods_the_spanakoburger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU4OTcxMTQ5NC1CYXJidXItV29ybGQtRm9vZHMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -272,7 +272,7 @@
     "longitude": -122.6950454,
     "geocoded_address": "Parking lot, 1545 NW 21st Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/besaw_s_always_sunny_at_besaw_s.jpg",
+    "image": "/images/besaw_s_always_sunny_at_besaw_s.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjExODY1NjM1OS1CZXNhd3MuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -307,7 +307,7 @@
     "longitude": -122.6370112,
     "geocoded_address": "118 NE 28th Ave, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/beulahland_beulahful_buffalo_blue_cheese_burger.jpg",
+    "image": "/images/beulahland_beulahful_buffalo_blue_cheese_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzIyODEyNzYyOS1CZXVsYWhsYW5kLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -342,7 +342,7 @@
     "longitude": -122.6154621,
     "geocoded_address": "4606 NE Glisan St, Portland, OR 97213, USA",
     "geocoding_method": "google_api",
-    "image": "./images/big_s_chicken_country_fried_burger.jpg",
+    "image": "/images/big_s_chicken_country_fried_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjQ0NDQzNzEtQmlncy1DaGlja2VuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -377,7 +377,7 @@
     "longitude": -122.6821533,
     "geocoded_address": "SW Broadway, Portland, OR, USA",
     "geocoding_method": "google_api",
-    "image": "./images/binary_brewing_teriyakimoto_s_smash_d_lemongrass_b.jpg",
+    "image": "/images/binary_brewing_teriyakimoto_s_smash_d_lemongrass_b.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzMwMTQyNzAwNTg0Ny1CaW5hcnktQnJld2luZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -412,7 +412,7 @@
     "longitude": -122.6655475,
     "geocoded_address": "1028 SE Water Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/boke_bowl_boke_double_crunch_burger.jpg",
+    "image": "/images/boke_bowl_boke_double_crunch_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjI1Mzc2MDgzNy1Cb2tlLUJvd2wuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -447,7 +447,7 @@
     "longitude": -122.6539742,
     "geocoded_address": "3120 SE Milwaukie Ave, Portland, OR 97202, USA",
     "geocoding_method": "google_api",
-    "image": "./images/botto_s_bbq_basque_burger.jpg",
+    "image": "/images/botto_s_bbq_basque_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA3MjkzMTEyMy1Cb3R0b3MtQkJRLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -482,7 +482,7 @@
     "longitude": -122.6568525,
     "geocoded_address": "820 NE Dekum St, Portland, OR 97211, USA",
     "geocoding_method": "google_api",
-    "image": "./images/breakside_brewery_dekum_livin_la_enchilada_loca.jpg",
+    "image": "/images/breakside_brewery_dekum_livin_la_enchilada_loca.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzIzMDk1NDEwNS1CcmVha3NpZGUtRGVrdW0uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -517,7 +517,7 @@
     "longitude": -122.6965071,
     "geocoded_address": "1570 NW 22nd Ave, Portland, OR 97210, USA",
     "geocoding_method": "google_api",
-    "image": "./images/breakside_brewery_slabtown_braised_and_confused.jpg",
+    "image": "/images/breakside_brewery_slabtown_braised_and_confused.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDc2OTEyNjMyMi1CcmVha3NpZGUtU2xhYnRvd24uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -552,7 +552,7 @@
     "longitude": -122.684999,
     "geocoded_address": "1338 NW Hoyt St, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/brix_tavern_pacific_crunch_burger.jpg",
+    "image": "/images/brix_tavern_pacific_crunch_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM5ODgzMjg2Ny1Ccml4LVRhdmVybi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -587,7 +587,7 @@
     "longitude": -122.6655475,
     "geocoded_address": "1028 SE Water Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/bunk_bar_green_chili_chorizo_juicy_lucy.jpg",
+    "image": "/images/bunk_bar_green_chili_chorizo_juicy_lucy.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzY0NjA2NDY0OS1CdW5rLVNhbmR3aWNoZXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -622,7 +622,7 @@
     "longitude": -122.6941414,
     "geocoded_address": "410 NW 21st Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/carina_lounge_the_goat_yoga_burger.jpg",
+    "image": "/images/carina_lounge_the_goat_yoga_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTgxNjU1MjA1Mi1DYXJpbmEtTG91bmdlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -657,7 +657,7 @@
     "longitude": -122.6661994,
     "geocoded_address": "1001 SE Water Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/clarklewis_mediterranean_vibes.jpg",
+    "image": "/images/clarklewis_mediterranean_vibes.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg5MTAwNjAyMy1DbGFya2xld2lzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -692,7 +692,7 @@
     "longitude": -122.6591146,
     "geocoded_address": "627 SE Morrison St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/creepy_s_the_big_top_burger.jpg",
+    "image": "/images/creepy_s_the_big_top_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM2MDU5OTYzLUNyZWVweXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -727,7 +727,7 @@
     "longitude": -122.5468539,
     "geocoded_address": "Parking lot, 11312 SE Powell Blvd, Portland, OR 97266, USA",
     "geocoding_method": "google_api",
-    "image": "./images/daily_planet_the_metropolis_melt.jpg",
+    "image": "/images/daily_planet_the_metropolis_melt.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk1NTMwODc2MS1EYWlseS1QbGFuZXQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -756,7 +756,7 @@
     "longitude": -122.6549407,
     "geocoded_address": "Tennessee Red's in Portland, OR, USA, 2133 SE 11th Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/deadshot_sauce_burger.jpg",
+    "image": "/images/deadshot_sauce_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI3ODA4NTYzNi1EZWFkc2hvdC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -791,7 +791,7 @@
     "longitude": -122.6817262,
     "geocoded_address": "210 NW 11th Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/deschutes_brewery_public_house_elote_burger.jpg",
+    "image": "/images/deschutes_brewery_public_house_elote_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA1NzE4MjI3MS1EZXNjaHV0ZXMtQnJld2luZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -826,7 +826,7 @@
     "longitude": -122.4232893,
     "geocoded_address": "755 NE Burnside Rd, Gresham, OR 97030, USA",
     "geocoding_method": "google_api",
-    "image": "./images/dea_s_in_out_aloha_loa_burger.jpg",
+    "image": "/images/dea_s_in_out_aloha_loa_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjIxNTcwNTI1MS1EZWFzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -861,7 +861,7 @@
     "longitude": -122.6584939,
     "geocoded_address": "Parking lot, 701 E Burnside St a, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/dimo_s_italian_specialties_fonduta_burger.jpg",
+    "image": "/images/dimo_s_italian_specialties_fonduta_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI0MTAzOTI4NS1EaW1vcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -896,7 +896,7 @@
     "longitude": -122.4909392,
     "geocoded_address": "A St, Portland, OR 97236, USA",
     "geocoding_method": "google_api",
-    "image": "./images/duke_s_public_house_simply_irresistible.jpg",
+    "image": "/images/duke_s_public_house_simply_irresistible.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0Mzc3MDAwNjAzOS1EdWtlcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -931,7 +931,7 @@
     "longitude": -122.6106449,
     "geocoded_address": "5021 SE Powell Blvd, Portland, OR 97206, USA",
     "geocoding_method": "google_api",
-    "image": "./images/dv8_the_vip_smash_burger.jpg",
+    "image": "/images/dv8_the_vip_smash_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0MzIxMjU4NjcyNi1EVjguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -966,7 +966,7 @@
     "longitude": -122.7000932,
     "geocoded_address": "1845 NW 23rd Pl, Portland, OR 97210, USA",
     "geocoding_method": "google_api",
-    "image": "./images/farmer_and_the_beast_the_beast_and_cheddar.jpg",
+    "image": "/images/farmer_and_the_beast_the_beast_and_cheddar.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzAzMTU5NDI4Mi1GYXJtZXItYW5kLUJlYXN0LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1001,7 +1001,7 @@
     "longitude": -122.5575475,
     "geocoded_address": "10131 NE Cascades Pkwy, Portland, OR 97220, USA",
     "geocoding_method": "google_api",
-    "image": "./images/fuller_s_burger_shack_backyard_bbq_burger.jpg",
+    "image": "/images/fuller_s_burger_shack_backyard_bbq_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc5NjQ1MzAwMy1GdWxsZXJzLUJ1cmdlci1TaGFjay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1036,7 +1036,7 @@
     "longitude": -122.645825,
     "geocoded_address": "1935 SE Hawthorne Blvd, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/gift_bar_flamingo_doom.jpg",
+    "image": "/images/gift_bar_flamingo_doom.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQyNzE1NTUxOS1HaWZ0LUJhci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1071,7 +1071,7 @@
     "longitude": -122.6514688,
     "geocoded_address": "1403 SE Stark St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/grand_fir_brewing_western_bacon_firburger.jpg",
+    "image": "/images/grand_fir_brewing_western_bacon_firburger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc4MTE1NjE4Ni1HcmFuZC1GaXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1106,7 +1106,7 @@
     "longitude": -122.6519272,
     "geocoded_address": "1375 SE Hawthorne Blvd, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/grassa_meatball_burger.jpg",
+    "image": "/images/grassa_meatball_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDEwNDI0NTM2My1HcmFzc2EuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1141,7 +1141,7 @@
     "longitude": -122.6984512,
     "geocoded_address": "1506 NW 23rd Ave, Portland, OR 97210, USA",
     "geocoding_method": "google_api",
-    "image": "./images/grassa_meatball_burger.jpg",
+    "image": "/images/grassa_meatball_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA4ODExOTEyLUdyYXNzYS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1176,7 +1176,7 @@
     "longitude": -122.6836079,
     "geocoded_address": "twelve west, 1205 SW Washington St, Portland, OR 97205, USA",
     "geocoding_method": "google_api",
-    "image": "./images/grassa_meatball_burger.jpg",
+    "image": "/images/grassa_meatball_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA3MzA2MTkxMi1HcmFzc2EuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1211,7 +1211,7 @@
     "longitude": -122.6642039,
     "geocoded_address": "301 6th St, Portland, OR 97211, USA",
     "geocoding_method": "google_api",
-    "image": "./images/grays_restaurant_and_bar_the_diesel.jpg",
+    "image": "/images/grays_restaurant_and_bar_the_diesel.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzU2NzQ1MTc1Ny1HcmF5cy1SZXN0YXVyYW50LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1246,7 +1246,7 @@
     "longitude": -122.6554861,
     "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/hawker_station_pdx_eastern_black_pepper_burger.jpg",
+    "image": "/images/hawker_station_pdx_eastern_black_pepper_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTM5MDMxODM1OC1IYXdrZXItU3RhdGlvbi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1275,7 +1275,7 @@
     "longitude": -122.6799198,
     "geocoded_address": "1233 N Killingsworth St, Portland, OR 97217, USA",
     "geocoding_method": "google_api",
-    "image": "./images/haymaker_argentinian_steakhouse_burger.jpg",
+    "image": "/images/haymaker_argentinian_steakhouse_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjYxMDQzMTQzOC1IYXltYWtlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1310,7 +1310,7 @@
     "longitude": -122.6348437,
     "geocoded_address": "2944 SE Powell Blvd, Portland, OR 97202, USA",
     "geocoding_method": "google_api",
-    "image": "./images/hopworks_brewery_the_heatwave.jpg",
+    "image": "/images/hopworks_brewery_the_heatwave.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDAzMzkyNjk5MS1Ib3B3b3Jrcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1345,7 +1345,7 @@
     "longitude": -122.6831449,
     "geocoded_address": "1434 SW Park Ave, Portland, OR 97201, USA",
     "geocoding_method": "google_api",
-    "image": "./images/hunny_beez_adobo_burger.jpg",
+    "image": "/images/hunny_beez_adobo_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzQ3MjkyMzI4MjQ3Mi1IdW5ueS1CZWV6LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1380,7 +1380,7 @@
     "longitude": -122.6757399,
     "geocoded_address": "4057 N Mississippi Ave, Portland, OR 97227, USA",
     "geocoding_method": "google_api",
-    "image": "./images/interurban_chicago_dog_boar_burger.jpg",
+    "image": "/images/interurban_chicago_dog_boar_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzE5NzI1NTcyMy1JbnRlcnVyYmFuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1415,7 +1415,7 @@
     "longitude": -122.805312,
     "geocoded_address": "3700 SW Hall Blvd, Beaverton, OR 97005, USA",
     "geocoding_method": "google_api",
-    "image": "./images/john_s_marketplace_beaverton_bangkok_smash.jpg",
+    "image": "/images/john_s_marketplace_beaverton_bangkok_smash.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQ2MTI1NjYyMS1Kb2hucy1NYXJrZXRwbGFjZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1450,7 +1450,7 @@
     "longitude": -122.6747566,
     "geocoded_address": "510 SW 3rd Ave, Portland, OR 97204, USA",
     "geocoding_method": "google_api",
-    "image": "./images/killer_burger_philly_supreme.jpg",
+    "image": "/images/killer_burger_philly_supreme.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTUxMDYzODM5My1LaWxsZXItQnVyZ2VyLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1485,7 +1485,7 @@
     "longitude": -122.6530024,
     "geocoded_address": "1212 SE Hawthorne Blvd, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lardo_pig_mac.jpg",
+    "image": "/images/lardo_pig_mac.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM0MTkzNzYwNy1MYXJkby5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1520,7 +1520,7 @@
     "longitude": -122.4852555,
     "geocoded_address": "17238 SE Division St, Portland, OR 97236, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lariat_lounge_the_rope.jpg",
+    "image": "/images/lariat_lounge_the_rope.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE5OTUzMzcyMDUzNS1MYXJpYXQtTG91bmdlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1555,7 +1555,7 @@
     "longitude": -122.6684182,
     "geocoded_address": "2326 N Flint Ave, Portland, OR 97227, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lazy_days_brewing_brick_cheese_breakdown.jpg",
+    "image": "/images/lazy_days_brewing_brick_cheese_breakdown.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzEyMzM3MTAzNTEyMS1MYXp5LURheXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1590,7 +1590,7 @@
     "longitude": -122.6483922,
     "geocoded_address": "1625 NE Killingsworth St, Portland, OR 97211, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lone_star_burger_bar_hamburguesa_al_pastor.jpg",
+    "image": "/images/lone_star_burger_bar_hamburguesa_al_pastor.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc2MzgzODIwNi1Mb25lU3Rhci1CdXJnZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1625,7 +1625,7 @@
     "longitude": -122.6594084,
     "geocoded_address": "710 SE 6th Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/loyal_legion_peachy_keen_burger.jpg",
+    "image": "/images/loyal_legion_peachy_keen_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM5Mjg1NTcxNjE0LUxveWFsLUxlZ2lvbi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1660,7 +1660,7 @@
     "longitude": -122.680342,
     "geocoded_address": "507 SW Columbia St, Portland, OR 97201, USA",
     "geocoding_method": "google_api",
-    "image": "./images/loowit_brewing_downtown_pub_pinche_smash_burger.jpg",
+    "image": "/images/loowit_brewing_downtown_pub_pinche_smash_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQwODU1NzY3LUxvb3dpdC1CcmV3aW5nLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1695,7 +1695,7 @@
     "longitude": -122.6665014,
     "geocoded_address": "3944 N Williams Ave, Portland, OR 97227, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lo_s_burgers_the_kaldereta.jpg",
+    "image": "/images/lo_s_burgers_the_kaldereta.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzI3NjkwOTEyNC1Mb3MtQnVyZ2Vycy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1730,7 +1730,7 @@
     "longitude": -122.6590968,
     "geocoded_address": "633 SE Powell Blvd, Portland, OR 97202, USA",
     "geocoding_method": "google_api",
-    "image": "./images/lucky_devil_lounge_the_bad_habit_burger.jpg",
+    "image": "/images/lucky_devil_lounge_the_bad_habit_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0MzY4MTA0OTMyLUx1Y2t5LURldmlsLUxvdW5nZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1765,7 +1765,7 @@
     "longitude": -122.6554861,
     "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/makul_t_spaghetti_western.jpg",
+    "image": "/images/makul_t_spaghetti_western.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjE5ODE4MDI2My1NYWt1bGl0LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1800,7 +1800,7 @@
     "longitude": -122.6758209,
     "geocoded_address": "4237 N Mississippi Ave, Portland, OR 97217, USA",
     "geocoding_method": "google_api",
-    "image": "./images/midcity_smashedburger_prost_marketplace_jalape_o_p.jpg",
+    "image": "/images/midcity_smashedburger_prost_marketplace_jalape_o_p.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjQ2MzY1MjMwMS1NaWRjaXR5LVNtYXNoLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1835,7 +1835,7 @@
     "longitude": -122.6364081,
     "geocoded_address": "2828 NE Glisan St, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/migration_brewing_co_the_don_of_burgers.jpg",
+    "image": "/images/migration_brewing_co_the_don_of_burgers.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDgwNzE5Mzc0Ny1NaWdyYXRpb24tR2xpc2FuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -1870,7 +1870,7 @@
     "longitude": -122.6410068,
     "geocoded_address": "2420 SE Belmont St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/mirisata_the_island_burger.jpg",
+    "image": "/images/mirisata_the_island_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1NDk1MTY1ODkzMDg2Mi1NaXJpc2F0YS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -1905,7 +1905,7 @@
     "longitude": -122.6668651,
     "geocoded_address": "3947 N Williams Ave, Portland, OR 97227, USA",
     "geocoding_method": "google_api",
-    "image": "./images/migration_brewing_papa_s_frita_chilero_duro.jpg",
+    "image": "/images/migration_brewing_papa_s_frita_chilero_duro.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDgzMDYwMzI0OC1NaWdyYXRpb24tV2lsbGlhbXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1940,7 +1940,7 @@
     "longitude": -122.647633,
     "geocoded_address": "7995 SE Milwaukie Ave, Portland, OR 97202, USA",
     "geocoding_method": "google_api",
-    "image": "./images/moreland_ale_house_the_godfather.jpg",
+    "image": "/images/moreland_ale_house_the_godfather.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjc4NDIyMjUwNjQ5Ny1BbGVfSG91c2UuUE5HIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -1975,7 +1975,7 @@
     "longitude": -122.619663,
     "geocoded_address": "Howthome Hophouse in Portland, OR, USA, 4121 SE Hawthorne Blvd, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/next_level_burger_smoky_mountain_bbq_burger.jpg",
+    "image": "/images/next_level_burger_smoky_mountain_bbq_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTQ4MDc4NjU0MS1OZXh0LUxldmVsLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2010,7 +2010,7 @@
     "longitude": -122.6249444,
     "geocoded_address": "3746 SE Hawthorne Blvd, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/nick_s_famous_coney_island_the_jerk.jpg",
+    "image": "/images/nick_s_famous_coney_island_the_jerk.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM4MTI3NDgzOC1OaWNrcy1Db25leS1Jc2xhbmQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2045,7 +2045,7 @@
     "longitude": -122.6851308,
     "geocoded_address": "524 NW 14th Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/nom_nom_wings_c_bi_t_burger.jpg",
+    "image": "/images/nom_nom_wings_c_bi_t_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjYyNjUxODA3MS1Ob20tTm9tLVdpbmdzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2080,7 +2080,7 @@
     "longitude": -122.6871497,
     "geocoded_address": "8103 N Denver Ave, Portland, OR 97217, USA",
     "geocoding_method": "google_api",
-    "image": "./images/northport_the_kiss_me_away.jpg",
+    "image": "/images/northport_the_kiss_me_away.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzczMzk3NDIxMDQ1OC1Ob3J0aHBvcnQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2115,7 +2115,7 @@
     "longitude": -122.6615582,
     "geocoded_address": "100 NE Martin Luther King Jr Blvd, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/pacific_standard_get_slaw_tered.jpg",
+    "image": "/images/pacific_standard_get_slaw_tered.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjkzNzY1MTA2Ny1QYWNpZmljLVN0YW5kYXJkLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2150,7 +2150,7 @@
     "longitude": -122.636874,
     "geocoded_address": "2811 NE Glisan St, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/pambiche_frita_cubana.jpg",
+    "image": "/images/pambiche_frita_cubana.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM5ODE0ODExNTk0Mi1QYW1iaWNoZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2185,7 +2185,7 @@
     "longitude": -122.6844472,
     "geocoded_address": "611 NW 13th Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/papi_chulo_s_taqueria_choriqueso_burger.jpg",
+    "image": "/images/papi_chulo_s_taqueria_choriqueso_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzgxOTE4NDM2MzI5My1QYXBpLUNodWxvcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2220,7 +2220,7 @@
     "longitude": -122.6882649,
     "geocoded_address": "1020 NW 17th Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/paymaster_lounge_the_veggie_medley_hash_burger.jpg",
+    "image": "/images/paymaster_lounge_the_veggie_medley_hash_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1NTIwNjYwMjI2NDY1Mi1QYXltYXN0ZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2255,7 +2255,7 @@
     "longitude": -122.6808486,
     "geocoded_address": "515 SW Clay St, Portland, OR 97201, USA",
     "geocoding_method": "google_api",
-    "image": "./images/pls_on_sixth_jam_session_smashburger.jpg",
+    "image": "/images/pls_on_sixth_jam_session_smashburger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA1MjYxOTAzNC1QTFMtb24tU2l4dGguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2290,7 +2290,7 @@
     "longitude": -122.6729815,
     "geocoded_address": "304 SW 2nd Ave, Portland, OR 97204, USA",
     "geocoding_method": "google_api",
-    "image": "./images/portland_burger_pirates_of_the_caribbean.jpg",
+    "image": "/images/portland_burger_pirates_of_the_caribbean.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzI1NzMwODgzNS1Qb3J0bGFuZC1CdXJnZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2325,7 +2325,7 @@
     "longitude": -122.5726978,
     "geocoded_address": "8925 SE Jannsen Rd building f, Clackamas, OR 97015, USA",
     "geocoding_method": "google_api",
-    "image": "./images/portland_cider_company_rajas_burger.jpg",
+    "image": "/images/portland_cider_company_rajas_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg1MjI1MjM4Mi1Qb3J0bGFuZC1DaWRlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2360,7 +2360,7 @@
     "longitude": -122.8273245,
     "geocoded_address": "3900 SW Orbit St Unit 120, Beaverton, OR 97005, USA",
     "geocoding_method": "google_api",
-    "image": "./images/prime_tap_house_west_end_district_spicy_pineapple_.jpg",
+    "image": "/images/prime_tap_house_west_end_district_spicy_pineapple_.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjkxODQ3MTQ4My1QcmltZS1UYXAtSG91c2UuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2395,7 +2395,7 @@
     "longitude": -122.6527197,
     "geocoded_address": "7712 SE 13th Ave, Portland, OR 97202, USA",
     "geocoding_method": "google_api",
-    "image": "./images/reverend_s_bbq_the_holler_pain_ya_burger.jpg",
+    "image": "/images/reverend_s_bbq_the_holler_pain_ya_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzIxMDM4MTg0MS1SZXZlcmVuZHMtQkJRLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2430,7 +2430,7 @@
     "longitude": -122.6845305,
     "geocoded_address": "529 NW 13th Ave, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/river_pig_saloon_pig_mac.jpg",
+    "image": "/images/river_pig_saloon_pig_mac.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzM3MjQ4NDIzOC1SaXZlci1QaWcuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2465,7 +2465,7 @@
     "longitude": -122.6757357,
     "geocoded_address": "832 N Killingsworth St, Portland, OR 97217, USA",
     "geocoding_method": "google_api",
-    "image": "./images/sad_valley_homecoming_queen.jpg",
+    "image": "/images/sad_valley_homecoming_queen.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDc1MDU0MzMyOC1TYWQtVmFsbGV5LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2500,7 +2500,7 @@
     "longitude": -122.693664,
     "geocoded_address": "1523 SW Sunset Blvd, Portland, OR 97239, USA",
     "geocoding_method": "google_api",
-    "image": "./images/salvador_molly_s_tiki_tango.jpg",
+    "image": "/images/salvador_molly_s_tiki_tango.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI2Mzc3NzYwNy1TYWx2YWRvci1Nb2xseXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2535,7 +2535,7 @@
     "longitude": -122.5545173,
     "geocoded_address": "10505 NE Sandy Blvd, Portland, OR 97220, USA",
     "geocoding_method": "google_api",
-    "image": "./images/sandy_o_s_blt_burger_gone_wild.jpg",
+    "image": "/images/sandy_o_s_blt_burger_gone_wild.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjEwMjEwMDk0NC1TYW5keU9zLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2570,7 +2570,7 @@
     "longitude": -122.695064,
     "geocoded_address": "Parking lot, 2110 NW Raleigh St, Portland, OR 97210, USA",
     "geocoding_method": "google_api",
-    "image": "./images/solo_club_katsu_got_your_tongue.jpg",
+    "image": "/images/solo_club_katsu_got_your_tongue.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDczMDQ0Mjk0OS1Tb2xvLUNsdWIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2605,7 +2605,7 @@
     "longitude": -122.6554861,
     "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/speed_o_cappuccino_tickle_my_pickle.jpg",
+    "image": "/images/speed_o_cappuccino_tickle_my_pickle.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzM4NTg0MTIyNS1TcGVlZG8tQ2FwcHVjY2luby5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2640,7 +2640,7 @@
     "longitude": -122.6623777,
     "geocoded_address": "375 NE Holladay St, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/spoke_fork_bridgetown_bbq_duxelle_truffle_burger.jpg",
+    "image": "/images/spoke_fork_bridgetown_bbq_duxelle_truffle_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTUzNDQ5NjcyMS1TcG9rZS1hbmQtRm9yay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2669,7 +2669,7 @@
     "longitude": -122.6020336,
     "geocoded_address": "5835 SE Powell Blvd, Portland, OR 97206, USA",
     "geocoding_method": "google_api",
-    "image": "./images/steakadelphia_laughing_burger.jpg",
+    "image": "/images/steakadelphia_laughing_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM4ODg3NjM0OTk4Mi1TdGVha2FkZWxwaGlhLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2704,7 +2704,7 @@
     "longitude": -122.6407663,
     "geocoded_address": "2400 NE Broadway, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/steeplejack_brewing_co_burgs_ph_life.jpg",
+    "image": "/images/steeplejack_brewing_co_burgs_ph_life.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjEzOTE5NTQzMS1TdGVlcGxlamFjay1CcmV3aW5nLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2739,7 +2739,7 @@
     "longitude": -122.6540916,
     "geocoded_address": "2039 Lloyd Center, Portland, OR 97232, USA",
     "geocoding_method": "google_api",
-    "image": "./images/stoopid_burger_kooky_burger.jpg",
+    "image": "/images/stoopid_burger_kooky_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzYwNjQ4NTI2Mi1TdG9vcGlkLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2774,7 +2774,7 @@
     "longitude": -122.6110856,
     "geocoded_address": "5000 SE Powell Blvd, Portland, OR 97206, USA",
     "geocoding_method": "google_api",
-    "image": "./images/superdeluxe_brunch_burger.jpg",
+    "image": "/images/superdeluxe_brunch_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzU4ODg2ODAyMy1TdXBlci1EZWx1eGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -2809,7 +2809,7 @@
     "longitude": -122.6960746,
     "geocoded_address": "2824 N Lombard St, Portland, OR 97217, USA",
     "geocoding_method": "google_api",
-    "image": "./images/sweet_home_bar_grill_pretzel_bacon_cheddar_burger.jpg",
+    "image": "/images/sweet_home_bar_grill_pretzel_bacon_cheddar_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA5MjY4OTc1NS1Td2VldC1Ib21lLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2844,7 +2844,7 @@
     "longitude": -122.6347021,
     "geocoded_address": "3000 NE Killingsworth St, Portland, OR 97211, USA",
     "geocoding_method": "google_api",
-    "image": "./images/take_two_the_messy_pickle.jpg",
+    "image": "/images/take_two_the_messy_pickle.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzQwMTkxNjc2MS1UYWtlLVR3by5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2879,7 +2879,7 @@
     "longitude": -122.6816695,
     "geocoded_address": "808 SW Taylor St, Portland, OR 97205, USA",
     "geocoding_method": "google_api",
-    "image": "./images/taylor_street_tavern_chorizo_con_queso_burger.jpg",
+    "image": "/images/taylor_street_tavern_chorizo_con_queso_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDQxNzMzNzA3NC1UYXlsb3ItU3RyZWV0LVRhdmVybi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2914,7 +2914,7 @@
     "longitude": -122.6579265,
     "geocoded_address": "727 SE Washington St, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_chinese_cowboy_seoul_fire_burger.jpg",
+    "image": "/images/the_chinese_cowboy_seoul_fire_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTEwNzcwNzY3My1DaGluZXNlLUNvd2JveS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -2949,7 +2949,7 @@
     "longitude": -122.6895891,
     "geocoded_address": "1810 NW Glisan St, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_hostel_cafe_rose_city_shroom.jpg",
+    "image": "/images/the_hostel_cafe_rose_city_shroom.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjY0OTA0ODAyLUhvc3RlbC1DYWZlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -2984,7 +2984,7 @@
     "longitude": -122.6291585,
     "geocoded_address": "10598 SE 32nd Ave, Milwaukie, OR 97222, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_office_bar_chilli_relleno_burger.jpg",
+    "image": "/images/the_office_bar_chilli_relleno_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzMwMTUxODY3NTMxNC1PZmZpY2UtQmFyLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -3019,7 +3019,7 @@
     "longitude": -122.6136354,
     "geocoded_address": "4765 NE Fremont St, Portland, OR 97213, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_paladins_league_the_inspiration_point.jpg",
+    "image": "/images/the_paladins_league_the_inspiration_point.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk3NDY5MDkwOC1UaGUtUGFsYWRpbnMtTGVhZ3VlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -3054,7 +3054,7 @@
     "longitude": -122.5884152,
     "geocoded_address": "7201 NE Glisan St, Portland, OR 97213, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_secret_pizza_society_cassian_and_or_burger.jpg",
+    "image": "/images/the_secret_pizza_society_cassian_and_or_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzczNjYxMTg5NjUxNi1TZWNyZXQtUGl6emEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3089,7 +3089,7 @@
     "longitude": -122.676824,
     "geocoded_address": "550 SW Oak St, Portland, OR 97204, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_social_spoon_ciabatta_bing.jpg",
+    "image": "/images/the_social_spoon_ciabatta_bing.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTc5NDU5NTMxMS1Tb2NpYWwtU3Bvb24uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3124,7 +3124,7 @@
     "longitude": -122.6810692,
     "geocoded_address": "1001 SW Broadway, Portland, OR 97205, USA",
     "geocoding_method": "google_api",
-    "image": "./images/the_tavern_at_heathman_uncle_andy_s_diabolical_bur.jpg",
+    "image": "/images/the_tavern_at_heathman_uncle_andy_s_diabolical_bur.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzQ2MDI3OTQ0OTIyMS1UYXZlcm4tSGVhdGhtYW4uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3159,7 +3159,7 @@
     "longitude": -122.7515058,
     "geocoded_address": "18041 SW Lower Boones Ferry Rd, Portland, OR 97224, USA",
     "geocoding_method": "google_api",
-    "image": "./images/three_mermaids_public_house_pout_it_in_your_mouth_.jpg",
+    "image": "/images/three_mermaids_public_house_pout_it_in_your_mouth_.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTgxNDI5NDgxMS1UaHJlZS1NZXJtYWlkcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -3194,7 +3194,7 @@
     "longitude": -122.6784768,
     "geocoded_address": "508 SW Taylor St, Portland, OR 97204, USA",
     "geocoding_method": "google_api",
-    "image": "./images/veggie_grill_by_next_level_smoky_mountain_bbq_burg.jpg",
+    "image": "/images/veggie_grill_by_next_level_smoky_mountain_bbq_burg.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTQ2MDE1Mzg5NS1WZWdnaWUtR3JpbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3229,7 +3229,7 @@
     "longitude": -122.5184417,
     "geocoded_address": "14021 NE Glisan St, Portland, OR 97230, USA",
     "geocoding_method": "google_api",
-    "image": "./images/von_ebert_brewing_glendoveer_kitchen_beer_cheese_p.jpg",
+    "image": "/images/von_ebert_brewing_glendoveer_kitchen_beer_cheese_p.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI1ODI1Mzg4NC1Wb24tRWJlcnQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3264,7 +3264,7 @@
     "longitude": -122.8102583,
     "geocoded_address": "3435 SW Cedar Hills Blvd D, Beaverton, OR 97005, USA",
     "geocoding_method": "google_api",
-    "image": "./images/veggie_grill_cedar_hills_crossing_smoky_mountain_b.jpg",
+    "image": "/images/veggie_grill_cedar_hills_crossing_smoky_mountain_b.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIwNTA2OTY3MzcyMi1WZWdnaWUtR3JpbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3299,7 +3299,7 @@
     "longitude": -122.6635993,
     "geocoded_address": "Parking lot, 304 SE 2nd Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/wayfinder_beer_sourdough_jacked.jpg",
+    "image": "/images/wayfinder_beer_sourdough_jacked.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjIzNjE4ODg4NC1XYXlmaW5kZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3334,7 +3334,7 @@
     "longitude": -122.6579851,
     "geocoded_address": "1305 SE 8th Ave, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/white_owl_social_club_bingo_burger.jpg",
+    "image": "/images/white_owl_social_club_bingo_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzYyNzY0MzUyMi1CSU5HTy1CVVJHRVIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   },
   {
@@ -3369,7 +3369,7 @@
     "longitude": -122.6651674,
     "geocoded_address": "The Waterman Building, 80 SE Madison St suite 100, Portland, OR 97214, USA",
     "geocoding_method": "google_api",
-    "image": "./images/wolf_s_head_portland_midwest_beer_cheese_burger.jpg",
+    "image": "/images/wolf_s_head_portland_midwest_beer_cheese_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI0NzA5OTE5Mi1Xb2xmcy1IZWFkLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -3404,7 +3404,7 @@
     "longitude": -122.6548461,
     "geocoded_address": "1027 NE Alberta St, Portland, OR 97211, USA",
     "geocoding_method": "google_api",
-    "image": "./images/wonderboy_s_smokestack_the_sloppy_pap.jpg",
+    "image": "/images/wonderboy_s_smokestack_the_sloppy_pap.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk5MjA4MDU3MS1Xb25kZXJib3ktU21va2VzdGFjay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -3439,7 +3439,7 @@
     "longitude": -122.6798799,
     "geocoded_address": "830 NW Everett St, Portland, OR 97209, USA",
     "geocoding_method": "google_api",
-    "image": "./images/world_foods_the_souk_stack_burger.jpg",
+    "image": "/images/world_foods_the_souk_stack_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU3MDk3NTA5NS1Xb3JsZC1Gb29kcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
   },
   {
@@ -3474,7 +3474,7 @@
     "longitude": -122.7712153,
     "geocoded_address": "9100 SW Burnham St, Tigard, OR 97223, USA",
     "geocoding_method": "google_api",
-    "image": "./images/wow_cow_korean_hulk_kalbi_smash_burger.jpg",
+    "image": "/images/wow_cow_korean_hulk_kalbi_smash_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI3NTQ3NDk5OC1Xb3ctQ293LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
   },
   {
@@ -3509,7 +3509,7 @@
     "longitude": -122.58129,
     "geocoded_address": "8005 SE Stark St, Portland, OR 97215, USA",
     "geocoding_method": "google_api",
-    "image": "./images/ya_hala_falafel_flavored_beef_burger.jpg",
+    "image": "/images/ya_hala_falafel_flavored_beef_burger.jpg",
     "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU1NTIxMjk2LVlhLUhhbGEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
   }
 ]

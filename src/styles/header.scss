@@ -1,0 +1,44 @@
+// Header styles
+.header {
+    background: linear-gradient(135deg, $primary-red 0%, $primary-red-dark 100%);
+    color: $white;
+    padding: $spacing-xl 0;
+    text-align: center;
+    box-shadow: $shadow-md;
+
+    h1 {
+        font-size: 2.5rem;
+        font-weight: $font-weight-bold;
+        margin-bottom: $spacing-sm;
+
+        @media (max-width: $breakpoint-md) {
+            font-size: 2rem;
+        }
+
+        @media (max-width: $breakpoint-sm) {
+            font-size: 1.8rem;
+        }
+    }
+
+    .subtitle {
+        font-size: 1.1rem;
+        opacity: 0.9;
+        margin-bottom: $spacing-md;
+
+        @media (max-width: $breakpoint-md) {
+            font-size: 1rem;
+        }
+    }
+
+    .stats {
+        background: rgba(255, 255, 255, 0.2);
+        display: inline-block;
+        padding: $spacing-sm $spacing-md;
+        border-radius: 25px;
+        font-weight: $font-weight-semibold;
+    }
+
+    @media (max-width: $breakpoint-sm) {
+        padding: 1.5rem 0;
+    }
+}

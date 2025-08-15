@@ -21,7 +21,7 @@ class BurgerWeekMap {
 
     async loadData() {
         try {
-            const response = await fetch('./data/burgers.json');
+            const response = await fetch('/data/burgers.json');
             this.burgerData = await response.json();
             this.filteredData = [...this.burgerData];
             console.log(`Loaded ${this.burgerData.length} restaurants`);
@@ -69,9 +69,9 @@ class BurgerWeekMap {
     createPopupContent(restaurant) {
         return `
             <div>
-                <div class="popup-restaurant-name">${restaurant.restaurantName}</div>
-                <div class="popup-burger-name">${restaurant.burgerName}</div>
-                <div class="popup-neighborhood">${restaurant.neighborhood}</div>
+                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                <div class="text-sm text-gray-500">${restaurant.neighborhood}</div>
             </div>
         `;
     }
@@ -167,8 +167,8 @@ class BurgerWeekMap {
         
         if (this.filteredData.length === 0) {
             container.innerHTML = `
-                <div class="empty-state">
-                    <h3>No restaurants found</h3>
+                <div class="text-center py-12 px-4 text-gray-500">
+                    <h3 class="mb-2 text-gray-600">No restaurants found</h3>
                     <p>Try adjusting your search or filters</p>
                 </div>
             `;
@@ -176,18 +176,18 @@ class BurgerWeekMap {
         }
 
         container.innerHTML = this.filteredData.map(restaurant => `
-            <div class="restaurant-card ${restaurant.latitude && restaurant.longitude ? 'has-location' : ''}" 
+            <div class="bg-white border border-gray-200 rounded-lg p-4 mb-4 cursor-pointer transition-all duration-200 hover:border-red-600 hover:shadow-lg hover:-translate-y-1 active:translate-y-0 active:shadow-md relative min-h-[80px] ${restaurant.latitude && restaurant.longitude ? 'has-location' : ''}" 
                  data-id="${restaurant.restaurantName}">
-                <div class="map-indicator"></div>
-                <div class="restaurant-name">${restaurant.restaurantName}</div>
-                <div class="neighborhood">${restaurant.neighborhood}</div>
-                <div class="burger-name">${restaurant.burgerName}</div>
-                ${restaurant.description ? `<div class="description">${restaurant.description}</div>` : ''}
+                <div class="absolute top-2 right-2 w-2 h-2 bg-green-500 rounded-full ${restaurant.latitude && restaurant.longitude ? 'block' : 'hidden'}"></div>
+                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                <div class="text-sm text-gray-500 mb-2">${restaurant.neighborhood}</div>
+                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                ${restaurant.description ? `<div class="text-sm text-gray-600 leading-relaxed line-clamp-2">${restaurant.description}</div>` : ''}
             </div>
         `).join('');
 
         // Add click listeners to restaurant cards
-        container.querySelectorAll('.restaurant-card').forEach(card => {
+        container.querySelectorAll('[data-id]').forEach(card => {
             card.addEventListener('click', () => {
                 const restaurantName = card.dataset.id;
                 const restaurant = this.filteredData.find(r => r.restaurantName === restaurantName);
@@ -270,14 +270,14 @@ class BurgerWeekMap {
 
     selectRestaurant(restaurant) {
         // Remove previous selection
-        document.querySelectorAll('.restaurant-card').forEach(card => {
-            card.classList.remove('active');
+        document.querySelectorAll('[data-id]').forEach(card => {
+            card.classList.remove('ring-2', 'ring-red-500', 'bg-red-50');
         });
 
         // Highlight selected restaurant
         const selectedCard = document.querySelector(`[data-id="${restaurant.restaurantName}"]`);
         if (selectedCard) {
-            selectedCard.classList.add('active');
+            selectedCard.classList.add('ring-2', 'ring-red-500', 'bg-red-50');
             selectedCard.scrollIntoView({ behavior: 'smooth', block: 'center' });
         }
 
@@ -299,13 +299,13 @@ class BurgerWeekMap {
         if (restaurant.hours) {
             if (Array.isArray(restaurant.hours) && restaurant.hours.length > 0) {
                 hoursDisplay = `
-                    <div>
-                        <h4>Hours</h4>
-                        <div class="hours-list">
+                    <div class="mb-6">
+                        <h4 class="text-lg font-semibold text-gray-900 mb-3">Hours</h4>
+                        <div class="bg-yellow-50 p-4 rounded-lg">
                             ${restaurant.hours.map(h => `
-                                <div class="hours-entry">
-                                    <span class="day">${h.dayOfWeek} ${h.date}</span>
-                                    <span class="time">${h.hours}</span>
+                                <div class="flex justify-between items-center py-2 border-b border-yellow-200 last:border-b-0">
+                                    <span class="font-semibold text-yellow-800">${h.dayOfWeek} ${h.date}</span>
+                                    <span class="text-yellow-900">${h.hours}</span>
                                 </div>
                             `).join('')}
                         </div>
@@ -313,56 +313,56 @@ class BurgerWeekMap {
                 `;
             } else if (typeof restaurant.hours === 'string' && restaurant.hours.trim()) {
                 hoursDisplay = `
-                    <div>
-                        <h4>Hours</h4>
-                        <div class="hours">${restaurant.hours}</div>
+                    <div class="mb-6">
+                        <h4 class="text-lg font-semibold text-gray-900 mb-3">Hours</h4>
+                        <div class="bg-yellow-50 p-4 rounded-lg text-yellow-900">${restaurant.hours}</div>
                     </div>
                 `;
             }
         }
         
         content.innerHTML = `
-            <h2>${restaurant.restaurantName}</h2>
-            <h3>${restaurant.burgerName}</h3>
-            <p><strong>Neighborhood:</strong> ${restaurant.neighborhood}</p>
+            <h2 class="text-2xl font-bold text-gray-900 mb-2">${restaurant.restaurantName}</h2>
+            <h3 class="text-xl text-red-600 font-semibold mb-4">${restaurant.burgerName}</h3>
+            <p class="mb-4"><strong class="text-gray-700">Neighborhood:</strong> <span class="text-gray-600">${restaurant.neighborhood}</span></p>
             
             ${restaurant.image ? `
-                <div class="burger-image-container">
-                    <img src="${restaurant.image}" alt="${restaurant.burgerName}" class="burger-image" />
+                <div class="mb-6 text-center">
+                    <img src="${restaurant.image}" alt="${restaurant.burgerName}" class="max-w-full max-h-80 rounded-lg shadow-lg object-cover mx-auto" />
                 </div>
             ` : ''}
             
             ${restaurant.description ? `
-                <div>
-                    <h4>Description</h4>
-                    <p>${restaurant.description}</p>
+                <div class="mb-6">
+                    <h4 class="text-lg font-semibold text-gray-900 mb-3">Description</h4>
+                    <p class="text-gray-600 leading-relaxed">${restaurant.description}</p>
                 </div>
             ` : ''}
             
             ${restaurant.address ? `
-                <div>
-                    <h4>Address</h4>
-                    <div class="address">${restaurant.address}</div>
+                <div class="mb-6">
+                    <h4 class="text-lg font-semibold text-gray-900 mb-3">Address</h4>
+                    <div class="bg-gray-50 p-4 rounded-lg font-mono text-gray-800">${restaurant.address}</div>
                 </div>
             ` : ''}
             
             ${hoursDisplay}
             
             ${restaurant.burgerUrl ? `
-                <div style="margin-top: 1rem;">
-                    <a href="${restaurant.burgerUrl}" target="_blank" style="color: #dc2626; text-decoration: none; font-weight: 600;">
+                <div class="mt-6">
+                    <a href="${restaurant.burgerUrl}" target="_blank" class="inline-flex items-center px-4 py-2 bg-red-600 text-white font-semibold rounded-lg hover:bg-red-700 transition-colors">
                         View Details on EverOut →
                     </a>
                 </div>
             ` : ''}
         `;
         
-        modal.style.display = 'block';
+        modal.classList.remove('hidden');
     }
 
     closeModal() {
         const modal = document.getElementById('restaurantModal');
-        modal.style.display = 'none';
+        modal.classList.add('hidden');
     }
 
     toggleMapLayer() {
@@ -391,8 +391,8 @@ class BurgerWeekMap {
     showError(message) {
         const container = document.getElementById('restaurantList');
         container.innerHTML = `
-            <div class="empty-state">
-                <h3>Error</h3>
+            <div class="text-center py-12 px-4 text-gray-500">
+                <h3 class="mb-2 text-red-600 font-semibold">Error</h3>
                 <p>${message}</p>
             </div>
         `;
