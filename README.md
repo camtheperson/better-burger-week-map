@@ -13,7 +13,7 @@ An interactive map showcasing all the delicious burger offerings from Portland M
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://cameronhermens.github.io/burger-week-map/](https://cameronhermens.github.io/burger-week-map/)
+Visit the live site: [https://camtheperson.com/better-burger-week-map/](https://camtheperson.com/better-burger-week-map/)
 
 ## 📱 Screenshots
 
@@ -22,11 +22,14 @@ Visit the live site: [https://cameronhermens.github.io/burger-week-map/](https:/
 ## 🛠️ Technology Stack
 
 - **Frontend**: Vanilla JavaScript, HTML5, CSS3
+- **Styling**: Tailwind CSS with PostCSS processing
+- **Build Tool**: Vite for fast development and optimized builds
 - **Mapping**: Leaflet.js with OpenStreetMap tiles
-- **Scraping**: Node.js with Cheerio and Axios
-- **Geocoding**: OpenStreetMap Nominatim API
-- **Deployment**: GitHub Pages with automated GitHub Actions
-- **Styling**: Custom CSS with responsive design
+- **Scraping**: Node.js with Cheerio and Axios for data extraction
+- **Geocoding**: Google Maps Geocoding API (with fallback to OpenStreetMap Nominatim)
+- **Image Processing**: Automated burger image scraping and optimization
+- **Deployment**: GitHub Pages with automated GitHub Actions CI/CD
+- **Static Generation**: Fully static site with no backend dependencies
 
 ## 🏗️ Local Development
 
@@ -39,8 +42,8 @@ Visit the live site: [https://cameronhermens.github.io/burger-week-map/](https:/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cameronhermens/burger-week-map.git
-   cd burger-week-map
+   git clone https://github.com/camtheperson/better-burger-week-map.git
+   cd better-burger-week-map
    ```
 
 2. **Install dependencies**
@@ -59,16 +62,19 @@ Visit the live site: [https://cameronhermens.github.io/burger-week-map/](https:/
    ```
 
 5. **Open in browser**
-   Navigate to `http://localhost:8080`
+   Navigate to `http://localhost:3000`
 
 ### Available Scripts
 
 - `npm run scrape` - Scrape latest burger data from EverOut
-- `npm run google-geocode` - Geocode addresses using Google Maps API (requires API key)
+- `npm run geocode` - Geocode addresses using Google Maps API (requires API key)
 - `npm run test-geocode` - Test Google geocoding setup
-- `npm run dev` - Start local development server
-- `npm run build` - Build for production
-- `npm run deploy` - Deploy to GitHub Pages
+- `npm run scrape-images` - Download burger images from restaurants
+- `npm run scrape-and-geocode` - Run scraping and geocoding in sequence
+- `npm run dev` - Start local development server (Vite)
+- `npm run build` - Build for production using Vite
+- `npm run preview` - Preview production build locally
+- `npm run deploy` - Build and deploy to GitHub Pages using gh-pages
 
 ## 📊 Data Source
 
@@ -84,7 +90,7 @@ Data is scraped from the official [Portland Mercury's Burger Week 2025](https://
 
 - **Coordinates are already included**: The repository contains pre-geocoded coordinates for all restaurants
 - **GitHub Actions doesn't run geocoding**: To preserve coordinates and avoid API costs, automated deployments skip the geocoding step
-- **Manual geocoding**: If you need to re-geocode, set `GOOGLE_GEOCODING_API_KEY` environment variable and run `npm run google-geocode`
+- **Manual geocoding**: If you need to re-geocode, set `GOOGLE_GEOCODING_API_KEY` environment variable and run `npm run geocode`
 - **Coordinate preservation**: The scraper automatically preserves existing coordinates when updating restaurant data
 
 ## 🔄 Automated Updates
@@ -95,18 +101,24 @@ The site automatically updates daily at 8 AM UTC using GitHub Actions. This ensu
 
 ### GitHub Pages (Automatic)
 
-This project is configured for automatic deployment to GitHub Pages:
+This project is configured for automatic deployment to GitHub Pages using GitHub Actions:
 
-1. Push to the `main` branch
-2. GitHub Actions will automatically scrape data and deploy
-3. Visit your site at `https://yourusername.github.io/burger-week-map/`
+1. **Push to main branch** - Any push to `main` triggers the deployment workflow
+2. **Automated build** - GitHub Actions runs `npm run build` with the correct base path
+3. **Deployment** - Built files are automatically deployed to GitHub Pages
+4. **Live site** - Visit [https://camtheperson.com/better-burger-week-map/](https://camtheperson.com/better-burger-week-map/)
 
-### Manual Deployment
+The deployment workflow also runs daily at 8 AM UTC to refresh data automatically.
+
+### Manual Deployment (Alternative)
+
+You can also deploy manually using the gh-pages tool:
 
 ```bash
-npm run build
 npm run deploy
 ```
+
+This builds the project and pushes to the `gh-pages` branch.
 
 ## 🤝 Contributing
 
@@ -132,9 +144,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Cameron Hermens - [@cameronhermens](https://github.com/cameronhermens)
+Cameron Hermens - [@camtheperson](https://github.com/camtheperson)
 
-Project Link: [https://github.com/cameronhermens/burger-week-map](https://github.com/cameronhermens/burger-week-map)
+Project Link: [https://github.com/camtheperson/better-burger-week-map](https://github.com/camtheperson/better-burger-week-map)
 
 ---
 
