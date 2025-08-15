@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portland Mercury's Burger Week 2025 Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="app">
+        <header class="header">
+            <div class="container">
+                <h1>🍔 Portland Mercury's Burger Week 2025</h1>
+                <p class="subtitle">Discover all the delicious burgers across Portland</p>
+                <div class="stats" id="stats">
+                    <span id="totalCount">Loading...</span> restaurants participating
+                </div>
+            </div>
+        </header>
+
+        <div class="main-content">
+            <div class="sidebar">
+                <div class="search-filters">
+                    <div class="search-box">
+                        <input type="text" id="searchInput" placeholder="Search restaurants or burgers..." />
+                        <button id="clearSearch">×</button>
+                    </div>
+                    
+                    <div class="filter-section">
+                        <h3>Filter by Neighborhood</h3>
+                        <select id="neighborhoodFilter">
+                            <option value="">All Neighborhoods</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-section">
+                        <h3>Show Only</h3>
+                        <label class="checkbox-label">
+                            <input type="checkbox" id="showWithCoordinates" checked>
+                            <span>Mapped Locations</span>
+                        </label>
+                    </div>
+                </div>
+
+                <div class="restaurant-list" id="restaurantList">
+                    <!-- Restaurant cards will be populated here -->
+                </div>
+            </div>
+
+            <div class="map-container">
+                <div id="map"></div>
+                <div class="map-controls">
+                    <button id="resetView" class="control-btn">Reset View</button>
+                    <button id="toggleSatellite" class="control-btn">Satellite</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="modal" id="restaurantModal">
+            <div class="modal-content">
+                <span class="close" id="closeModal">&times;</span>
+                <div id="modalContent">
+                    <!-- Modal content will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <footer class="footer">
+            <div class="container">
+                <p>Data from <a href="https://everout.com/portland/events/the-portland-mercurys-burger-week-2025/e205791/" target="_blank">Portland Mercury</a> | 
+                Built with ❤️ for Portland foodies | 
+                <a href="https://github.com/cameronhermens/burger-week-map" target="_blank">View on GitHub</a></p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
