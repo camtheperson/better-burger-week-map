@@ -21,7 +21,7 @@ class BurgerWeekMap {
 
     async loadData() {
         try {
-            const response = await fetch('/data/burgers.json');
+            const response = await fetch('./data/burgers.json');
             this.burgerData = await response.json();
             this.filteredData = [...this.burgerData];
             console.log(`Loaded ${this.burgerData.length} restaurants`);
