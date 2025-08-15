@@ -10,6 +10,12 @@ body {
     background-color: #f8fafc;
     color: #334155;
     line-height: 1.6;
+    overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+html, body {
+    height: 100%;
+    width: 100%;
 }
 
 .container {
@@ -139,11 +145,13 @@ body {
     gap: 0.5rem;
     cursor: pointer;
     font-size: 0.9rem;
+    padding: 0.5rem 0;
+    min-height: 44px; /* Touch target size */
 }
 
 .checkbox-label input[type="checkbox"] {
-    width: 1rem;
-    height: 1rem;
+    width: 1.2rem;
+    height: 1.2rem;
     accent-color: #dc2626;
 }
 
@@ -161,12 +169,19 @@ body {
     cursor: pointer;
     transition: all 0.2s ease;
     position: relative;
+    min-height: 80px; /* Minimum touch target */
+    -webkit-tap-highlight-color: rgba(220, 38, 38, 0.1);
 }
 
 .restaurant-card:hover {
     border-color: #dc2626;
     box-shadow: 0 4px 12px rgba(220, 38, 38, 0.1);
     transform: translateY(-2px);
+}
+
+.restaurant-card:active {
+    transform: translateY(0);
+    box-shadow: 0 2px 8px rgba(220, 38, 38, 0.2);
 }
 
 .restaurant-card.active {
@@ -247,11 +262,22 @@ body {
     cursor: pointer;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     transition: all 0.2s;
+    min-height: 44px; /* Touch target */
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    -webkit-tap-highlight-color: rgba(220, 38, 38, 0.1);
 }
 
 .control-btn:hover {
     background: #f8fafc;
     border-color: #dc2626;
+}
+
+.control-btn:active {
+    background: #f1f5f9;
+    transform: scale(0.98);
 }
 
 /* Custom marker styles */
@@ -402,21 +428,113 @@ body {
 @media (max-width: 768px) {
     .main-content {
         flex-direction: column;
+        min-height: calc(100vh - 200px);
     }
     
     .sidebar {
         width: 100%;
-        max-height: 400px;
+        max-height: 40vh;
+        min-height: 300px;
+        order: 2;
+    }
+    
+    .map-container {
+        height: 50vh;
+        min-height: 300px;
+        order: 1;
     }
     
     .header h1 {
         font-size: 2rem;
     }
     
+    .header .subtitle {
+        font-size: 1rem;
+    }
+    
+    .search-filters {
+        padding: 1rem;
+    }
+    
+    .search-box input {
+        padding: 0.6rem 2rem 0.6rem 0.8rem;
+        font-size: 0.9rem;
+    }
+    
+    .restaurant-card {
+        padding: 1rem;
+    }
+    
+    .restaurant-name {
+        font-size: 1rem;
+    }
+    
     .modal-content {
-        margin: 10% auto;
+        margin: 5% auto;
         width: 95%;
         padding: 1.5rem;
+        max-height: 90vh;
+        overflow-y: auto;
+    }
+    
+    .map-controls {
+        top: 0.5rem;
+        right: 0.5rem;
+    }
+    
+    .control-btn {
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
+    }
+}
+
+/* Extra small screens */
+@media (max-width: 480px) {
+    .header {
+        padding: 1.5rem 0;
+    }
+    
+    .header h1 {
+        font-size: 1.8rem;
+    }
+    
+    .sidebar {
+        max-height: 45vh;
+        min-height: 280px;
+    }
+    
+    .map-container {
+        height: 45vh;
+        min-height: 280px;
+    }
+    
+    .search-filters {
+        padding: 0.8rem;
+    }
+    
+    .restaurant-card {
+        padding: 0.8rem;
+        margin-bottom: 0.8rem;
+    }
+    
+    .filter-section h3 {
+        font-size: 0.9rem;
+    }
+    
+    .checkbox-label {
+        font-size: 0.85rem;
+    }
+    
+    .map-controls {
+        flex-direction: column;
+        gap: 0.3rem;
+    }
+    
+    .control-btn {
+        padding: 0.4rem;
+        font-size: 0.75rem;
+        min-width: 40px;
+        min-height: 40px;
     }
 }
 
