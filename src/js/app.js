@@ -7,7 +7,30 @@ class BurgerWeekMap {
         this.selectedMarker = null;
         this.isStreetView = true;
         
+        // Get the base URL for the app to handle image paths correctly
+        this.baseUrl = import.meta.env?.BASE_URL || '/';
+        if (this.baseUrl && !this.baseUrl.endsWith('/')) {
+            this.baseUrl += '/';
+        }
+        
         this.init();
+    }
+
+    // Helper method to get the correct image URL based on the environment
+    getImageUrl(imagePath) {
+        if (!imagePath) return null;
+        
+        // If it's already a full URL, return as is
+        if (imagePath.startsWith('http')) {
+            return imagePath;
+        }
+        
+        // If it starts with /, remove the leading slash and add base URL
+        if (imagePath.startsWith('/')) {
+            imagePath = imagePath.substring(1);
+        }
+        
+        return `${this.baseUrl}${imagePath}`;
     }
 
     async init() {
@@ -76,6 +99,14 @@ class BurgerWeekMap {
         if (isMobile) {
             return `
                 <div class="text-center">
+                    ${restaurant.image ? `
+                        <div class="mb-3">
+                            <img src="${this.getImageUrl(restaurant.image)}" 
+                                 alt="${restaurant.burgerName}" 
+                                 class="w-24 h-24 rounded-lg object-cover mx-auto border border-gray-200" 
+                                 onerror="this.style.display='none';" />
+                        </div>
+                    ` : ''}
                     <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
                     <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
                     <div class="text-sm text-gray-500 mb-3">${restaurant.neighborhood}</div>
@@ -89,10 +120,20 @@ class BurgerWeekMap {
             `;
         } else {
             return `
-                <div>
-                    <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
-                    <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
-                    <div class="text-sm text-gray-500">${restaurant.neighborhood}</div>
+                <div class="flex gap-3 items-start min-w-[250px]">
+                    ${restaurant.image ? `
+                        <div class="flex-shrink-0">
+                            <img src="${this.getImageUrl(restaurant.image)}" 
+                                 alt="${restaurant.burgerName}" 
+                                 class="w-16 h-16 rounded-lg object-cover border border-gray-200" 
+                                 onerror="this.style.display='none';" />
+                        </div>
+                    ` : ''}
+                    <div class="flex-1 min-w-0">
+                        <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                        <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                        <div class="text-sm text-gray-500">${restaurant.neighborhood}</div>
+                    </div>
                 </div>
             `;
         }
@@ -365,44 +406,22 @@ class BurgerWeekMap {
             <div class="bg-white border border-gray-200 rounded-lg p-4 mb-4 cursor-pointer transition-all duration-200 hover:border-red-600 hover:shadow-lg hover:-translate-y-1 active:translate-y-0 active:shadow-md relative min-h-[80px] ${restaurant.latitude && restaurant.longitude ? 'has-location' : ''}" 
                  data-id="${restaurant.restaurantName}">
                 <div class="absolute top-2 right-2 w-2 h-2 bg-green-500 rounded-full ${restaurant.latitude && restaurant.longitude ? 'block' : 'hidden'}"></div>
-                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
-                <div class="text-sm text-gray-500 mb-2">${restaurant.neighborhood}</div>
-                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
-                ${restaurant.description ? `<div class="text-sm text-gray-600 leading-relaxed line-clamp-2">${restaurant.description}</div>` : ''}
-            </div>
-        `).join('');
-
-        // Add click listeners to restaurant cards
-        container.querySelectorAll('[data-id]').forEach(card => {
-            card.addEventListener('click', () => {
-                const restaurantName = card.dataset.id;
-                const restaurant = this.filteredData.find(r => r.restaurantName === restaurantName);
-                this.selectRestaurant(restaurant);
-            });
-        });
-    }
-
-    renderRestaurantList() {
-        const container = document.getElementById('restaurantList');
-        
-        if (this.filteredData.length === 0) {
-            container.innerHTML = `
-                <div class="text-center py-12 px-4 text-gray-500">
-                    <h3 class="mb-2 text-gray-600">No restaurants found</h3>
-                    <p>Try adjusting your search or filters</p>
+                <div class="flex gap-3">
+                    ${restaurant.image ? `
+                        <div class="flex-shrink-0">
+                            <img src="${this.getImageUrl(restaurant.image)}" 
+                                 alt="${restaurant.burgerName}" 
+                                 class="w-16 h-16 rounded-lg object-cover border border-gray-200" 
+                                 onerror="this.style.display='none';" />
+                        </div>
+                    ` : ''}
+                    <div class="flex-1 min-w-0">
+                        <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                        <div class="text-sm text-gray-500 mb-2">${restaurant.neighborhood}</div>
+                        <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                        ${restaurant.description ? `<div class="text-sm text-gray-600 leading-relaxed line-clamp-2">${restaurant.description}</div>` : ''}
+                    </div>
                 </div>
-            `;
-            return;
-        }
-
-        container.innerHTML = this.filteredData.map(restaurant => `
-            <div class="bg-white border border-gray-200 rounded-lg p-4 mb-4 cursor-pointer transition-all duration-200 hover:border-red-600 hover:shadow-lg hover:-translate-y-1 active:translate-y-0 active:shadow-md relative min-h-[80px] ${restaurant.latitude && restaurant.longitude ? 'has-location' : ''}" 
-                 data-id="${restaurant.restaurantName}">
-                <div class="absolute top-2 right-2 w-2 h-2 bg-green-500 rounded-full ${restaurant.latitude && restaurant.longitude ? 'block' : 'hidden'}"></div>
-                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
-                <div class="text-sm text-gray-500 mb-2">${restaurant.neighborhood}</div>
-                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
-                ${restaurant.description ? `<div class="text-sm text-gray-600 leading-relaxed line-clamp-2">${restaurant.description}</div>` : ''}
             </div>
         `).join('');
 
@@ -547,8 +566,15 @@ class BurgerWeekMap {
             <p class="mb-4"><strong class="text-gray-700">Neighborhood:</strong> <span class="text-gray-600">${restaurant.neighborhood}</span></p>
             
             ${restaurant.image ? `
-                <div class="mb-6 text-center">
-                    <img src="${restaurant.image}" alt="${restaurant.burgerName}" class="max-w-full max-h-80 rounded-lg shadow-lg object-cover mx-auto" />
+                <div class="mb-6 text-center relative">
+                    <img src="${this.getImageUrl(restaurant.image)}" 
+                         alt="${restaurant.burgerName}" 
+                         class="max-w-full max-h-80 rounded-lg shadow-lg object-cover mx-auto" 
+                         onerror="this.style.display='none'; this.nextElementSibling.style.display='block';" />
+                    <div class="hidden bg-gray-100 text-gray-500 p-8 rounded-lg border-2 border-dashed border-gray-300">
+                        <div class="text-4xl mb-2">🍔</div>
+                        <div class="text-sm">Image not available</div>
+                    </div>
                 </div>
             ` : ''}
             
