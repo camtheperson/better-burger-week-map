@@ -100,6 +100,16 @@ class BurgerWeekMap {
             this.filterData();
         });
 
+        // Show open now filter
+        document.getElementById('showOpenNow').addEventListener('change', () => {
+            this.filterData();
+        });
+
+        // Show open now filter
+        document.getElementById('showOpenNow').addEventListener('change', () => {
+            this.filterData();
+        });
+
         // Map controls
         document.getElementById('resetView').addEventListener('click', () => {
             this.map.setView([45.5152, -122.6784], 12);
@@ -138,6 +148,7 @@ class BurgerWeekMap {
         const searchTerm = document.getElementById('searchInput').value.toLowerCase();
         const selectedNeighborhood = document.getElementById('neighborhoodFilter').value;
         const showWithCoordinates = document.getElementById('showWithCoordinates').checked;
+        const showOpenNow = document.getElementById('showOpenNow').checked;
 
         this.filteredData = this.burgerData.filter(restaurant => {
             // Search filter
@@ -155,7 +166,10 @@ class BurgerWeekMap {
             const hasCoordinates = !showWithCoordinates || 
                 (restaurant.latitude && restaurant.longitude);
 
-            return matchesSearch && matchesNeighborhood && hasCoordinates;
+            // Open now filter
+            const isOpenNow = !showOpenNow || this.isCurrentlyOpen(restaurant);
+
+            return matchesSearch && matchesNeighborhood && hasCoordinates && isOpenNow;
         });
 
         this.renderRestaurantList();
@@ -197,6 +211,78 @@ class BurgerWeekMap {
         });
     }
 
+    isCurrentlyOpen(restaurant) {
+        if (!restaurant.hours) return false;
+
+        const now = new Date();
+        const currentDay = now.toLocaleDateString('en-US', { weekday: 'short' }); // Mon, Tue, etc.
+        const currentTime = now.getHours() * 60 + now.getMinutes(); // minutes since midnight
+
+        // Handle both array format and string format hours
+        if (Array.isArray(restaurant.hours)) {
+            // Find today's hours
+            const todayHours = restaurant.hours.find(h => 
+                h.dayOfWeek && h.dayOfWeek.toLowerCase() === currentDay.toLowerCase()
+            );
+
+            if (!todayHours) return false;
+
+            return this.isTimeInRange(currentTime, todayHours.hours);
+        } else if (typeof restaurant.hours === 'string') {
+            // For string format, try to parse simple time ranges
+            return this.isTimeInRange(currentTime, restaurant.hours);
+        }
+
+        return false;
+    }
+
+    isTimeInRange(currentTimeMinutes, hoursString) {
+        if (!hoursString) return false;
+
+        // Parse time ranges like "11:30 am–8 pm", "12–8 pm", "11:30 AM - 8:00 PM", "5–11 pm"
+        const timeRangePattern = /(\d{1,2}):?(\d{0,2})\s*(am|pm|AM|PM)?\s*[-–—]\s*(\d{1,2}):?(\d{0,2})\s*(am|pm|AM|PM)/i;
+        const match = hoursString.match(timeRangePattern);
+
+        if (!match) return false;
+
+        const [, startHour, startMin = '0', startAmPm, endHour, endMin = '0', endAmPm] = match;
+
+        // Convert to 24-hour format
+        let startTime24 = parseInt(startHour);
+        let endTime24 = parseInt(endHour);
+
+        // Handle empty minutes as 0
+        const startMinutes = startMin === '' ? 0 : parseInt(startMin);
+        const endMinutes = endMin === '' ? 0 : parseInt(endMin);
+
+        // Handle AM/PM for start time
+        if (startAmPm && startAmPm.toLowerCase() === 'pm' && startTime24 !== 12) {
+            startTime24 += 12;
+        } else if (startAmPm && startAmPm.toLowerCase() === 'am' && startTime24 === 12) {
+            startTime24 = 0;
+        } else if (!startAmPm && endAmPm && endAmPm.toLowerCase() === 'pm') {
+            // If start time has no AM/PM but end time is PM, assume start is also PM if it's reasonable
+            // This handles cases like "5–11 pm" where start should be 5 PM
+            if (startTime24 >= 1 && startTime24 <= 11) {
+                startTime24 += 12;
+            }
+        }
+
+        // Handle AM/PM for end time
+        if (endAmPm && endAmPm.toLowerCase() === 'pm' && endTime24 !== 12) {
+            endTime24 += 12;
+        } else if (endAmPm && endAmPm.toLowerCase() === 'am' && endTime24 === 12) {
+            endTime24 = 0;
+        }
+
+        // Convert to minutes
+        const startTimeMinutes = startTime24 * 60 + startMinutes;
+        const endTimeMinutes = endTime24 * 60 + endMinutes;
+
+        // Check if current time is within range
+        return currentTimeMinutes >= startTimeMinutes && currentTimeMinutes <= endTimeMinutes;
+    }
+
     selectRestaurant(restaurant) {
         // Remove previous selection
         document.querySelectorAll('.restaurant-card').forEach(card => {
@@ -223,6 +309,33 @@ class BurgerWeekMap {
         const modal = document.getElementById('restaurantModal');
         const content = document.getElementById('modalContent');
         
+        // Format hours for display
+        let hoursDisplay = '';
+        if (restaurant.hours) {
+            if (Array.isArray(restaurant.hours) && restaurant.hours.length > 0) {
+                hoursDisplay = `
+                    <div>
+                        <h4>Hours</h4>
+                        <div class="hours-list">
+                            ${restaurant.hours.map(h => `
+                                <div class="hours-entry">
+                                    <span class="day">${h.dayOfWeek} ${h.date}</span>
+                                    <span class="time">${h.hours}</span>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+                `;
+            } else if (typeof restaurant.hours === 'string' && restaurant.hours.trim()) {
+                hoursDisplay = `
+                    <div>
+                        <h4>Hours</h4>
+                        <div class="hours">${restaurant.hours}</div>
+                    </div>
+                `;
+            }
+        }
+        
         content.innerHTML = `
             <h2>${restaurant.restaurantName}</h2>
             <h3>${restaurant.burgerName}</h3>
@@ -242,12 +355,7 @@ class BurgerWeekMap {
                 </div>
             ` : ''}
             
-            ${restaurant.hours ? `
-                <div>
-                    <h4>Hours</h4>
-                    <div class="hours">${restaurant.hours}</div>
-                </div>
-            ` : ''}
+            ${hoursDisplay}
             
             ${restaurant.burgerUrl ? `
                 <div style="margin-top: 1rem;">

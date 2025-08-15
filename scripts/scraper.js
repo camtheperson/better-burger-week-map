@@ -184,20 +184,65 @@ class BurgerWeekScraper {
         }
       }
 
-      // Extract hours - look for time patterns
-      let hours = '';
-      const timePattern = /\d{1,2}:\d{2}\s*(AM|PM|am|pm)/gi;
-      $('*').each((i, el) => {
-        const text = $(el).text();
-        if (timePattern.test(text) && text.length < 200) {
-          hours = text.trim();
-          return false;
+      // Extract hours from the API endpoint
+      let hours = [];
+      
+      // Extract occurrence ID from the burger URL
+      const occurrenceMatch = restaurant.burgerUrl ? restaurant.burgerUrl.match(/\/e(\d+)\/?$/) : null;
+      
+      if (occurrenceMatch) {
+        const occurrenceId = occurrenceMatch[1];
+        
+        try {
+          console.log(`Fetching schedule for occurrence ${occurrenceId}...`);
+          
+          const scheduleResponse = await axios.get(`https://everout.com/api/schedule-dates/`, {
+            params: {
+              market: 'portland',
+              page_size: 15,
+              occurrence: occurrenceId,
+              cb: Date.now() // cache buster
+            },
+            headers: {
+              'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+              'Referer': restaurant.burgerUrl,
+              'Accept': 'application/json, text/plain, */*'
+            },
+            timeout: 5000
+          });
+          
+          if (scheduleResponse.data && scheduleResponse.data.results) {
+            hours = scheduleResponse.data.results.map(result => ({
+              dayOfWeek: result.date_string.split(' ')[0], // "Fri", "Sat", etc.
+              date: result.date_string.substring(4), // "Aug 15", "Aug 16", etc.
+              hours: result.time_string,
+              fullDate: result.date
+            }));
+            
+            console.log(`Found ${hours.length} schedule entries for ${restaurant.restaurantName}`);
+          }
+          
+        } catch (scheduleError) {
+          console.log(`Could not fetch schedule for ${restaurant.restaurantName}:`, scheduleError.message);
         }
-      });
+      }
+      
+      // Fallback: if no API data, try to extract from the page HTML
+      if (hours.length === 0) {
+        const timePattern = /\d{1,2}:\d{2}\s*(AM|PM|am|pm)/gi;
+        $('*').each((i, el) => {
+          const text = $(el).text();
+          if (timePattern.test(text) && text.length < 200) {
+            // Store as a simple string for backwards compatibility
+            hours = text.trim();
+            return false;
+          }
+        });
+      }
 
       return {
         ...restaurant,
-        description: description.substring(0, 500).trim(), // Limit description length and trim whitespace
+        description: description.substring(0, 500).trim(),
         address,
         hours
       };

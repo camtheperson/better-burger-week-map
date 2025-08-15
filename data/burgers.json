@@ -7,7 +7,26 @@
     "burgerUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
     "description": "4oz beef patty, chipotle BBQ grilled onions, American cheese, fries, garlic aioli, on a brioche bun",
     "address": "813 SW Alder",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Abigail Hall",
@@ -17,7 +36,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
     "description": "Beef patty, bacon, pepper jack cheese, poblano aioli, pickled fresnos, fried jalapeños",
     "address": "4477 Lakeview Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Aji Tram Restaurant and Bar",
@@ -27,7 +65,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "2454 E Burnside",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Ate Oh Ate",
@@ -37,7 +94,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "5200 SE Woodstock",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Ate Oh Ate",
@@ -47,7 +123,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
     "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
     "address": "4570 SW Watson Avenue",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Ate-Oh-Ate",
@@ -57,7 +152,26 @@
     "burgerUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
     "description": "Beef patty, sliced mortadella, provolone, creolenaisse, dill pickle, on a Dos Hermanos burger bun",
     "address": "422 SW Broadway",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Bacchus Bar",
@@ -67,7 +181,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
     "description": "Greek-spiced beef patty, spinach, lemon, feta, olives, tzatziki, brioche bun.",
     "address": "9845 SW Barbur Blvd",
-    "hours": "Every day, through August 17, 10:30 am–8 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Barbur World Foods",
@@ -77,7 +210,26 @@
     "burgerUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
     "description": "A wagyu burger on a pub bun with burger sauce, lettuce, tomato, onion, pickle, jack cheese and topped with a sunny egg",
     "address": "1545 NW 21st",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "9 am–2:20 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9 am–3:20 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9 am–3:20 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Besaw's",
@@ -87,7 +239,26 @@
     "burgerUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
     "description": "5oz all-beef patty, candied bacon, a home-made spicy buffalo blue cheese dressing, topped with pickles, lettuce, and tomato, held together by a Portland Pub potato bun",
     "address": "118 NE 28th",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Beulahland",
@@ -97,7 +268,26 @@
     "burgerUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
     "description": "Breaded and fried house ground beef patty, slaw, Worcestershire onions, pickles, American and Swiss cheese on a soft bun",
     "address": "4606 NE Glisan",
-    "hours": "Every day, through August 17, 11:30 am–9 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Big's Chicken",
@@ -107,7 +297,26 @@
     "burgerUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
     "description": "Double smashed all-beef patties infused with Cambodian kreoung paste (made of lemongrass, shallots, and herbs) topped with American cheese, tangy kewpie mayo, green papaya, sour carrots, and fresh cilantro on a toasted bun.",
     "address": "12345 SW Broadway St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Binary Brewing",
@@ -117,7 +326,26 @@
     "burgerUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
     "description": "Double patty, Tillamook cheddar, caramelized onions, Boke pickled cucumbers and our Boke Secret sauce with Japanese kewpie mayo, gochujang and chili crunch! All served on our favorite An Xuyen bakery Brioche bun.",
     "address": "1028 SE Water",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Boke Bowl",
@@ -127,7 +355,26 @@
     "burgerUrl": "https://everout.com/portland/events/basque-burger/e212133/",
     "description": "House-ground brisket patty, Spanish seasoning, caramelized sherry tomato jam, Manchego frico, tallow-fried padrón peppers, toasted Martin's potato roll",
     "address": "3120 SE Milwaukie Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Botto’s BBQ",
@@ -137,7 +384,26 @@
     "burgerUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
     "description": "A local beef patty blended with pickled jalapeños, enchilada sauce, cilantro, onions, and crushed tortilla chips for that rich toasted corn flavor. Grilled and blanketed in melted Oaxaca cheese, drenched in smoky red enchilada sauce, and topped with shredded cabbage and a cool drizzle of Mexican sour cream. (We can substitute a vegetarian black bean patty.)",
     "address": "820 NE Dekum",
-    "hours": "Every day, through August 17, 11:30 am–10 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Breakside Brewery - Dekum",
@@ -147,7 +413,26 @@
     "burgerUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
     "description": "Beer-braised caramelized onions, shredded lettuce, roasted garlic & jalapeño mayo, provolone, bacon powder, and balsamic reduction on a classic hamburger bun. The veggie burger option is an Impossible Burger with no bacon powder.",
     "address": "1570 NW 22nd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Breakside Brewery - Slabtown",
@@ -157,7 +442,26 @@
     "burgerUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
     "description": "1/3 lb beef, cabbage and carrot slaw, sweet and spicy mayo, and teriyaki sauce",
     "address": "1338 NW Hoyt St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9:30 am–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Brix Tavern",
@@ -167,7 +471,26 @@
     "burgerUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
     "description": "Queso fresco-stuffed beef & pork chorizo burger with green chili-caramelized onion jam, chipotle special sauce & pepper jack on an An Xuyen butter roll",
     "address": "1028 SE Water Ave",
-    "hours": "Every day, through August 17, 11:30 am–8 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Bunk Bar",
@@ -177,7 +500,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
     "description": "Fresh ground beef with caramelized sweet onions, creamy goat cheese, and a roasted garlic aioli. Burger is gluten-free with bun substitution at no extra charge.",
     "address": "410 NW 21st",
-    "hours": "Multiple dates through August 17, 4:30 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4:30–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4:30–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4:30–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Carina Lounge",
@@ -187,7 +529,26 @@
     "burgerUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
     "description": "100% American wagyu beef patty, Portland French potato bun, pickled red onion, chevre tzatziki, heirloom tomato, shredded romaine",
     "address": "1001 SE Water Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Clarklewis",
@@ -197,7 +558,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
     "description": "Steak trim 100% beef patty, cheddar cheese, candied bacon & roasted peanut crumble, zesty slaw, and spicy ketchup on a butter-toasted bun.",
     "address": "627 SE Morrison",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Creepy's",
@@ -207,7 +587,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
     "description": "Our burger starts with 6 ounces of fresh ground beef, melted white cheddar, and a generous helping of house-made bacon onion jam. Stacked with all the fixins on a grilled pub bun and served with house-cut fries. It’s bold, juicy, and built to please any Metropolitan or even a Portlander.",
     "address": "11312 SE Powell Blvd",
-    "hours": "Every day, through August 17, 8–2:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Daily Planet",
@@ -217,7 +616,20 @@
     "burgerUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
     "description": "4oz beef & pork patty with raclette cheese and horsey secret sauce on a rustic bun",
     "address": "2133 SE 11th",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-16"
+      }
+    ]
   },
   {
     "restaurantName": "Deadshot",
@@ -227,7 +639,26 @@
     "burgerUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
     "description": "1/4lb beef patty with pepper jack cheese, pineapple jalapeño slaw, mayonnaise & teryaki sauce",
     "address": "755 NE Burnside Rd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–1 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–1 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Dea's In & Out",
@@ -237,7 +668,26 @@
     "burgerUrl": "https://everout.com/portland/events/elote-burger/e212132/",
     "description": "1/4 lb beef patty, chili-lime mayo, queso Oaxaca, roasted corn & poblano salad with red onion, arugula, and a cilantro vinaigrette, on a housemate bun.",
     "address": "210 NW 11th Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Deschutes Brewery & Public House",
@@ -247,7 +697,26 @@
     "burgerUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
     "description": "Porcini-rubbed beef patty, American cheese, potato bun, provolone-fontina fonduta, chives",
     "address": "701 E Burnside St suite a",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Dimo's Italian Specialties",
@@ -257,7 +726,26 @@
     "burgerUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
     "description": "All-beef 4oz patty with secret seasonings, lettuce, tomato, fry sauce, and American cheese",
     "address": "506 A Ave",
-    "hours": "Multiple dates through August 17, 11:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Duke's Public House",
@@ -267,7 +755,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
     "description": "New Cascade traditional gluten-free bun, shredded lettuce, fresh tomato, minced red onion, deep-fried bacon bits, 1/4lb grass-fed beef patty, American-style pepper jack cheese, spicy mayo",
     "address": "5021 SE Powell Blvd",
-    "hours": "Every day, through August 17, 12 pm–2:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "DV8",
@@ -277,7 +784,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
     "description": "6oz Medium-Rare burger with Cheddar N' Onion Cheese, Chipotle-Q sauce, and Crispy Onion Strings on a Franz bakery bun",
     "address": "1845 NW 23rd Pl",
-    "hours": "Every day, through August 17, 11:30 am–8 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Farmer and the Beast",
@@ -287,7 +813,26 @@
     "burgerUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
     "description": "¼ lb patty, American cheese, bacon, zesty BBQ sauce, fried onion ring, lettuce , tomato, pickle, secret sauce",
     "address": "10131 NE Cascades Pkwy",
-    "hours": "Every day, through August 17, 10:30 am–8 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Fuller's Burger Shack",
@@ -297,7 +842,26 @@
     "burgerUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
     "description": "A fresh ground patty with slow-roasted tomatoes, sharp white cheddar, arugula, pickled onions, and lemon-pepper aioli, served on a warm pretzel bun. Vegetarian with veggie patty, omit cheese for vegan.",
     "address": "1935 SE Hawthorne Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Gift Bar",
@@ -307,7 +871,26 @@
     "burgerUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
     "description": "Bacon, honey chipotle BBQ sauce, sweet hot jalapeños, American cheese, fried onions",
     "address": "1403 SE Stark Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Grand Fir Brewing",
@@ -317,7 +900,26 @@
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1375 SE Hawthorne Boulevard",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Grassa",
@@ -327,7 +929,26 @@
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1506 NW 23rd Avenue",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Grassa",
@@ -337,7 +958,26 @@
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
     "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
     "address": "1205 SW Washington",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Grassa",
@@ -347,7 +987,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-diesel/e212090/",
     "description": "Charbroiled ¼ lb patty, Catalina spread, American cheese, lettuce, tomato, pickle, grilled garlic Texas toast, beef brisket sloppy joe, fontina-shishito pepper fondue, kaiser bun",
     "address": "301 W Sixth St",
-    "hours": "Every day, through August 17, 11 am–9:30 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Grays Restaurant and Bar",
@@ -357,7 +1016,26 @@
     "burgerUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
     "description": "1/4 lb Angus beef patties , fried fried onion rings , famous house black pepper sauce, lettuce , toasted potato bun",
     "address": "1015 SE Stark St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Hawker Station PDX",
@@ -367,7 +1045,20 @@
     "burgerUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
     "description": "Thick ground beef, lightly seasoned topped with our fresh hand-chopped chimichurri! An avocado and pineapple sauce, lettuce, and tomato.",
     "address": "1233 N Killingsworth",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3–10 pm",
+        "fullDate": "2025-08-16"
+      }
+    ]
   },
   {
     "restaurantName": "Haymaker",
@@ -377,7 +1068,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
     "description": "A 1/4 lb beef patty topped with savory sliced ham, melted provolone and cheddar cheeses, freshly sliced jalapeños, sweet mango chutney, and crisp lettuce on a toasted bun.",
     "address": "2944 SE Powell",
-    "hours": "Multiple dates through August 17, 11:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Hopworks Brewery",
@@ -387,7 +1097,26 @@
     "burgerUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
     "description": "An Adobo-seasoned burger with, grilled Adobo onions, grilled pineapple, Adobo mayo, and seasonal greens on a potato bun.",
     "address": "1434 SW Park Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Hunny Beez",
@@ -397,7 +1126,26 @@
     "burgerUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
     "description": "Wild boar/black Angus beef blend, topped with neon relish, tomato, sweet onion, sport peppers, yellow mustard, and celery salt on Portland French poppy seed brioche.",
     "address": "4057 N Mississippi",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Interurban",
@@ -407,7 +1155,26 @@
     "burgerUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
     "description": "Spicy Thai peanut sauce, grilled pineapple, pickled jalapeños, sautéed bell pepper & onion, fresh arugula, smashed Angus beef patty, melted provolone cheese, toasted pub bun. Chips included.",
     "address": "3700 SW Hall Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "John's Marketplace",
@@ -417,7 +1184,26 @@
     "burgerUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
     "description": "Perfectly seared 5oz beef patty, Philly steak, bacon, double provolone, brined red bell peppers, Killer House sauce, grilled onion, mayo between toasted buns.",
     "address": "510 SW 3rd",
-    "hours": "Every day, through August 17, 10:30 am–10 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Killer Burger",
@@ -427,7 +1213,26 @@
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212116/",
     "description": "Pork burger, bacon, brown butter peaches, dirty mustard, American cheese",
     "address": "1212 SE Hawthorne",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lardo",
@@ -437,7 +1242,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-rope/e212749/",
     "description": "Tillamook sharp cheddar-stuffed cheeseburger (Juicy Lucy), frizzled onions & jalapeños, BBQ sauce, mayo, lettuce & tomato on a toasted pub bun.",
     "address": "17238 SE Division",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lariat Lounge",
@@ -447,7 +1271,26 @@
     "burgerUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
     "description": "Two house-ground beef and pepperoni smash patties, brick cheese, garlic aioli, caramelized red onions and mushrooms with a dollop of our red sauce, all sandwiched between a slice of Detroit-style cheese pizza. Available with a pepperoni-spiced Impossible patty.",
     "address": "2326 N. Flint Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lazy Days Brewing",
@@ -457,7 +1300,26 @@
     "burgerUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
     "description": "1/4lb brisket and sirloin patty, pork belly burnt ends al pastor, smoked pineapple, cilantro, onion, achiote aioli",
     "address": "1625 NE Killingsworth Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lone Star Burger Bar",
@@ -467,7 +1329,26 @@
     "burgerUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
     "description": "Seasoned smashed patty with pico de gallo, pepper jack cheese, cilantro lime crema, and shredded lettuce, on a toasted brioche bun.",
     "address": "507 Columbia St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Loowit Brewing - Downtown Pub",
@@ -477,7 +1358,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
     "description": "A Filipino beef stew reduction sauce, made by our new neighbors at Sunrice, drizzled on a classic Lo’s Burger with pickled veg, served on a Dos Hermanos brioche bun",
     "address": "3944 N Williams Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–5 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lo's Burgers",
@@ -487,7 +1387,26 @@
     "burgerUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
     "description": "1/4lb beef patty smothered in house-made bourbon-peach jalapeño jam topped with smoked provolone and arugula on a brioche bun",
     "address": "710 SE 6th",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Loyal Legion",
@@ -497,7 +1416,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
     "description": "Pub bun, shredded lettuce, tomato, pickled & grilled jalapeños, cheddar cheese, 1/4lb grass-fed beef patty, house-made aioli featuring HAB heirloom tomato & Scotch bonnet hot sauce",
     "address": "633 SE Powell Blvd",
-    "hours": "Every day, through August 17, 11 am–2:30 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Lucky Devil Lounge",
@@ -507,7 +1445,26 @@
     "burgerUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
     "description": "Smashed meatball patty with Filipino spaghetti and shredded cheddar cheese in a garlic butter-toasted bun",
     "address": "1015 SE Stark Street",
-    "hours": "Every day, through August 17, 11:30 am–8 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Makulít",
@@ -517,7 +1474,26 @@
     "burgerUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
     "description": "Two 1/4lb all-beef patties, Spicy SmashSauce, bacon, jalapeño cream cheese, bun",
     "address": "4237 N Mississippi Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "MidCity SmashedBurger @ Prost! Marketplace",
@@ -527,7 +1503,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
     "description": "Spicy Italian sausage, pesto aioli, giardiniera relish, marinara sauce, Parmesan cheese and arugula!",
     "address": "2828 NE Glisan",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Migration Brewing Co.",
@@ -537,7 +1532,26 @@
     "burgerUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
     "description": "A spicy piece of Nicaragua in every bite: a smashed beef patty with American cheese, grilled Chilero (pickled onions and habanero), sweet fried plantain, and our house-made Mombacho sauce",
     "address": "3947 North Williams Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Migration Brewing & Papa's Frita",
@@ -547,7 +1561,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
     "description": "Lankan-spiced Impossible meatball patty, pineapple sambol, deviled sauce, parippu spread, chao cheese, vegenaise, manioc chips",
     "address": "2420 SE Belmont St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Mirisata",
@@ -557,7 +1590,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-godfather/e212385/",
     "description": "House-cured brown sugar pork belly on top of Tillamook cheddar cheese and a 100% Angus beef patty with shredded lettuce and our Mama Lil’s pepper aioli. Vegetarian option uses field roast patty and vegan bacon.",
     "address": "7995 SE Milwaukie",
-    "hours": "We are open at 9am for brunch Saturday and Sunday, but the burger will not be available until 1:30pm."
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "1:30–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "1:30 pm–11 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Moreland Ale House",
@@ -567,7 +1619,26 @@
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
     "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "4121 SE Hawthorne",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Next Level Burger",
@@ -577,7 +1648,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-jerk/e212121/",
     "description": "Painted Hills beef patties, house made Jamaican jerk sauce, pineapple, lettuce, onion",
     "address": "3746 SE Hawthorne Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Nick's Famous Coney Island",
@@ -587,7 +1677,26 @@
     "burgerUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
     "description": "1/4lb. Tri-Blend Beef (Brisket, Short-Rib, Chuck), Roasted Bone Marrow Infused Aioli, Thai Basil Dust, Pickled Onion and Bean Sprouts, Sliced Jalapenos, Swiss Cheese, Martin's Potato Sesame Bun.",
     "address": "524 NW 14th Avenue",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "1–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "1–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Nom Nom Wings",
@@ -597,7 +1706,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
     "description": "Brioche bun, onion sauce, smash burger patty, grilled onions, pepper jack cheese, shredded lettuce, crispy onions, horseradish mayo.",
     "address": "8103 N Denver Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Northport",
@@ -607,7 +1735,26 @@
     "burgerUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
     "description": "All-beef patty layered with a crisp red cabbage and jalapeño slaw tossed in a coriander-lime vinaigrette, finished with Kewpie mayo and a pinch of furikake on a toasted Martin’s bun.",
     "address": "100 NE Martin Luther King Jr Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Pacific Standard",
@@ -617,7 +1764,26 @@
     "burgerUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
     "description": "A juicy, well-seasoned pork and beef burger basted in beef tallow on a bed of minced red onion, then piled high with crisp shoestring potato sticks and served on a toasted Cuban bun slathered in our smokey Mojo Ketchup and garlicky Mojo Mustard. Add cheese $1 Add fried egg $2",
     "address": "2811 NE Glisan St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Pambiche",
@@ -627,7 +1793,26 @@
     "burgerUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
     "description": "6oz Angus beef patty, chipotle aioli, shredded lettuce, guac, grilled onions, sesame bun",
     "address": "611 NW 13th Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–12 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–12 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Papi Chulo's Taqueria",
@@ -637,7 +1822,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
     "description": "The medley: grilled mushrooms, corn, onions, potato, jalapeño, smashed patty with American cheese, bacon, mayo",
     "address": "1020 NW 17th",
-    "hours": "Every day, through August 17, 12:30 pm–2:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Paymaster Lounge",
@@ -647,7 +1851,26 @@
     "burgerUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
     "description": "Natural ground beef, brioche bun, whiskey bacon jam, Tillamook cheddar, lettuce, and tomato. Burger comes with fries.",
     "address": "515 SW Clay St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "PLS on Sixth",
@@ -657,7 +1880,26 @@
     "burgerUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
     "description": "Set sail on a flavor adventure with this juicy, 1/3lb all-beef patty topped with melty American cheese, crowned with Caribbean slaw and rum-caramelized onions. It's a tantalizing blend of smoky sweetness and tropical flair. Mesquite-smoked jalapeño aioli and crispy jalapeño straws add a crunchy (not too) spicy crescendo. Fire-roasted green chili drizzle and house sauce bring a richness to satisfy your craving for a taste of the islands. A burger that dares to be different & promises a voyage of",
     "address": "304 SW 2nd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Portland Burger",
@@ -667,7 +1909,26 @@
     "burgerUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
     "description": "1/3lb beef patty, smoked rajas (poblano pepper & onion), Oaxaca cheese, chipotle aioli, topped with avocado crema slaw.",
     "address": "8925 SE Jannsen, Building F",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "2–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Portland Cider Company",
@@ -677,7 +1938,26 @@
     "burgerUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
     "description": "3.5 oz smashed beef patty, American cheese, spicy pineapple jam (roasted jalapeño, roasted garlic, pineapple, and fresh cilantro), garlic aioli, toasted potato bun",
     "address": "3900 SW Orbit St Suite 120",
-    "hours": "Multiple dates through August 17, 11:30 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Prime Tap House: West End District",
@@ -687,7 +1967,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
     "description": "Candied jalapeños, spicy pepper aioli, American cheese, fried onions on a toasted brioche bun",
     "address": "7712 SE 13th",
-    "hours": "Every day, through August 17, 11:30 am–9 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Reverend's BBQ",
@@ -697,7 +1996,26 @@
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212231/",
     "description": "Two beef patties, American cheese, River Pig sauce, shredded lettuce, pickles.",
     "address": "529 NW 13th",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "River Pig Saloon",
@@ -707,7 +2025,26 @@
     "burgerUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
     "description": "Two local beef patties from Fulton Provision Co., pepper bacon, sharp cheddar, pepper jack, and garlic aioli on an egg-wash brioche bun from Dos Hermanos Bakery.",
     "address": "832 N Killingsworth Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Sad Valley",
@@ -717,7 +2054,26 @@
     "burgerUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
     "description": "Island curry burger with mint chutney, aioli, lettuce and tomato",
     "address": "1523 SW Sunset Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Salvador Molly's",
@@ -727,7 +2083,26 @@
     "burgerUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
     "description": "House ground beef, LM bacon, fried mozzarella drizzled in hot honey, summer tomatoes, lettuce, basil pesto mayo on a soft bun",
     "address": "10505 NE Sandy Blvd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Sandy-O's",
@@ -737,7 +2112,26 @@
     "burgerUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
     "description": "Panko-breaded 5oz patty, Kewpie mayo, tonkatsu sauce, red cabbage, green cabbage, pickles, cheddar on a brioche bun",
     "address": "2110 NW Raleigh St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Solo Club",
@@ -747,7 +2141,26 @@
     "burgerUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
     "description": "Our famous smash with crispy deep-fried pickle chips, a juicy layer of our classic house pickles, dripping in pickle ranch.",
     "address": "1015 SE Stark St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Speed-o Cappuccino",
@@ -757,7 +2170,26 @@
     "burgerUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
     "description": "1/4lb beef patty, wild mushroom duxelle, crispy fried onions, provolone, truffle aioli, Grand Central potato roll",
     "address": "375 NE Holladay St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Spoke & Fork",
@@ -767,7 +2199,20 @@
     "burgerUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
     "description": "Angus burger topped with Laughing Cow cheese, red onions, spinach, ketchup and mustard on a sweet bun.",
     "address": "5835 SE Powell",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      }
+    ]
   },
   {
     "restaurantName": "Steakadelphia",
@@ -777,7 +2222,26 @@
     "burgerUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
     "description": "Peahini, hoisin sauce, sambal aioli, arugula, herb mix, beef patty, on a brioche roll",
     "address": "2400 NE Broadway",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Steeplejack Brewing Co.",
@@ -787,7 +2251,26 @@
     "burgerUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
     "description": "Beef, bacon, blue cheese, buffalo sauce, fried onion, strings, lettuce, and pickle Stoopid sauce",
     "address": "2039 Lloyd Center",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Stoopid Burger",
@@ -797,7 +2280,26 @@
     "burgerUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
     "description": "All-beef patty, eggs, cheese, bacon, avocado, and chipotle aioli on a toasted potato bun.",
     "address": "5000 SE Powell",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "SuperDeluxe",
@@ -807,7 +2309,26 @@
     "burgerUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
     "description": "House-made soft pretzel bun, all-beef Angus patty, topped with thick-cut bacon in cheese sauce.",
     "address": "2824 N Lombard St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Sweet Home Bar & Grill",
@@ -817,7 +2338,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
     "description": "Beef patty, pickle dip, heirloom tomato, provolone, garlic aioli, fried pickles",
     "address": "3000 NE Killingsworth Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Take Two",
@@ -827,7 +2367,26 @@
     "burgerUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
     "description": "1/3 lb wagyu beef chargrilled with green chilies, Manchego cheese, avocado and tomato smash, with chipotle aioli",
     "address": "808 SW Taylor Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9 am–2 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Taylor Street Tavern",
@@ -837,7 +2396,26 @@
     "burgerUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
     "description": "A bold fusion of Korean flavor and street-style heat. Featuring a juicy bulgogi-marinated patty, crisp iceberg lettuce, ginger sesame slaw, sriracha mayo, and molten red chili queso— sweet, spicy, and unapologetically crave-worthy.",
     "address": "727 SE Washington Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Chinese Cowboy",
@@ -847,7 +2425,26 @@
     "burgerUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
     "description": "Savory sautéed mushrooms, garlic, and onions grilled to perfection on top of our locally sourced beef patty, with melty Swiss cheese, and a lemon & dill aioli(v). Served on a Grand Central bun with spring mix and tomato. Substitute our house-made veggie patty for a vegetarian option, and omit the cheese for a vegan version. NOTE: As of lunchtime on 8/13 gluten free buns are sold out. More should be available 8/14.",
     "address": "1810 NW Glisan",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Hostel Cafe",
@@ -857,7 +2454,26 @@
     "burgerUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
     "description": "Fresh ground beef patty with pepper jack cheese, an Anaheim chili pepper stuffed with a pepper blend cheese, with a tomato pico de gallo sauce on a brioche bun.",
     "address": "10598 SE 32nd Ave",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Office Bar",
@@ -867,7 +2483,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
     "description": "1/3 pound beef patty, spiced pickled Pink Lady apples, blueberry-basil preserves, chevre and arugula on an artisan brioche bun.",
     "address": "4765 NE Fremont St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Paladins League",
@@ -877,7 +2512,26 @@
     "burgerUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
     "description": "Fennel Tamari Patty Au Gratin Potatoes Cheesy Sauce Mixed Greens On a Homemade Bun",
     "address": "7201 NE Glisan",
-    "hours": "Multiple dates through August 17, 11:15 am"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:15 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:15 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:15 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Secret Pizza Society",
@@ -887,7 +2541,26 @@
     "burgerUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
     "description": "4oz burger patty topped with spicy pepperoni and caramelized onion relish, pesto aioli, arugula, and provolone cheese on a ciabatta roll",
     "address": "550 SW Oak St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Social Spoon",
@@ -897,7 +2570,26 @@
     "burgerUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
     "description": "Beer-battered onion ring, oven-dried tomato jam, house steak sauce, gouda on an English muffin",
     "address": "1001 SW Broadway",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "The Tavern at Heathman",
@@ -907,7 +2599,26 @@
     "burgerUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
     "description": "Toasted pub bun, roasted garlic aioli, hand-formed 6oz beef patty, topped with cheese curds, shoestring fries, and house-made Poutine gravy, garnished with green onion.",
     "address": "18041 SW Lower Boones Ferry Road #1B",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Three Mermaids Public House",
@@ -917,7 +2628,26 @@
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
     "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "508 SW Taylor St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Veggie Grill by Next Level",
@@ -927,7 +2657,26 @@
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
     "description": "Quarter pound beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
     "address": "3435 SW Cedar Hills Blvd D",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Veggie Grill - Cedar Hills Crossing",
@@ -937,7 +2686,26 @@
     "burgerUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
     "description": "Bun, single smash patty, peppers, onions, mushrooms, smothered in Clubhaus beer cheese",
     "address": "14021 NE Glisan St",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Von Ebert Brewing Glendoveer + Kitchen",
@@ -947,7 +2715,26 @@
     "burgerUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
     "description": "Smash patty, applewood smoked bacon, swiss cheese, tomato, mayo, ketchup on toasted sourdough, served with an egg roll, homemade sweet and sour sauce with a sprinkle of magik.",
     "address": "304 SE 2nd",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Wayfinder Beer",
@@ -957,7 +2744,26 @@
     "burgerUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
     "description": "Steak trim 100% beef patty, blue cheese spread, iceberg shred, natural bacon, golden crispy onions, Bingo sauce",
     "address": "1305 SE 8th",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "White Owl Social Club",
@@ -967,7 +2773,26 @@
     "burgerUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
     "description": "Midwest beer cheese spread, maple-bacon-pretzel chili crisp",
     "address": "80 SE Madison Street Suite 100",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Wolf's Head Portland",
@@ -977,7 +2802,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
     "description": "Fresh ground brisket patties stuffed with sweet pepper cream cheese, rubbed n' rolled in mustard and black pepper. Cold-smoked, then griddle seared, slathered in jalapeño jelly and cowboy crack, with a bed of crispy fried onions, all on a Dos Hermanos pub bun. For an additional $10 we'll slap a slab of succulent, smoky brisket on there, too, making it a burgourmand's delight.",
     "address": "1027 NE Alberta Street",
-    "hours": ""
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Wonderboy's Smokestack",
@@ -987,7 +2831,26 @@
     "burgerUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
     "description": "Za'atar-spice beef patty, tomato, iceberg lettuce, cucumber, honeyed labneh, brioche bun.",
     "address": "830 NW Everett St",
-    "hours": "Every day, through August 17, 10 am–7:30 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "World Foods",
@@ -997,7 +2860,26 @@
     "burgerUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
     "description": "Kalbi smash burger patty with 100-year-old Korean BBQ recipe, melted Tillamook cheese, toasted brioche bun, gochugaru aioli and garlic aioli spread, grilled kimchi and pickles. Available vegetarian with a sweet and tangy seasoned tofu patty!",
     "address": "9100 SW Burnham st",
-    "hours": "Every day, through August 17, 11 am–7:30 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   },
   {
     "restaurantName": "Wow Cow",
@@ -1007,6 +2889,25 @@
     "burgerUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
     "description": "Beef patty, falafel spices, roasted pepper hummus, yogurt-tahini sauce, iceberg lettuce, tomato, cucumber pickles, brioche bun.",
     "address": "8005 SE Stark St",
-    "hours": "Every day, through August 17, 11:30 am–9 pm"
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ]
   }
 ]
