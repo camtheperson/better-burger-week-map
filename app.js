@@ -380,10 +380,6 @@ class BurgerWeekMap {
         const geocodedCount = this.filteredData.filter(r => r.latitude && r.longitude).length;
         
         totalElement.textContent = `${this.filteredData.length}`;
-        
-        if (geocodedCount < this.filteredData.length) {
-            totalElement.textContent += ` (${geocodedCount} mapped)`;
-        }
     }
 
     showError(message) {

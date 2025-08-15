@@ -1,7 +1,7 @@
 [
   {
     "restaurantName": "Abigail Hall",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "\"Chili\" Cheese Fry Burger",
     "eventUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
     "burgerUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
@@ -34,7 +34,7 @@
   },
   {
     "restaurantName": "Aji Tram Restaurant and Bar",
-    "neighborhood": "Southwest Portland",
+    "neighborhood": "Lake Oswego",
     "burgerName": "The Peter Piper Peck of Peppers",
     "eventUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
     "burgerUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
@@ -67,7 +67,7 @@
   },
   {
     "restaurantName": "Ate Oh Ate",
-    "neighborhood": "Portland",
+    "neighborhood": "Southeast Portland",
     "burgerName": "The North Shore Burger",
     "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
@@ -100,7 +100,7 @@
   },
   {
     "restaurantName": "Ate Oh Ate",
-    "neighborhood": "Portland",
+    "neighborhood": "Southeast Portland",
     "burgerName": "The North Shore Burger",
     "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
@@ -133,7 +133,7 @@
   },
   {
     "restaurantName": "Ate-Oh-Ate",
-    "neighborhood": "Southeast Portland",
+    "neighborhood": "Beaverton",
     "burgerName": "The North Shore Burger",
     "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
     "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
@@ -162,7 +162,7 @@
   },
   {
     "restaurantName": "Bacchus Bar",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "No Reservations Burger",
     "eventUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
     "burgerUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
@@ -195,7 +195,7 @@
   },
   {
     "restaurantName": "Barbur World Foods",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "The Spanakoburger",
     "eventUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
     "burgerUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
@@ -228,7 +228,7 @@
   },
   {
     "restaurantName": "Besaw's",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Always Sunny at Besaw's",
     "eventUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
     "burgerUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
@@ -261,7 +261,7 @@
   },
   {
     "restaurantName": "Beulahland",
-    "neighborhood": "Portland",
+    "neighborhood": "Kerns",
     "burgerName": "Beulahful Buffalo Blue Cheese Burger",
     "eventUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
     "burgerUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
@@ -294,7 +294,7 @@
   },
   {
     "restaurantName": "Big's Chicken",
-    "neighborhood": "Portland",
+    "neighborhood": "North Tabor",
     "burgerName": "Country Fried Burger",
     "eventUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
     "burgerUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
@@ -327,7 +327,7 @@
   },
   {
     "restaurantName": "Binary Brewing",
-    "neighborhood": "North Tabor",
+    "neighborhood": "Central Beaverton",
     "burgerName": "Teriyakimoto’s Smash’d Lemongrass Burger",
     "eventUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
     "burgerUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
@@ -360,7 +360,7 @@
   },
   {
     "restaurantName": "Boke Bowl",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Boke Double Crunch Burger",
     "eventUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
     "burgerUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
@@ -393,7 +393,7 @@
   },
   {
     "restaurantName": "Botto’s BBQ",
-    "neighborhood": "div>",
+    "neighborhood": "Southeast Portland",
     "burgerName": "Basque Burger",
     "eventUrl": "https://everout.com/portland/events/basque-burger/e212133/",
     "burgerUrl": "https://everout.com/portland/events/basque-burger/e212133/",
@@ -426,7 +426,7 @@
   },
   {
     "restaurantName": "Breakside Brewery - Dekum",
-    "neighborhood": "Portland",
+    "neighborhood": "Woodlawn",
     "burgerName": "🌶️Livin’ La Enchilada Loca",
     "eventUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
     "burgerUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
@@ -459,7 +459,7 @@
   },
   {
     "restaurantName": "Breakside Brewery - Slabtown",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Braised and Confused",
     "eventUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
     "burgerUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
@@ -492,7 +492,7 @@
   },
   {
     "restaurantName": "Brix Tavern",
-    "neighborhood": "Portland",
+    "neighborhood": "Pearl District",
     "burgerName": "Pacific Crunch Burger",
     "eventUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
     "burgerUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
@@ -525,7 +525,7 @@
   },
   {
     "restaurantName": "Bunk Bar",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Green Chili Chorizo Juicy Lucy",
     "eventUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
     "burgerUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
@@ -558,7 +558,7 @@
   },
   {
     "restaurantName": "Carina Lounge",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "The Goat Yoga Burger",
     "eventUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
     "burgerUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
@@ -591,7 +591,7 @@
   },
   {
     "restaurantName": "Clarklewis",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Mediterranean Vibes",
     "eventUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
     "burgerUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
@@ -624,7 +624,7 @@
   },
   {
     "restaurantName": "Creepy's",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "The Big Top Burger",
     "eventUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
     "burgerUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
@@ -657,7 +657,7 @@
   },
   {
     "restaurantName": "Daily Planet",
-    "neighborhood": "div>",
+    "neighborhood": "Powellhurst-Gilbert",
     "burgerName": "The Metropolis Melt",
     "eventUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
     "burgerUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
@@ -690,7 +690,7 @@
   },
   {
     "restaurantName": "Deadshot",
-    "neighborhood": "Portland",
+    "neighborhood": "Hosford-Abernethy",
     "burgerName": "Sauce Burger",
     "eventUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
     "burgerUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
@@ -717,7 +717,7 @@
   },
   {
     "restaurantName": "Deschutes Brewery & Public House",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Elote Burger",
     "eventUrl": "https://everout.com/portland/events/elote-burger/e212132/",
     "burgerUrl": "https://everout.com/portland/events/elote-burger/e212132/",
@@ -750,7 +750,7 @@
   },
   {
     "restaurantName": "Dea's In & Out",
-    "neighborhood": "Hosford-Abernethy",
+    "neighborhood": "Gresham",
     "burgerName": "Aloha-Loa Burger",
     "eventUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
     "burgerUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
@@ -783,7 +783,7 @@
   },
   {
     "restaurantName": "Dimo's Italian Specialties",
-    "neighborhood": "Northwest Portland",
+    "neighborhood": "Kerns",
     "burgerName": "Fonduta Burger",
     "eventUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
     "burgerUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
@@ -816,7 +816,7 @@
   },
   {
     "restaurantName": "Duke's Public House",
-    "neighborhood": "Kerns",
+    "neighborhood": "Lake Oswego",
     "burgerName": "Simply Irresistible",
     "eventUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
     "burgerUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
@@ -849,7 +849,7 @@
   },
   {
     "restaurantName": "DV8",
-    "neighborhood": "Portland",
+    "neighborhood": "Richmond",
     "burgerName": "The VIP Smash Burger",
     "eventUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
     "burgerUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
@@ -882,7 +882,7 @@
   },
   {
     "restaurantName": "Farmer and the Beast",
-    "neighborhood": "Portland",
+    "neighborhood": "Nob Hill",
     "burgerName": "The Beast and Cheddar",
     "eventUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
     "burgerUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
@@ -915,7 +915,7 @@
   },
   {
     "restaurantName": "Fuller's Burger Shack",
-    "neighborhood": "Portland",
+    "neighborhood": "Northeast Portland",
     "burgerName": "Backyard BBQ Burger",
     "eventUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
     "burgerUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
@@ -948,7 +948,7 @@
   },
   {
     "restaurantName": "Gift Bar",
-    "neighborhood": "div>",
+    "neighborhood": "Hawthorne District",
     "burgerName": "Flamingo Doom",
     "eventUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
     "burgerUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
@@ -981,7 +981,7 @@
   },
   {
     "restaurantName": "Grand Fir Brewing",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Western Bacon FirBurger",
     "eventUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
     "burgerUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
@@ -1014,7 +1014,7 @@
   },
   {
     "restaurantName": "Grassa",
-    "neighborhood": "div>",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Meatball Burger",
     "eventUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
@@ -1047,7 +1047,7 @@
   },
   {
     "restaurantName": "Grassa",
-    "neighborhood": "div>",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Meatball Burger",
     "eventUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
@@ -1080,7 +1080,7 @@
   },
   {
     "restaurantName": "Grassa",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Meatball Burger",
     "eventUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
     "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
@@ -1113,7 +1113,7 @@
   },
   {
     "restaurantName": "Grays Restaurant and Bar",
-    "neighborhood": "Southwest Portland",
+    "neighborhood": "Vancouver",
     "burgerName": "The Diesel",
     "eventUrl": "https://everout.com/portland/events/the-diesel/e212090/",
     "burgerUrl": "https://everout.com/portland/events/the-diesel/e212090/",
@@ -1146,7 +1146,7 @@
   },
   {
     "restaurantName": "Hawker Station PDX",
-    "neighborhood": "div>",
+    "neighborhood": "Buckman",
     "burgerName": "Eastern Black Pepper Burger",
     "eventUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
     "burgerUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
@@ -1179,7 +1179,7 @@
   },
   {
     "restaurantName": "Haymaker",
-    "neighborhood": "Portland",
+    "neighborhood": "Overlook",
     "burgerName": "Argentinian Steakhouse Burger",
     "eventUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
     "burgerUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
@@ -1206,7 +1206,7 @@
   },
   {
     "restaurantName": "Hopworks Brewery",
-    "neighborhood": "Portland",
+    "neighborhood": "Creston - Kenilworth",
     "burgerName": "The Heatwave",
     "eventUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
     "burgerUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
@@ -1239,7 +1239,7 @@
   },
   {
     "restaurantName": "Hunny Beez",
-    "neighborhood": "Portland",
+    "neighborhood": "Portland Downtown",
     "burgerName": "Adobo Burger",
     "eventUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
     "burgerUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
@@ -1272,7 +1272,7 @@
   },
   {
     "restaurantName": "Interurban",
-    "neighborhood": "Portland",
+    "neighborhood": "North Portland",
     "burgerName": "\"Chicago Dog\" Boar Burger",
     "eventUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
     "burgerUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
@@ -1305,7 +1305,7 @@
   },
   {
     "restaurantName": "John's Marketplace",
-    "neighborhood": "North Portland",
+    "neighborhood": "Beaverton",
     "burgerName": "Beaverton Bangkok Smash",
     "eventUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
     "burgerUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
@@ -1338,7 +1338,7 @@
   },
   {
     "restaurantName": "Killer Burger",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Philly Supreme",
     "eventUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
     "burgerUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
@@ -1371,7 +1371,7 @@
   },
   {
     "restaurantName": "Lardo",
-    "neighborhood": "Portland",
+    "neighborhood": "Ladd's Addition",
     "burgerName": "Pig Mac",
     "eventUrl": "https://everout.com/portland/events/pig-mac/e212116/",
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212116/",
@@ -1404,7 +1404,7 @@
   },
   {
     "restaurantName": "Lariat Lounge",
-    "neighborhood": "div>",
+    "neighborhood": "Southeast Portland",
     "burgerName": "The Rope",
     "eventUrl": "https://everout.com/portland/events/the-rope/e212749/",
     "burgerUrl": "https://everout.com/portland/events/the-rope/e212749/",
@@ -1437,7 +1437,7 @@
   },
   {
     "restaurantName": "Lazy Days Brewing",
-    "neighborhood": "div>",
+    "neighborhood": "Eliot",
     "burgerName": "Brick Cheese Breakdown",
     "eventUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
     "burgerUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
@@ -1470,7 +1470,7 @@
   },
   {
     "restaurantName": "Lone Star Burger Bar",
-    "neighborhood": "Portland",
+    "neighborhood": "Vernon",
     "burgerName": "Hamburguesa al Pastor",
     "eventUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
     "burgerUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
@@ -1503,7 +1503,7 @@
   },
   {
     "restaurantName": "Loyal Legion",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Peachy Keen Burger",
     "eventUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
     "burgerUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
@@ -1536,7 +1536,7 @@
   },
   {
     "restaurantName": "Loowit Brewing - Downtown Pub",
-    "neighborhood": "Vernon",
+    "neighborhood": "Esther Short",
     "burgerName": "Pinche Smash Burger",
     "eventUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
     "burgerUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
@@ -1569,7 +1569,7 @@
   },
   {
     "restaurantName": "Lo's Burgers",
-    "neighborhood": "div>",
+    "neighborhood": "Boise",
     "burgerName": "The Kaldereta",
     "eventUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
     "burgerUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
@@ -1602,7 +1602,7 @@
   },
   {
     "restaurantName": "Lucky Devil Lounge",
-    "neighborhood": "Portland",
+    "neighborhood": "Hosford-Abernethy",
     "burgerName": "The Bad HABit Burger",
     "eventUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
     "burgerUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
@@ -1635,7 +1635,7 @@
   },
   {
     "restaurantName": "Makulít",
-    "neighborhood": "Hosford-Abernethy",
+    "neighborhood": "Buckman",
     "burgerName": "Spaghetti Western",
     "eventUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
     "burgerUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
@@ -1668,7 +1668,7 @@
   },
   {
     "restaurantName": "MidCity SmashedBurger @ Prost! Marketplace",
-    "neighborhood": "Portland",
+    "neighborhood": "Boise",
     "burgerName": "Jalapeño Popper Burger",
     "eventUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
     "burgerUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
@@ -1701,7 +1701,7 @@
   },
   {
     "restaurantName": "Migration Brewing Co.",
-    "neighborhood": "Portland",
+    "neighborhood": "Kerns",
     "burgerName": "The Don of Burgers",
     "eventUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
     "burgerUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
@@ -1734,7 +1734,7 @@
   },
   {
     "restaurantName": "Mirisata",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "The Island Burger",
     "eventUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
     "burgerUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
@@ -1767,7 +1767,7 @@
   },
   {
     "restaurantName": "Migration Brewing & Papa's Frita",
-    "neighborhood": "Portland",
+    "neighborhood": "Boise",
     "burgerName": "Chilero Duro",
     "eventUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
     "burgerUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
@@ -1800,7 +1800,7 @@
   },
   {
     "restaurantName": "Moreland Ale House",
-    "neighborhood": "Portland",
+    "neighborhood": "Southeast Portland",
     "burgerName": "The Godfather",
     "eventUrl": "https://everout.com/portland/events/the-godfather/e212385/",
     "burgerUrl": "https://everout.com/portland/events/the-godfather/e212385/",
@@ -1833,7 +1833,7 @@
   },
   {
     "restaurantName": "Next Level Burger",
-    "neighborhood": "Portland",
+    "neighborhood": "Sunnyside",
     "burgerName": "Smoky Mountain BBQ Burger",
     "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
@@ -1866,7 +1866,7 @@
   },
   {
     "restaurantName": "Nick's Famous Coney Island",
-    "neighborhood": "Portland",
+    "neighborhood": "Richmond",
     "burgerName": "The Jerk",
     "eventUrl": "https://everout.com/portland/events/the-jerk/e212121/",
     "burgerUrl": "https://everout.com/portland/events/the-jerk/e212121/",
@@ -1899,7 +1899,7 @@
   },
   {
     "restaurantName": "Nom Nom Wings",
-    "neighborhood": "Portland",
+    "neighborhood": "Pearl District",
     "burgerName": "Đặc Biệt Burger",
     "eventUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
     "burgerUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
@@ -1932,7 +1932,7 @@
   },
   {
     "restaurantName": "Northport",
-    "neighborhood": "div>",
+    "neighborhood": "Kenton",
     "burgerName": "The Kiss Me Away",
     "eventUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
     "burgerUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
@@ -1965,7 +1965,7 @@
   },
   {
     "restaurantName": "Pacific Standard",
-    "neighborhood": "div>",
+    "neighborhood": "Kerns",
     "burgerName": "Get Slaw-tered",
     "eventUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
     "burgerUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
@@ -1998,7 +1998,7 @@
   },
   {
     "restaurantName": "Pambiche",
-    "neighborhood": "Portland",
+    "neighborhood": "Kerns",
     "burgerName": "Frita Cubana",
     "eventUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
     "burgerUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
@@ -2031,7 +2031,7 @@
   },
   {
     "restaurantName": "Papi Chulo's Taqueria",
-    "neighborhood": "Portland",
+    "neighborhood": "Pearl District",
     "burgerName": "Choriqueso Burger",
     "eventUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
     "burgerUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
@@ -2064,7 +2064,7 @@
   },
   {
     "restaurantName": "Paymaster Lounge",
-    "neighborhood": "Pearl District",
+    "neighborhood": "Northwest Portland",
     "burgerName": "The Veggie Medley Hash Burger",
     "eventUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
     "burgerUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
@@ -2097,7 +2097,7 @@
   },
   {
     "restaurantName": "PLS on Sixth",
-    "neighborhood": "Portland",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Jam Session Smashburger",
     "eventUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
     "burgerUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
@@ -2130,7 +2130,7 @@
   },
   {
     "restaurantName": "Portland Burger",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Pirates of the Caribbean",
     "eventUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
     "burgerUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
@@ -2163,7 +2163,7 @@
   },
   {
     "restaurantName": "Portland Cider Company",
-    "neighborhood": "Southwest Portland",
+    "neighborhood": "Clackamas",
     "burgerName": "Rajas Burger",
     "eventUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
     "burgerUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
@@ -2196,7 +2196,7 @@
   },
   {
     "restaurantName": "Prime Tap House: West End District",
-    "neighborhood": "Clackamas",
+    "neighborhood": "Beaverton",
     "burgerName": "Spicy Pineapple Jam Smash Burger",
     "eventUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
     "burgerUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
@@ -2229,7 +2229,7 @@
   },
   {
     "restaurantName": "Reverend's BBQ",
-    "neighborhood": "Portland",
+    "neighborhood": "Southeast Portland",
     "burgerName": "The Holler Pain Ya Burger",
     "eventUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
     "burgerUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
@@ -2262,7 +2262,7 @@
   },
   {
     "restaurantName": "River Pig Saloon",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Pig Mac",
     "eventUrl": "https://everout.com/portland/events/pig-mac/e212231/",
     "burgerUrl": "https://everout.com/portland/events/pig-mac/e212231/",
@@ -2295,7 +2295,7 @@
   },
   {
     "restaurantName": "Sad Valley",
-    "neighborhood": "Portland",
+    "neighborhood": "Humboldt",
     "burgerName": "Homecoming Queen",
     "eventUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
     "burgerUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
@@ -2328,7 +2328,7 @@
   },
   {
     "restaurantName": "Salvador Molly's",
-    "neighborhood": "Portland",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Tiki Tango",
     "eventUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
     "burgerUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
@@ -2361,7 +2361,7 @@
   },
   {
     "restaurantName": "Sandy-O's",
-    "neighborhood": "Portland",
+    "neighborhood": "Parkrose Heights",
     "burgerName": "BLT Burger Gone Wild",
     "eventUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
     "burgerUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
@@ -2394,7 +2394,7 @@
   },
   {
     "restaurantName": "Solo Club",
-    "neighborhood": "Parkrose Heights",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Katsu Got Your Tongue",
     "eventUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
     "burgerUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
@@ -2427,7 +2427,7 @@
   },
   {
     "restaurantName": "Speed-o Cappuccino",
-    "neighborhood": "Portland",
+    "neighborhood": "Central Eastside",
     "burgerName": "Tickle My Pickle",
     "eventUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
     "burgerUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
@@ -2460,7 +2460,7 @@
   },
   {
     "restaurantName": "Spoke & Fork",
-    "neighborhood": "div>",
+    "neighborhood": "Lloyd District",
     "burgerName": "Bridgetown BBQ Duxelle & Truffle Burger",
     "eventUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
     "burgerUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
@@ -2493,7 +2493,7 @@
   },
   {
     "restaurantName": "Steakadelphia",
-    "neighborhood": "Portland",
+    "neighborhood": "South Tabor",
     "burgerName": "Laughing Burger",
     "eventUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
     "burgerUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
@@ -2520,7 +2520,7 @@
   },
   {
     "restaurantName": "Steeplejack Brewing Co.",
-    "neighborhood": "Portland",
+    "neighborhood": "Sullivan's Gulch",
     "burgerName": "Burgs Phở Life",
     "eventUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
     "burgerUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
@@ -2553,7 +2553,7 @@
   },
   {
     "restaurantName": "Stoopid Burger",
-    "neighborhood": "Portland",
+    "neighborhood": "Lloyd District",
     "burgerName": "Kooky Burger",
     "eventUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
     "burgerUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
@@ -2586,7 +2586,7 @@
   },
   {
     "restaurantName": "SuperDeluxe",
-    "neighborhood": "Portland",
+    "neighborhood": "Richmond",
     "burgerName": "Brunch Burger",
     "eventUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
     "burgerUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
@@ -2619,7 +2619,7 @@
   },
   {
     "restaurantName": "Sweet Home Bar & Grill",
-    "neighborhood": "div>",
+    "neighborhood": "North Portland",
     "burgerName": "Pretzel Bacon Cheddar Burger",
     "eventUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
     "burgerUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
@@ -2652,7 +2652,7 @@
   },
   {
     "restaurantName": "Take Two",
-    "neighborhood": "Portland",
+    "neighborhood": "Concordia",
     "burgerName": "The Messy Pickle",
     "eventUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
     "burgerUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
@@ -2685,7 +2685,7 @@
   },
   {
     "restaurantName": "Taylor Street Tavern",
-    "neighborhood": "Portland",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Chorizo Con Queso Burger",
     "eventUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
     "burgerUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
@@ -2718,7 +2718,7 @@
   },
   {
     "restaurantName": "The Chinese Cowboy",
-    "neighborhood": "Portland",
+    "neighborhood": "Buckman",
     "burgerName": "Seoul Fire Burger",
     "eventUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
     "burgerUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
@@ -2751,7 +2751,7 @@
   },
   {
     "restaurantName": "The Hostel Cafe",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "Rose City Shroom",
     "eventUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
     "burgerUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
@@ -2784,7 +2784,7 @@
   },
   {
     "restaurantName": "The Office Bar",
-    "neighborhood": "Northwest Portland",
+    "neighborhood": "Milwaukie",
     "burgerName": "Chilli Relleno Burger",
     "eventUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
     "burgerUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
@@ -2817,7 +2817,7 @@
   },
   {
     "restaurantName": "The Paladins League",
-    "neighborhood": "Portland",
+    "neighborhood": "Northeast Portland",
     "burgerName": "The Inspiration Point",
     "eventUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
     "burgerUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
@@ -2850,7 +2850,7 @@
   },
   {
     "restaurantName": "The Secret Pizza Society",
-    "neighborhood": "Portland",
+    "neighborhood": "Montavilla",
     "burgerName": "Cassian And/or Burger",
     "eventUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
     "burgerUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
@@ -2883,7 +2883,7 @@
   },
   {
     "restaurantName": "The Social Spoon",
-    "neighborhood": "div>",
+    "neighborhood": "Downtown Portland",
     "burgerName": "Ciabatta-Bing!",
     "eventUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
     "burgerUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
@@ -2916,7 +2916,7 @@
   },
   {
     "restaurantName": "The Tavern at Heathman",
-    "neighborhood": "Portland",
+    "neighborhood": "Portland Downtown",
     "burgerName": "Uncle Andy's Diabolical Burger",
     "eventUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
     "burgerUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
@@ -2949,7 +2949,7 @@
   },
   {
     "restaurantName": "Three Mermaids Public House",
-    "neighborhood": "Portland Downtown",
+    "neighborhood": "Tigard",
     "burgerName": "Pout-It-In-Your-Mouth Burger",
     "eventUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
     "burgerUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
@@ -2982,7 +2982,7 @@
   },
   {
     "restaurantName": "Veggie Grill by Next Level",
-    "neighborhood": "Tigard",
+    "neighborhood": "Southwest Portland",
     "burgerName": "Smoky Mountain BBQ Burger",
     "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
@@ -3015,7 +3015,7 @@
   },
   {
     "restaurantName": "Von Ebert Brewing Glendoveer + Kitchen",
-    "neighborhood": "Portland",
+    "neighborhood": "Hazelwood",
     "burgerName": "Beer Cheese Philly Smash",
     "eventUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
     "burgerUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
@@ -3048,7 +3048,7 @@
   },
   {
     "restaurantName": "Veggie Grill - Cedar Hills Crossing",
-    "neighborhood": "Southwest Portland",
+    "neighborhood": "Central Beaverton",
     "burgerName": "Smoky Mountain BBQ Burger",
     "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
     "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
@@ -3081,7 +3081,7 @@
   },
   {
     "restaurantName": "Wayfinder Beer",
-    "neighborhood": "div>",
+    "neighborhood": "Buckman",
     "burgerName": "Sourdough jacked",
     "eventUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
     "burgerUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
@@ -3114,7 +3114,7 @@
   },
   {
     "restaurantName": "White Owl Social Club",
-    "neighborhood": "div>",
+    "neighborhood": "Buckman",
     "burgerName": "Bingo Burger",
     "eventUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
     "burgerUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
@@ -3147,7 +3147,7 @@
   },
   {
     "restaurantName": "Wolf's Head Portland",
-    "neighborhood": "Portland",
+    "neighborhood": "Central Eastside",
     "burgerName": "Midwest Beer Cheese Burger",
     "eventUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
     "burgerUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
@@ -3180,7 +3180,7 @@
   },
   {
     "restaurantName": "Wonderboy's Smokestack",
-    "neighborhood": "Portland",
+    "neighborhood": "King",
     "burgerName": "The Sloppy Papí",
     "eventUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
     "burgerUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
@@ -3213,7 +3213,7 @@
   },
   {
     "restaurantName": "World Foods",
-    "neighborhood": "Portland",
+    "neighborhood": "Northwest Portland",
     "burgerName": "The Souk Stack Burger",
     "eventUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
     "burgerUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
@@ -3246,7 +3246,7 @@
   },
   {
     "restaurantName": "Wow Cow",
-    "neighborhood": "Northwest Portland",
+    "neighborhood": "Tigard",
     "burgerName": "KOREAN HULK— Kalbi smash burger",
     "eventUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
     "burgerUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
@@ -3279,7 +3279,7 @@
   },
   {
     "restaurantName": "Ya Hala",
-    "neighborhood": "Portland",
+    "neighborhood": "Montavilla",
     "burgerName": "Falafel-Flavored Beef Burger",
     "eventUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
     "burgerUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
