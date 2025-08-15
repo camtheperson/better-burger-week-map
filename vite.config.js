@@ -2,6 +2,7 @@ import { defineConfig } from 'vite'
 
 export default defineConfig({
   root: '.',
+  base: '/better-burger-week-map/',
   publicDir: 'public',
   build: {
     outDir: 'dist',
