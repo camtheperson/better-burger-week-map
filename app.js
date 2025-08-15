@@ -95,16 +95,6 @@ class BurgerWeekMap {
             this.filterData();
         });
 
-        // Show with coordinates filter
-        document.getElementById('showWithCoordinates').addEventListener('change', () => {
-            this.filterData();
-        });
-
-        // Show open now filter
-        document.getElementById('showOpenNow').addEventListener('change', () => {
-            this.filterData();
-        });
-
         // Show open now filter
         document.getElementById('showOpenNow').addEventListener('change', () => {
             this.filterData();
@@ -147,7 +137,6 @@ class BurgerWeekMap {
     filterData() {
         const searchTerm = document.getElementById('searchInput').value.toLowerCase();
         const selectedNeighborhood = document.getElementById('neighborhoodFilter').value;
-        const showWithCoordinates = document.getElementById('showWithCoordinates').checked;
         const showOpenNow = document.getElementById('showOpenNow').checked;
 
         this.filteredData = this.burgerData.filter(restaurant => {
@@ -162,14 +151,10 @@ class BurgerWeekMap {
             const matchesNeighborhood = !selectedNeighborhood || 
                 restaurant.neighborhood === selectedNeighborhood;
 
-            // Coordinates filter
-            const hasCoordinates = !showWithCoordinates || 
-                (restaurant.latitude && restaurant.longitude);
-
             // Open now filter
             const isOpenNow = !showOpenNow || this.isCurrentlyOpen(restaurant);
 
-            return matchesSearch && matchesNeighborhood && hasCoordinates && isOpenNow;
+            return matchesSearch && matchesNeighborhood && isOpenNow;
         });
 
         this.renderRestaurantList();
