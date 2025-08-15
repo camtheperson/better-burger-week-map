@@ -5,16 +5,14 @@
   "main": "index.js",
   "scripts": {
     "scrape": "node scripts/scraper.js",
-    "geocode": "node scripts/geocode.js",
-    "google-geocode": "node scripts/google-geocode.js",
+    "geocode": "node scripts/google-geocode.js",
     "test-geocode": "node scripts/test-google-geocode.js",
     "scrape-images": "node scripts/scrape-images.js",
     "scrape-and-geocode": "npm run scrape && npm run geocode",
     "dev": "http-server -p 8080 -c-1",
     "build": "./scripts/build.sh",
     "deploy": "npm run build && gh-pages -d dist",
-    "start": "npm run dev",
-    "add-coords": "node scripts/add-coordinates.js"
+    "start": "npm run dev"
   },
   "dependencies": {
     "axios": "^0.27.2",
