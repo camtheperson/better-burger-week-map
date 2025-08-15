@@ -16,3 +16,26 @@
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* Mobile-specific styles */
+@media (max-width: 767px) {
+  body {
+    overflow: hidden;
+  }
+  
+  /* Ensure the map takes full available height on mobile */
+  #map {
+    touch-action: pan-x pan-y;
+  }
+  
+  /* Style mobile filter button */
+  #filterButton {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* Ensure modal content is scrollable on mobile */
+  .modal-content {
+    max-height: calc(100vh - 100px);
+    overflow-y: auto;
+  }
+}

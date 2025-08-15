@@ -10,30 +10,42 @@
 </head>
 <body class="bg-gray-50 text-gray-700 leading-relaxed overflow-x-hidden">
     <div id="app">
-        <!-- Header -->
-        <header class="bg-gradient-to-br from-red-600 to-red-700 text-white py-8 text-center shadow-md">
-            <div class="max-w-container mx-auto px-4">
+        <!-- Header - Mobile: Fixed and Small, Desktop: Full -->
+        <header class="md:static fixed top-0 left-0 right-0 z-[1001] bg-gradient-to-br from-red-600 to-red-700 text-white md:py-8 py-3 text-center shadow-md">
+            <!-- Mobile Header -->
+            <div class="md:hidden flex items-center justify-between px-4">
+                <div class="flex-1 text-center">
+                    <h1 class="text-lg font-bold">🍔 Portland Burger Week</h1>
+                </div>
+                <button id="filterButton" class="flex items-center justify-center w-10 h-10 bg-white/20 rounded-lg hover:bg-white/30 transition-colors">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707v4.586a1 1 0 01-.293.707l-2 2A1 1 0 0111 22v-6.586a1 1 0 00-.293-.707L4.293 7.293A1 1 0 014 6.586V4z"></path>
+                    </svg>
+                </button>
+            </div>
+            <!-- Desktop Header -->
+            <div class="hidden md:block max-w-container mx-auto px-4">
                 <h1 class="text-4xl md:text-3xl sm:text-3xl font-bold mb-2">🍔 A Better Portland Burger Week Map</h1>
                 <p class="text-lg md:text-base opacity-90 mb-4">Discover all the delicious burgers across Portland</p>
             </div>
         </header>
 
         <!-- Main Content -->
-        <div class="flex flex-col md:flex-row min-h-[calc(100vh-200px)]">
-            <!-- Sidebar -->
-            <div class="w-full md:w-88 bg-white border-r border-gray-200 overflow-y-auto max-h-[calc(100vh-200px)] md:order-1 order-2 md:max-h-[calc(100vh-200px)] max-h-[40vh] min-h-[300px] md:min-h-0">
+        <div class="flex flex-col md:flex-row min-h-[calc(100vh-200px)] md:pt-0 pt-16">
+            <!-- Sidebar - Hidden on Mobile, Visible on Tablet/Desktop -->
+            <div class="hidden md:block w-full md:w-88 bg-white border-r border-gray-200 overflow-y-auto max-h-[calc(100vh-200px)] md:order-1 order-2">
                 <!-- Search and Filters -->
                 <div class="p-6 md:p-4 border-b border-gray-200 bg-gray-50">
                     <!-- Search Box -->
                     <div class="relative mb-6">
                         <input 
                             type="text" 
-                            id="searchInput" 
+                            id="searchInputDesktop" 
                             class="w-full px-3 py-2 pr-10 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-red-500" 
                             placeholder="Search restaurants or burgers..." 
                         />
                         <button 
-                            id="clearSearch" 
+                            id="clearSearchDesktop" 
                             class="absolute right-2 top-1/2 transform -translate-y-1/2 text-gray-400 hover:bg-gray-100 w-8 h-8 flex items-center justify-center rounded-full text-xl font-bold transition-colors"
                         >
                             ×
@@ -43,7 +55,7 @@
                     <!-- Neighborhood Filter -->
                     <div class="mb-6">
                         <h3 class="text-sm font-semibold text-gray-600 mb-2 uppercase tracking-wide">Filter by Neighborhood</h3>
-                        <select id="neighborhoodFilter" class="w-full p-2 border border-gray-300 rounded-md bg-white text-sm">
+                        <select id="neighborhoodFilterDesktop" class="w-full p-2 border border-gray-300 rounded-md bg-white text-sm">
                             <option value="">All Neighborhoods</option>
                         </select>
                     </div>
@@ -52,7 +64,7 @@
                     <div class="mb-6">
                         <h3 class="text-sm font-semibold text-gray-600 mb-2 uppercase tracking-wide">Show Only</h3>
                         <label class="flex items-center gap-2 cursor-pointer text-sm py-2 min-h-[44px]">
-                            <input type="checkbox" id="showOpenNow" class="w-5 h-5 text-red-600 border-gray-300 rounded focus:ring-red-500">
+                            <input type="checkbox" id="showOpenNowDesktop" class="w-5 h-5 text-red-600 border-gray-300 rounded focus:ring-red-500">
                             <span>Open Now</span>
                         </label>
                     </div>
@@ -68,22 +80,87 @@
                     <!-- Restaurant cards will be populated here -->
                 </div>
             </div>
+            
             <!-- Map Container -->
-            <div class="flex-1 relative md:order-2 order-1 h-[50vh] md:h-auto min-h-[300px]">
+            <div class="flex-1 relative md:order-2 order-1 md:h-auto h-[calc(100vh-128px)] min-h-[300px]">
                 <div id="map" class="h-full w-full"></div>
                 
                 <!-- Map Controls -->
                 <div class="absolute top-4 right-4 z-[1000] flex flex-col md:flex-row gap-2">
-                    <button id="resetView" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200">Reset View</button>
-                    <button id="toggleSatellite" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200">Satellite</button>
+                    <button id="resetView" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200 md:px-4 md:text-sm px-3 text-xs">Reset View</button>
+                    <button id="toggleSatellite" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200 md:px-4 md:text-sm px-3 text-xs">Satellite</button>
                 </div>
             </div>
         </div>
 
-        <!-- Modal -->
+        <!-- Mobile Filter Modal -->
+        <div id="filterModal" class="md:hidden fixed inset-0 z-[10000] hidden bg-black/50 backdrop-blur-sm">
+            <div class="bg-white h-full flex flex-col">
+                <!-- Modal Header -->
+                <div class="flex items-center justify-between p-4 border-b border-gray-200">
+                    <h2 class="text-lg font-semibold text-gray-900">Filter Restaurants</h2>
+                    <button id="closeFilterModal" class="text-gray-400 text-2xl font-bold hover:text-red-600 transition-colors">
+                        ×
+                    </button>
+                </div>
+                
+                <!-- Filter Content -->
+                <div class="flex-1 overflow-y-auto p-4">
+                    <!-- Search Box -->
+                    <div class="relative mb-6">
+                        <label class="block text-sm font-semibold text-gray-600 mb-2">Search</label>
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            class="w-full px-4 py-3 pr-12 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-red-500 text-base" 
+                            placeholder="Search restaurants or burgers..." 
+                        />
+                        <button 
+                            id="clearSearch" 
+                            class="absolute right-3 top-[46px] transform -translate-y-1/2 text-gray-400 hover:bg-gray-100 w-8 h-8 flex items-center justify-center rounded-full text-xl font-bold transition-colors"
+                        >
+                            ×
+                        </button>
+                    </div>
+                    
+                    <!-- Neighborhood Filter -->
+                    <div class="mb-6">
+                        <label class="block text-sm font-semibold text-gray-600 mb-2">Neighborhood</label>
+                        <select id="neighborhoodFilter" class="w-full p-3 border border-gray-300 rounded-lg bg-white text-base">
+                            <option value="">All Neighborhoods</option>
+                        </select>
+                    </div>
+
+                    <!-- Show Only -->
+                    <div class="mb-6">
+                        <label class="block text-sm font-semibold text-gray-600 mb-3">Show Only</label>
+                        <label class="flex items-center gap-3 cursor-pointer text-base py-3">
+                            <input type="checkbox" id="showOpenNow" class="w-5 h-5 text-red-600 border-gray-300 rounded focus:ring-red-500">
+                            <span>Open Now</span>
+                        </label>
+                    </div>
+
+                    <!-- Stats -->
+                    <div class="bg-red-50 p-4 rounded-lg">
+                        <div class="text-red-800 font-semibold text-lg">
+                            <span id="totalCountMobile">Loading...</span> restaurants found
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Modal Footer -->
+                <div class="p-4 border-t border-gray-200">
+                    <button id="applyFilters" class="w-full bg-red-600 text-white py-3 rounded-lg font-semibold hover:bg-red-700 transition-colors">
+                        Apply Filters
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Restaurant Details Modal -->
         <div id="restaurantModal" class="fixed inset-0 z-[10000] hidden bg-black/50 backdrop-blur-sm">
-            <div class="bg-white mx-auto mt-[5%] p-8 rounded-xl w-[90%] max-w-2xl relative shadow-2xl max-h-[90vh] overflow-y-auto">
-                <button id="closeModal" class="absolute right-4 top-4 text-gray-400 text-3xl font-bold cursor-pointer leading-none hover:text-red-600 transition-colors">
+            <div class="bg-white mx-auto mt-[5%] p-6 rounded-xl w-[95%] max-w-2xl relative shadow-2xl max-h-[90vh] overflow-y-auto">
+                <button id="closeModal" class="absolute right-4 top-4 text-gray-400 text-2xl font-bold cursor-pointer leading-none hover:text-red-600 transition-colors">
                     ×
                 </button>
                 <div id="modalContent">
@@ -92,9 +169,17 @@
             </div>
         </div>
 
-        <!-- Footer -->
-        <footer class="bg-gray-800 text-white text-center py-6">
-            <div class="max-w-container mx-auto px-4">
+        <!-- Footer - Mobile: Fixed and Small, Desktop: Full -->
+        <footer class="md:static fixed bottom-0 left-0 right-0 z-[1001] bg-gray-800 text-white text-center md:py-6 py-2">
+            <!-- Mobile Footer -->
+            <div class="md:hidden px-4">
+                <p class="text-xs">
+                    Data from <a href="https://everout.com/portland/events/the-portland-mercurys-burger-week-2025/e205791/" target="_blank" class="text-red-400 hover:underline">Portland Mercury</a> | 
+                    <a href="https://github.com/camtheperson/better-burger-week-map" target="_blank" class="text-red-400 hover:underline">GitHub</a>
+                </p>
+            </div>
+            <!-- Desktop Footer -->
+            <div class="hidden md:block max-w-container mx-auto px-4">
                 <p>Data from <a href="https://everout.com/portland/events/the-portland-mercurys-burger-week-2025/e205791/" target="_blank" class="text-red-400 hover:underline">Portland Mercury</a> | 
                 Built with ❤️ for Portland foodies | 
                 <a href="https://github.com/camtheperson/better-burger-week-map" target="_blank" class="text-red-400 hover:underline">View on GitHub</a></p>

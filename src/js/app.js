@@ -57,8 +57,12 @@ class BurgerWeekMap {
         this.filteredData.forEach((restaurant, index) => {
             if (restaurant.latitude && restaurant.longitude) {
                 const marker = L.marker([restaurant.latitude, restaurant.longitude])
-                    .bindPopup(this.createPopupContent(restaurant))
-                    .on('click', () => this.selectRestaurant(restaurant));
+                    .bindPopup(this.createPopupContent(restaurant));
+                
+                // On desktop, clicking marker also selects restaurant in list
+                if (window.innerWidth >= 768) {
+                    marker.on('click', () => this.selectRestaurant(restaurant));
+                }
                 
                 marker.addTo(this.map);
                 this.markers.push(marker);
@@ -67,38 +71,134 @@ class BurgerWeekMap {
     }
 
     createPopupContent(restaurant) {
-        return `
-            <div>
-                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
-                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
-                <div class="text-sm text-gray-500">${restaurant.neighborhood}</div>
-            </div>
-        `;
+        const isMobile = window.innerWidth < 768;
+        
+        if (isMobile) {
+            return `
+                <div class="text-center">
+                    <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                    <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                    <div class="text-sm text-gray-500 mb-3">${restaurant.neighborhood}</div>
+                    <button 
+                        onclick="window.burgerMap.showModal(${JSON.stringify(restaurant).replace(/"/g, '&quot;')})" 
+                        class="bg-red-600 text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-red-700 transition-colors"
+                    >
+                        More Details
+                    </button>
+                </div>
+            `;
+        } else {
+            return `
+                <div>
+                    <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                    <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                    <div class="text-sm text-gray-500">${restaurant.neighborhood}</div>
+                </div>
+            `;
+        }
     }
 
     setupEventListeners() {
-        // Search input
+        // Mobile filter modal controls
+        const filterButton = document.getElementById('filterButton');
+        const filterModal = document.getElementById('filterModal');
+        const closeFilterModal = document.getElementById('closeFilterModal');
+        const applyFilters = document.getElementById('applyFilters');
+        
+        if (filterButton) {
+            filterButton.addEventListener('click', () => {
+                filterModal.classList.remove('hidden');
+            });
+        }
+        
+        if (closeFilterModal) {
+            closeFilterModal.addEventListener('click', () => {
+                filterModal.classList.add('hidden');
+            });
+        }
+        
+        if (applyFilters) {
+            applyFilters.addEventListener('click', () => {
+                this.syncFiltersFromMobile();
+                this.filterData();
+                filterModal.classList.add('hidden');
+            });
+        }
+
+        // Mobile search input
         const searchInput = document.getElementById('searchInput');
         const clearSearch = document.getElementById('clearSearch');
         
-        searchInput.addEventListener('input', (e) => {
-            this.filterData();
-        });
+        if (searchInput) {
+            searchInput.addEventListener('input', (e) => {
+                // Real-time filtering for mobile
+                this.syncFiltersFromMobile();
+                this.filterData();
+            });
+        }
 
-        clearSearch.addEventListener('click', () => {
-            searchInput.value = '';
-            this.filterData();
-        });
+        if (clearSearch) {
+            clearSearch.addEventListener('click', () => {
+                searchInput.value = '';
+                this.syncFiltersFromMobile();
+                this.filterData();
+            });
+        }
 
-        // Neighborhood filter
-        document.getElementById('neighborhoodFilter').addEventListener('change', () => {
-            this.filterData();
-        });
+        // Mobile filters
+        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
+        const showOpenNow = document.getElementById('showOpenNow');
+        
+        if (neighborhoodFilter) {
+            neighborhoodFilter.addEventListener('change', () => {
+                this.syncFiltersFromMobile();
+                this.filterData();
+            });
+        }
 
-        // Show open now filter
-        document.getElementById('showOpenNow').addEventListener('change', () => {
-            this.filterData();
-        });
+        if (showOpenNow) {
+            showOpenNow.addEventListener('change', () => {
+                this.syncFiltersFromMobile();
+                this.filterData();
+            });
+        }
+
+        // Desktop search input
+        const searchInputDesktop = document.getElementById('searchInputDesktop');
+        const clearSearchDesktop = document.getElementById('clearSearchDesktop');
+        
+        if (searchInputDesktop) {
+            searchInputDesktop.addEventListener('input', (e) => {
+                this.syncFiltersFromDesktop();
+                this.filterData();
+            });
+        }
+
+        if (clearSearchDesktop) {
+            clearSearchDesktop.addEventListener('click', () => {
+                searchInputDesktop.value = '';
+                this.syncFiltersFromDesktop();
+                this.filterData();
+            });
+        }
+
+        // Desktop filters
+        const neighborhoodFilterDesktop = document.getElementById('neighborhoodFilterDesktop');
+        const showOpenNowDesktop = document.getElementById('showOpenNowDesktop');
+        
+        if (neighborhoodFilterDesktop) {
+            neighborhoodFilterDesktop.addEventListener('change', () => {
+                this.syncFiltersFromDesktop();
+                this.filterData();
+            });
+        }
+
+        if (showOpenNowDesktop) {
+            showOpenNowDesktop.addEventListener('change', () => {
+                this.syncFiltersFromDesktop();
+                this.filterData();
+            });
+        }
 
         // Map controls
         document.getElementById('resetView').addEventListener('click', () => {
@@ -109,35 +209,120 @@ class BurgerWeekMap {
             this.toggleMapLayer();
         });
 
-        // Modal controls
+        // Restaurant modal controls
         document.getElementById('closeModal').addEventListener('click', () => {
             this.closeModal();
         });
 
         window.addEventListener('click', (e) => {
             const modal = document.getElementById('restaurantModal');
+            const filterModal = document.getElementById('filterModal');
             if (e.target === modal) {
                 this.closeModal();
+            }
+            if (e.target === filterModal) {
+                filterModal.classList.add('hidden');
             }
         });
     }
 
     populateFilters() {
         const neighborhoods = [...new Set(this.burgerData.map(r => r.neighborhood))].sort();
-        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
         
-        neighborhoods.forEach(neighborhood => {
-            const option = document.createElement('option');
-            option.value = neighborhood;
-            option.textContent = neighborhood;
-            neighborhoodFilter.appendChild(option);
-        });
+        // Populate mobile filters
+        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
+        if (neighborhoodFilter) {
+            neighborhoods.forEach(neighborhood => {
+                const option = document.createElement('option');
+                option.value = neighborhood;
+                option.textContent = neighborhood;
+                neighborhoodFilter.appendChild(option);
+            });
+        }
+        
+        // Populate desktop filters
+        const neighborhoodFilterDesktop = document.getElementById('neighborhoodFilterDesktop');
+        if (neighborhoodFilterDesktop) {
+            neighborhoods.forEach(neighborhood => {
+                const option = document.createElement('option');
+                option.value = neighborhood;
+                option.textContent = neighborhood;
+                neighborhoodFilterDesktop.appendChild(option);
+            });
+        }
+    }
+
+    syncFiltersFromMobile() {
+        const searchInput = document.getElementById('searchInput');
+        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
+        const showOpenNow = document.getElementById('showOpenNow');
+        
+        const searchInputDesktop = document.getElementById('searchInputDesktop');
+        const neighborhoodFilterDesktop = document.getElementById('neighborhoodFilterDesktop');
+        const showOpenNowDesktop = document.getElementById('showOpenNowDesktop');
+        
+        if (searchInput && searchInputDesktop) {
+            searchInputDesktop.value = searchInput.value;
+        }
+        if (neighborhoodFilter && neighborhoodFilterDesktop) {
+            neighborhoodFilterDesktop.value = neighborhoodFilter.value;
+        }
+        if (showOpenNow && showOpenNowDesktop) {
+            showOpenNowDesktop.checked = showOpenNow.checked;
+        }
+    }
+
+    syncFiltersFromDesktop() {
+        const searchInput = document.getElementById('searchInput');
+        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
+        const showOpenNow = document.getElementById('showOpenNow');
+        
+        const searchInputDesktop = document.getElementById('searchInputDesktop');
+        const neighborhoodFilterDesktop = document.getElementById('neighborhoodFilterDesktop');
+        const showOpenNowDesktop = document.getElementById('showOpenNowDesktop');
+        
+        if (searchInput && searchInputDesktop) {
+            searchInput.value = searchInputDesktop.value;
+        }
+        if (neighborhoodFilter && neighborhoodFilterDesktop) {
+            neighborhoodFilter.value = neighborhoodFilterDesktop.value;
+        }
+        if (showOpenNow && showOpenNowDesktop) {
+            showOpenNow.checked = showOpenNowDesktop.checked;
+        }
     }
 
     filterData() {
-        const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-        const selectedNeighborhood = document.getElementById('neighborhoodFilter').value;
-        const showOpenNow = document.getElementById('showOpenNow').checked;
+        // Get values from the currently available form elements (mobile or desktop)
+        let searchTerm = '';
+        let selectedNeighborhood = '';
+        let showOpenNow = false;
+        
+        // Try mobile first, then desktop
+        const searchInput = document.getElementById('searchInput');
+        const searchInputDesktop = document.getElementById('searchInputDesktop');
+        const neighborhoodFilter = document.getElementById('neighborhoodFilter');
+        const neighborhoodFilterDesktop = document.getElementById('neighborhoodFilterDesktop');
+        const showOpenNowMobile = document.getElementById('showOpenNow');
+        const showOpenNowDesktop = document.getElementById('showOpenNowDesktop');
+        
+        if (searchInput && searchInput.value !== undefined) {
+            searchTerm = searchInput.value.toLowerCase();
+        } else if (searchInputDesktop && searchInputDesktop.value !== undefined) {
+            searchTerm = searchInputDesktop.value.toLowerCase();
+        }
+        
+        if (neighborhoodFilter && neighborhoodFilter.value !== undefined) {
+            selectedNeighborhood = neighborhoodFilter.value;
+        } else if (neighborhoodFilterDesktop && neighborhoodFilterDesktop.value !== undefined) {
+            selectedNeighborhood = neighborhoodFilterDesktop.value;
+        }
+        
+        if (showOpenNowMobile && showOpenNowMobile.checked !== undefined) {
+            showOpenNow = showOpenNowMobile.checked;
+        } else if (showOpenNowDesktop && showOpenNowDesktop.checked !== undefined) {
+            showOpenNow = showOpenNowDesktop.checked;
+        }
 
         this.filteredData = this.burgerData.filter(restaurant => {
             // Search filter
@@ -160,6 +345,41 @@ class BurgerWeekMap {
         this.renderRestaurantList();
         this.addMarkersToMap();
         this.updateStats();
+    }
+
+    renderRestaurantList() {
+        const container = document.getElementById('restaurantList');
+        if (!container) return; // Skip if no restaurant list container (mobile)
+        
+        if (this.filteredData.length === 0) {
+            container.innerHTML = `
+                <div class="text-center py-12 px-4 text-gray-500">
+                    <h3 class="mb-2 text-gray-600">No restaurants found</h3>
+                    <p>Try adjusting your search or filters</p>
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = this.filteredData.map(restaurant => `
+            <div class="bg-white border border-gray-200 rounded-lg p-4 mb-4 cursor-pointer transition-all duration-200 hover:border-red-600 hover:shadow-lg hover:-translate-y-1 active:translate-y-0 active:shadow-md relative min-h-[80px] ${restaurant.latitude && restaurant.longitude ? 'has-location' : ''}" 
+                 data-id="${restaurant.restaurantName}">
+                <div class="absolute top-2 right-2 w-2 h-2 bg-green-500 rounded-full ${restaurant.latitude && restaurant.longitude ? 'block' : 'hidden'}"></div>
+                <div class="font-semibold text-gray-900 mb-1">${restaurant.restaurantName}</div>
+                <div class="text-sm text-gray-500 mb-2">${restaurant.neighborhood}</div>
+                <div class="text-red-600 font-medium mb-2">${restaurant.burgerName}</div>
+                ${restaurant.description ? `<div class="text-sm text-gray-600 leading-relaxed line-clamp-2">${restaurant.description}</div>` : ''}
+            </div>
+        `).join('');
+
+        // Add click listeners to restaurant cards
+        container.querySelectorAll('[data-id]').forEach(card => {
+            card.addEventListener('click', () => {
+                const restaurantName = card.dataset.id;
+                const restaurant = this.filteredData.find(r => r.restaurantName === restaurantName);
+                this.selectRestaurant(restaurant);
+            });
+        });
     }
 
     renderRestaurantList() {
@@ -269,12 +489,12 @@ class BurgerWeekMap {
     }
 
     selectRestaurant(restaurant) {
-        // Remove previous selection
+        // Remove previous selection (desktop only)
         document.querySelectorAll('[data-id]').forEach(card => {
             card.classList.remove('ring-2', 'ring-red-500', 'bg-red-50');
         });
 
-        // Highlight selected restaurant
+        // Highlight selected restaurant (desktop only)
         const selectedCard = document.querySelector(`[data-id="${restaurant.restaurantName}"]`);
         if (selectedCard) {
             selectedCard.classList.add('ring-2', 'ring-red-500', 'bg-red-50');
@@ -286,7 +506,7 @@ class BurgerWeekMap {
             this.map.setView([restaurant.latitude, restaurant.longitude], 16);
         }
 
-        // Show modal with details
+        // Show modal with details (both mobile and desktop)
         this.showModal(restaurant);
     }
 
@@ -383,9 +603,15 @@ class BurgerWeekMap {
 
     updateStats() {
         const totalElement = document.getElementById('totalCount');
+        const totalElementMobile = document.getElementById('totalCountMobile');
         const geocodedCount = this.filteredData.filter(r => r.latitude && r.longitude).length;
         
-        totalElement.textContent = `${this.filteredData.length}`;
+        if (totalElement) {
+            totalElement.textContent = `${this.filteredData.length}`;
+        }
+        if (totalElementMobile) {
+            totalElementMobile.textContent = `${this.filteredData.length}`;
+        }
     }
 
     showError(message) {
@@ -401,5 +627,5 @@ class BurgerWeekMap {
 
 // Initialize the app when the page loads
 document.addEventListener('DOMContentLoaded', () => {
-    new BurgerWeekMap();
+    window.burgerMap = new BurgerWeekMap();
 });
