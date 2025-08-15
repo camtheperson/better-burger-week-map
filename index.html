@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Better Portland Burger Week Map - 2025 Edition</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <script type="module" crossorigin src="/better-burger-week-map/assets/main-eb36fb38.js"></script>
+  <link rel="stylesheet" href="/better-burger-week-map/assets/index-877db8de.css">
+</head>
+<body class="bg-gray-50 text-gray-700 leading-relaxed overflow-x-hidden">
+    <div id="app">
+        <!-- Header -->
+        <header class="bg-gradient-to-br from-red-600 to-red-700 text-white py-8 text-center shadow-md">
+            <div class="max-w-container mx-auto px-4">
+                <h1 class="text-4xl md:text-3xl sm:text-3xl font-bold mb-2">🍔 A Better Portland Burger Week Map</h1>
+                <p class="text-lg md:text-base opacity-90 mb-4">Discover all the delicious burgers across Portland</p>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="flex flex-col md:flex-row min-h-[calc(100vh-200px)]">
+            <!-- Sidebar -->
+            <div class="w-full md:w-88 bg-white border-r border-gray-200 overflow-y-auto max-h-[calc(100vh-200px)] md:order-1 order-2 md:max-h-[calc(100vh-200px)] max-h-[40vh] min-h-[300px] md:min-h-0">
+                <!-- Search and Filters -->
+                <div class="p-6 md:p-4 border-b border-gray-200 bg-gray-50">
+                    <!-- Search Box -->
+                    <div class="relative mb-6">
+                        <input 
+                            type="text" 
+                            id="searchInput" 
+                            class="w-full px-3 py-2 pr-10 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-red-500 focus:border-red-500" 
+                            placeholder="Search restaurants or burgers..." 
+                        />
+                        <button 
+                            id="clearSearch" 
+                            class="absolute right-2 top-1/2 transform -translate-y-1/2 text-gray-400 hover:bg-gray-100 w-8 h-8 flex items-center justify-center rounded-full text-xl font-bold transition-colors"
+                        >
+                            ×
+                        </button>
+                    </div>
+                    
+                    <!-- Neighborhood Filter -->
+                    <div class="mb-6">
+                        <h3 class="text-sm font-semibold text-gray-600 mb-2 uppercase tracking-wide">Filter by Neighborhood</h3>
+                        <select id="neighborhoodFilter" class="w-full p-2 border border-gray-300 rounded-md bg-white text-sm">
+                            <option value="">All Neighborhoods</option>
+                        </select>
+                    </div>
+
+                    <!-- Show Only -->
+                    <div class="mb-6">
+                        <h3 class="text-sm font-semibold text-gray-600 mb-2 uppercase tracking-wide">Show Only</h3>
+                        <label class="flex items-center gap-2 cursor-pointer text-sm py-2 min-h-[44px]">
+                            <input type="checkbox" id="showOpenNow" class="w-5 h-5 text-red-600 border-gray-300 rounded focus:ring-red-500">
+                            <span>Open Now</span>
+                        </label>
+                    </div>
+
+                    <!-- Stats -->
+                    <div class="bg-white/20 inline-block px-4 py-2 rounded-full font-semibold text-sm" id="stats">
+                        <span id="totalCount">Loading...</span> restaurants
+                    </div>
+                </div>
+
+                <!-- Restaurant List -->
+                <div class="p-4" id="restaurantList">
+                    <!-- Restaurant cards will be populated here -->
+                </div>
+            </div>
+            <!-- Map Container -->
+            <div class="flex-1 relative md:order-2 order-1 h-[50vh] md:h-auto min-h-[300px]">
+                <div id="map" class="h-full w-full"></div>
+                
+                <!-- Map Controls -->
+                <div class="absolute top-4 right-4 z-[1000] flex flex-col md:flex-row gap-2">
+                    <button id="resetView" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200">Reset View</button>
+                    <button id="toggleSatellite" class="px-4 py-2 bg-white text-gray-700 border border-gray-300 rounded-md hover:bg-gray-50 active:bg-gray-100 min-h-[44px] shadow-md text-sm font-medium transition-all duration-200">Satellite</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal -->
+        <div id="restaurantModal" class="fixed inset-0 z-[10000] hidden bg-black/50 backdrop-blur-sm">
+            <div class="bg-white mx-auto mt-[5%] p-8 rounded-xl w-[90%] max-w-2xl relative shadow-2xl max-h-[90vh] overflow-y-auto">
+                <button id="closeModal" class="absolute right-4 top-4 text-gray-400 text-3xl font-bold cursor-pointer leading-none hover:text-red-600 transition-colors">
+                    ×
+                </button>
+                <div id="modalContent">
+                    <!-- Modal content will be populated here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="bg-gray-800 text-white text-center py-6">
+            <div class="max-w-container mx-auto px-4">
+                <p>Data from <a href="https://everout.com/portland/events/the-portland-mercurys-burger-week-2025/e205791/" target="_blank" class="text-red-400 hover:underline">Portland Mercury</a> | 
+                Built with ❤️ for Portland foodies | 
+                <a href="https://github.com/camtheperson/better-burger-week-map" target="_blank" class="text-red-400 hover:underline">View on GitHub</a></p>
+            </div>
+        </footer>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+</body>
+</html>

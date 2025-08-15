@@ -1,0 +1,3515 @@
+[
+  {
+    "restaurantName": "Abigail Hall",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "\"Chili\" Cheese Fry Burger",
+    "eventUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
+    "burgerUrl": "https://everout.com/portland/events/chili-cheese-fry-burger/e212274/",
+    "description": "4oz beef patty, chipotle BBQ grilled onions, American cheese, fries, garlic aioli, on a brioche bun",
+    "address": "813 SW Alder",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5204745,
+    "longitude": -122.6804979,
+    "geocoded_address": "woodlark building, 813 SW Alder St, Portland, OR 97205, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/abigail_hall_chili_cheese_fry_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTgyOTM2OTM4Ni1BYmlnYWlsLUhhbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Aji Tram Restaurant and Bar",
+    "neighborhood": "Lake Oswego",
+    "burgerName": "The Peter Piper Peck of Peppers",
+    "eventUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
+    "burgerUrl": "https://everout.com/portland/events/the-peter-piper-peck-of-peppers/e212142/",
+    "description": "Beef patty, bacon, pepper jack cheese, poblano aioli, pickled fresnos, fried jalapeños",
+    "address": "4477 Lakeview Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.404582,
+    "longitude": -122.7231202,
+    "geocoded_address": "Parking lot, 4477 Lakeview Blvd, Lake Oswego, OR 97035, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/aji_tram_restaurant_and_bar_the_peter_piper_peck_o.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQ0NDEyODYxOC1BamktVHJhbS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Ate Oh Ate",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "The North Shore Burger",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
+    "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212401/",
+    "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
+    "address": "2454 E Burnside",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.522638,
+    "longitude": -122.6402556,
+    "geocoded_address": "2454 E Burnside St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE2MzIwNTUzOC1BdGUtT2gtQXRlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Ate Oh Ate",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "The North Shore Burger",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
+    "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212402/",
+    "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
+    "address": "5200 SE Woodstock",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4790516,
+    "longitude": -122.6085941,
+    "geocoded_address": "5200 SE Woodstock Blvd, Portland, OR 97206, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE3NTQ3NzM4LUF0ZS1PaC1BdGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Ate-Oh-Ate",
+    "neighborhood": "Beaverton",
+    "burgerName": "The North Shore Burger",
+    "eventUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
+    "burgerUrl": "https://everout.com/portland/events/the-north-shore-burger/e212403/",
+    "description": "House ground beef, teriyaki glazed onions, spam, pineapple, lettuce, cheese and gochujang mayo on a potato bun",
+    "address": "4570 SW Watson Avenue",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "image": "/images/ate_oh_ate_the_north_shore_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjE5OTI0MjY3NS1BdGUtT2gtQXRlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Bacchus Bar",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "No Reservations Burger",
+    "eventUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
+    "burgerUrl": "https://everout.com/portland/events/no-reservations-burger/e211946/",
+    "description": "Beef patty, sliced mortadella, provolone, creolenaisse, dill pickle, on a Dos Hermanos burger bun",
+    "address": "422 SW Broadway",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5208971,
+    "longitude": -122.6785042,
+    "geocoded_address": "422 SW Broadway, Portland, OR 97205, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/bacchus_bar_no_reservations_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg3MDc2NDExNi1CYWNjaHVzLUJhci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Barbur World Foods",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "The Spanakoburger",
+    "eventUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
+    "burgerUrl": "https://everout.com/portland/events/the-spanakoburger/e211985/",
+    "description": "Greek-spiced beef patty, spinach, lemon, feta, olives, tzatziki, brioche bun.",
+    "address": "9845 SW Barbur Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4544386,
+    "longitude": -122.7199964,
+    "geocoded_address": "9845 SW Barbur Blvd, Portland, OR 97219, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/barbur_world_foods_the_spanakoburger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU4OTcxMTQ5NC1CYXJidXItV29ybGQtRm9vZHMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Besaw's",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Always Sunny at Besaw's",
+    "eventUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
+    "burgerUrl": "https://everout.com/portland/events/always-sunny-at-besaws/e212332/",
+    "description": "A wagyu burger on a pub bun with burger sauce, lettuce, tomato, onion, pickle, jack cheese and topped with a sunny egg",
+    "address": "1545 NW 21st",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "9 am–2:20 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9 am–3:20 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9 am–3:20 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5338973,
+    "longitude": -122.6950454,
+    "geocoded_address": "Parking lot, 1545 NW 21st Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/besaw_s_always_sunny_at_besaw_s.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjExODY1NjM1OS1CZXNhd3MuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Beulahland",
+    "neighborhood": "Kerns",
+    "burgerName": "Beulahful Buffalo Blue Cheese Burger",
+    "eventUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
+    "burgerUrl": "https://everout.com/portland/events/beulahful-buffalo-blue-cheese-burger/e212002/",
+    "description": "5oz all-beef patty, candied bacon, a home-made spicy buffalo blue cheese dressing, topped with pickles, lettuce, and tomato, held together by a Portland Pub potato bun",
+    "address": "118 NE 28th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5239233,
+    "longitude": -122.6370112,
+    "geocoded_address": "118 NE 28th Ave, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/beulahland_beulahful_buffalo_blue_cheese_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzIyODEyNzYyOS1CZXVsYWhsYW5kLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Big's Chicken",
+    "neighborhood": "North Tabor",
+    "burgerName": "Country Fried Burger",
+    "eventUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
+    "burgerUrl": "https://everout.com/portland/events/country-fried-burger/e212413/",
+    "description": "Breaded and fried house ground beef patty, slaw, Worcestershire onions, pickles, American and Swiss cheese on a soft bun",
+    "address": "4606 NE Glisan",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5261224,
+    "longitude": -122.6154621,
+    "geocoded_address": "4606 NE Glisan St, Portland, OR 97213, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/big_s_chicken_country_fried_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjQ0NDQzNzEtQmlncy1DaGlja2VuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Binary Brewing",
+    "neighborhood": "Central Beaverton",
+    "burgerName": "Teriyakimoto’s Smash’d Lemongrass Burger",
+    "eventUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
+    "burgerUrl": "https://everout.com/portland/events/teriyakimotos-smashd-lemongrass-burger/e211987/",
+    "description": "Double smashed all-beef patties infused with Cambodian kreoung paste (made of lemongrass, shallots, and herbs) topped with American cheese, tangy kewpie mayo, green papaya, sour carrots, and fresh cilantro on a toasted bun.",
+    "address": "12345 SW Broadway St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5146833,
+    "longitude": -122.6821533,
+    "geocoded_address": "SW Broadway, Portland, OR, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/binary_brewing_teriyakimoto_s_smash_d_lemongrass_b.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzMwMTQyNzAwNTg0Ny1CaW5hcnktQnJld2luZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Boke Bowl",
+    "neighborhood": "Buckman",
+    "burgerName": "Boke Double Crunch Burger",
+    "eventUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
+    "burgerUrl": "https://everout.com/portland/events/boke-double-crunch-burger/e211975/",
+    "description": "Double patty, Tillamook cheddar, caramelized onions, Boke pickled cucumbers and our Boke Secret sauce with Japanese kewpie mayo, gochujang and chili crunch! All served on our favorite An Xuyen bakery Brioche bun.",
+    "address": "1028 SE Water",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.51529559999999,
+    "longitude": -122.6655475,
+    "geocoded_address": "1028 SE Water Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/boke_bowl_boke_double_crunch_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjI1Mzc2MDgzNy1Cb2tlLUJvd2wuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Botto’s BBQ",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "Basque Burger",
+    "eventUrl": "https://everout.com/portland/events/basque-burger/e212133/",
+    "burgerUrl": "https://everout.com/portland/events/basque-burger/e212133/",
+    "description": "House-ground brisket patty, Spanish seasoning, caramelized sherry tomato jam, Manchego frico, tallow-fried padrón peppers, toasted Martin's potato roll",
+    "address": "3120 SE Milwaukie Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.50042029999999,
+    "longitude": -122.6539742,
+    "geocoded_address": "3120 SE Milwaukie Ave, Portland, OR 97202, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/botto_s_bbq_basque_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA3MjkzMTEyMy1Cb3R0b3MtQkJRLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Breakside Brewery - Dekum",
+    "neighborhood": "Woodlawn",
+    "burgerName": "🌶️Livin’ La Enchilada Loca",
+    "eventUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
+    "burgerUrl": "https://everout.com/portland/events/livin-la-enchilada-loca/e212008/",
+    "description": "A local beef patty blended with pickled jalapeños, enchilada sauce, cilantro, onions, and crushed tortilla chips for that rich toasted corn flavor. Grilled and blanketed in melted Oaxaca cheese, drenched in smoky red enchilada sauce, and topped with shredded cabbage and a cool drizzle of Mexican sour cream. (We can substitute a vegetarian black bean patty.)",
+    "address": "820 NE Dekum",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5715331,
+    "longitude": -122.6568525,
+    "geocoded_address": "820 NE Dekum St, Portland, OR 97211, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/breakside_brewery_dekum_livin_la_enchilada_loca.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzIzMDk1NDEwNS1CcmVha3NpZGUtRGVrdW0uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Breakside Brewery - Slabtown",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Braised and Confused",
+    "eventUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
+    "burgerUrl": "https://everout.com/portland/events/braised-and-confused/e212127/",
+    "description": "Beer-braised caramelized onions, shredded lettuce, roasted garlic & jalapeño mayo, provolone, bacon powder, and balsamic reduction on a classic hamburger bun. The veggie burger option is an Impossible Burger with no bacon powder.",
+    "address": "1570 NW 22nd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5339757,
+    "longitude": -122.6965071,
+    "geocoded_address": "1570 NW 22nd Ave, Portland, OR 97210, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/breakside_brewery_slabtown_braised_and_confused.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDc2OTEyNjMyMi1CcmVha3NpZGUtU2xhYnRvd24uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Brix Tavern",
+    "neighborhood": "Pearl District",
+    "burgerName": "Pacific Crunch Burger",
+    "eventUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
+    "burgerUrl": "https://everout.com/portland/events/pacific-crunch-burger/e212122/",
+    "description": "1/3 lb beef, cabbage and carrot slaw, sweet and spicy mayo, and teriyaki sauce",
+    "address": "1338 NW Hoyt St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9:30 am–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.526972,
+    "longitude": -122.684999,
+    "geocoded_address": "1338 NW Hoyt St, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/brix_tavern_pacific_crunch_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM5ODgzMjg2Ny1Ccml4LVRhdmVybi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Bunk Bar",
+    "neighborhood": "Buckman",
+    "burgerName": "Green Chili Chorizo Juicy Lucy",
+    "eventUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
+    "burgerUrl": "https://everout.com/portland/events/green-chili-chorizo-juicy-lucy/e212104/",
+    "description": "Queso fresco-stuffed beef & pork chorizo burger with green chili-caramelized onion jam, chipotle special sauce & pepper jack on an An Xuyen butter roll",
+    "address": "1028 SE Water Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.51529559999999,
+    "longitude": -122.6655475,
+    "geocoded_address": "1028 SE Water Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/bunk_bar_green_chili_chorizo_juicy_lucy.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzY0NjA2NDY0OS1CdW5rLVNhbmR3aWNoZXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Carina Lounge",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "The Goat Yoga Burger",
+    "eventUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
+    "burgerUrl": "https://everout.com/portland/events/the-goat-yoga-burger/e211827/",
+    "description": "Fresh ground beef with caramelized sweet onions, creamy goat cheese, and a roasted garlic aioli. Burger is gluten-free with bun substitution at no extra charge.",
+    "address": "410 NW 21st",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4:30–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4:30–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4:30–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.525785,
+    "longitude": -122.6941414,
+    "geocoded_address": "410 NW 21st Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/carina_lounge_the_goat_yoga_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTgxNjU1MjA1Mi1DYXJpbmEtTG91bmdlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Clarklewis",
+    "neighborhood": "Buckman",
+    "burgerName": "Mediterranean Vibes",
+    "eventUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
+    "burgerUrl": "https://everout.com/portland/events/mediterranean-vibes/e211974/",
+    "description": "100% American wagyu beef patty, Portland French potato bun, pickled red onion, chevre tzatziki, heirloom tomato, shredded romaine",
+    "address": "1001 SE Water Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.515251,
+    "longitude": -122.6661994,
+    "geocoded_address": "1001 SE Water Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/clarklewis_mediterranean_vibes.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg5MTAwNjAyMy1DbGFya2xld2lzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Creepy's",
+    "neighborhood": "Buckman",
+    "burgerName": "The Big Top Burger",
+    "eventUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
+    "burgerUrl": "https://everout.com/portland/events/the-big-top-burger/e212117/",
+    "description": "Steak trim 100% beef patty, cheddar cheese, candied bacon & roasted peanut crumble, zesty slaw, and spicy ketchup on a butter-toasted bun.",
+    "address": "627 SE Morrison",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5173475,
+    "longitude": -122.6591146,
+    "geocoded_address": "627 SE Morrison St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/creepy_s_the_big_top_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM2MDU5OTYzLUNyZWVweXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Daily Planet",
+    "neighborhood": "Powellhurst-Gilbert",
+    "burgerName": "The Metropolis Melt",
+    "eventUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
+    "burgerUrl": "https://everout.com/portland/events/the-metropolis-melt/e212003/",
+    "description": "Our burger starts with 6 ounces of fresh ground beef, melted white cheddar, and a generous helping of house-made bacon onion jam. Stacked with all the fixins on a grilled pub bun and served with house-cut fries. It’s bold, juicy, and built to please any Metropolitan or even a Portlander.",
+    "address": "11312 SE Powell Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "8–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.49634080000001,
+    "longitude": -122.5468539,
+    "geocoded_address": "Parking lot, 11312 SE Powell Blvd, Portland, OR 97266, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/daily_planet_the_metropolis_melt.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk1NTMwODc2MS1EYWlseS1QbGFuZXQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Deadshot",
+    "neighborhood": "Hosford-Abernethy",
+    "burgerName": "Sauce Burger",
+    "eventUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
+    "burgerUrl": "https://everout.com/portland/events/sauce-burger/e212028/",
+    "description": "4oz beef & pork patty with raclette cheese and horsey secret sauce on a rustic bun",
+    "address": "2133 SE 11th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-16"
+      }
+    ],
+    "latitude": 45.5073551,
+    "longitude": -122.6549407,
+    "geocoded_address": "Tennessee Red's in Portland, OR, USA, 2133 SE 11th Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/deadshot_sauce_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI3ODA4NTYzNi1EZWFkc2hvdC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Deschutes Brewery & Public House",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Elote Burger",
+    "eventUrl": "https://everout.com/portland/events/elote-burger/e212132/",
+    "burgerUrl": "https://everout.com/portland/events/elote-burger/e212132/",
+    "description": "1/4 lb beef patty, chili-lime mayo, queso Oaxaca, roasted corn & poblano salad with red onion, arugula, and a cilantro vinaigrette, on a housemate bun.",
+    "address": "210 NW 11th Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.524719,
+    "longitude": -122.6817262,
+    "geocoded_address": "210 NW 11th Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/deschutes_brewery_public_house_elote_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA1NzE4MjI3MS1EZXNjaHV0ZXMtQnJld2luZy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Dea's In & Out",
+    "neighborhood": "Gresham",
+    "burgerName": "Aloha-Loa Burger",
+    "eventUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
+    "burgerUrl": "https://everout.com/portland/events/aloha-loa-burger/e211979/",
+    "description": "1/4lb beef patty with pepper jack cheese, pineapple jalapeño slaw, mayonnaise & teryaki sauce",
+    "address": "755 NE Burnside Rd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–1 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–1 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5074902,
+    "longitude": -122.4232893,
+    "geocoded_address": "755 NE Burnside Rd, Gresham, OR 97030, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/dea_s_in_out_aloha_loa_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjIxNTcwNTI1MS1EZWFzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Dimo's Italian Specialties",
+    "neighborhood": "Kerns",
+    "burgerName": "Fonduta Burger",
+    "eventUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
+    "burgerUrl": "https://everout.com/portland/events/fonduta-burger/e212145/",
+    "description": "Porcini-rubbed beef patty, American cheese, potato bun, provolone-fontina fonduta, chives",
+    "address": "701 E Burnside St suite a",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5232426,
+    "longitude": -122.6584939,
+    "geocoded_address": "Parking lot, 701 E Burnside St a, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/dimo_s_italian_specialties_fonduta_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI0MTAzOTI4NS1EaW1vcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Duke's Public House",
+    "neighborhood": "Lake Oswego",
+    "burgerName": "Simply Irresistible",
+    "eventUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
+    "burgerUrl": "https://everout.com/portland/events/simply-irresistible/e212143/",
+    "description": "All-beef 4oz patty with secret seasonings, lettuce, tomato, fry sauce, and American cheese",
+    "address": "506 A Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5054356,
+    "longitude": -122.4909392,
+    "geocoded_address": "A St, Portland, OR 97236, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/duke_s_public_house_simply_irresistible.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0Mzc3MDAwNjAzOS1EdWtlcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "DV8",
+    "neighborhood": "Richmond",
+    "burgerName": "The VIP Smash Burger",
+    "eventUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
+    "burgerUrl": "https://everout.com/portland/events/the-vip-smash-burger/e212671/",
+    "description": "New Cascade traditional gluten-free bun, shredded lettuce, fresh tomato, minced red onion, deep-fried bacon bits, 1/4lb grass-fed beef patty, American-style pepper jack cheese, spicy mayo",
+    "address": "5021 SE Powell Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12 pm–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4976952,
+    "longitude": -122.6106449,
+    "geocoded_address": "5021 SE Powell Blvd, Portland, OR 97206, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/dv8_the_vip_smash_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0MzIxMjU4NjcyNi1EVjguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Farmer and the Beast",
+    "neighborhood": "Nob Hill",
+    "burgerName": "The Beast and Cheddar",
+    "eventUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
+    "burgerUrl": "https://everout.com/portland/events/the-beast-and-cheddar/e211438/",
+    "description": "6oz Medium-Rare burger with Cheddar N' Onion Cheese, Chipotle-Q sauce, and Crispy Onion Strings on a Franz bakery bun",
+    "address": "1845 NW 23rd Pl",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5362156,
+    "longitude": -122.7000932,
+    "geocoded_address": "1845 NW 23rd Pl, Portland, OR 97210, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/farmer_and_the_beast_the_beast_and_cheddar.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzAzMTU5NDI4Mi1GYXJtZXItYW5kLUJlYXN0LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Fuller's Burger Shack",
+    "neighborhood": "Northeast Portland",
+    "burgerName": "Backyard BBQ Burger",
+    "eventUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
+    "burgerUrl": "https://everout.com/portland/events/backyard-bbq-burger/e212239/",
+    "description": "¼ lb patty, American cheese, bacon, zesty BBQ sauce, fried onion ring, lettuce , tomato, pickle, secret sauce",
+    "address": "10131 NE Cascades Pkwy",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5731634,
+    "longitude": -122.5575475,
+    "geocoded_address": "10131 NE Cascades Pkwy, Portland, OR 97220, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/fuller_s_burger_shack_backyard_bbq_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc5NjQ1MzAwMy1GdWxsZXJzLUJ1cmdlci1TaGFjay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Gift Bar",
+    "neighborhood": "Hawthorne District",
+    "burgerName": "Flamingo Doom",
+    "eventUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
+    "burgerUrl": "https://everout.com/portland/events/flamingo-doom/e212141/",
+    "description": "A fresh ground patty with slow-roasted tomatoes, sharp white cheddar, arugula, pickled onions, and lemon-pepper aioli, served on a warm pretzel bun. Vegetarian with veggie patty, omit cheese for vegan.",
+    "address": "1935 SE Hawthorne Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5123747,
+    "longitude": -122.645825,
+    "geocoded_address": "1935 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/gift_bar_flamingo_doom.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQyNzE1NTUxOS1HaWZ0LUJhci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Grand Fir Brewing",
+    "neighborhood": "Buckman",
+    "burgerName": "Western Bacon FirBurger",
+    "eventUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
+    "burgerUrl": "https://everout.com/portland/events/western-bacon-firburger/e212227/",
+    "description": "Bacon, honey chipotle BBQ sauce, sweet hot jalapeños, American cheese, fried onions",
+    "address": "1403 SE Stark Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5194341,
+    "longitude": -122.6514688,
+    "geocoded_address": "1403 SE Stark St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/grand_fir_brewing_western_bacon_firburger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc4MTE1NjE4Ni1HcmFuZC1GaXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Grassa",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Meatball Burger",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
+    "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212114/",
+    "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
+    "address": "1375 SE Hawthorne Boulevard",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5123763,
+    "longitude": -122.6519272,
+    "geocoded_address": "1375 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/grassa_meatball_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDEwNDI0NTM2My1HcmFzc2EuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Grassa",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Meatball Burger",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
+    "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212112/",
+    "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
+    "address": "1506 NW 23rd Avenue",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5335689,
+    "longitude": -122.6984512,
+    "geocoded_address": "1506 NW 23rd Ave, Portland, OR 97210, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/grassa_meatball_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA4ODExOTEyLUdyYXNzYS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Grassa",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Meatball Burger",
+    "eventUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
+    "burgerUrl": "https://everout.com/portland/events/meatball-burger/e212111/",
+    "description": "Provolone cheese, Calabrian mayo, oven-dried tomatoes, arugula",
+    "address": "1205 SW Washington",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5220834,
+    "longitude": -122.6836079,
+    "geocoded_address": "twelve west, 1205 SW Washington St, Portland, OR 97205, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/grassa_meatball_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA3MzA2MTkxMi1HcmFzc2EuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Grays Restaurant and Bar",
+    "neighborhood": "Vancouver",
+    "burgerName": "The Diesel",
+    "eventUrl": "https://everout.com/portland/events/the-diesel/e212090/",
+    "burgerUrl": "https://everout.com/portland/events/the-diesel/e212090/",
+    "description": "Charbroiled ¼ lb patty, Catalina spread, American cheese, lettuce, tomato, pickle, grilled garlic Texas toast, beef brisket sloppy joe, fontina-shishito pepper fondue, kaiser bun",
+    "address": "301 W Sixth St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5886024,
+    "longitude": -122.6642039,
+    "geocoded_address": "301 6th St, Portland, OR 97211, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/grays_restaurant_and_bar_the_diesel.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzU2NzQ1MTc1Ny1HcmF5cy1SZXN0YXVyYW50LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Hawker Station PDX",
+    "neighborhood": "Buckman",
+    "burgerName": "Eastern Black Pepper Burger",
+    "eventUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
+    "burgerUrl": "https://everout.com/portland/events/eastern-black-pepper-burger/e212137/",
+    "description": "1/4 lb Angus beef patties , fried fried onion rings , famous house black pepper sauce, lettuce , toasted potato bun",
+    "address": "1015 SE Stark St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5194469,
+    "longitude": -122.6554861,
+    "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/hawker_station_pdx_eastern_black_pepper_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTM5MDMxODM1OC1IYXdrZXItU3RhdGlvbi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Haymaker",
+    "neighborhood": "Overlook",
+    "burgerName": "Argentinian Steakhouse Burger",
+    "eventUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
+    "burgerUrl": "https://everout.com/portland/events/argentinian-steakhouse-burger/e211986/",
+    "description": "Thick ground beef, lightly seasoned topped with our fresh hand-chopped chimichurri! An avocado and pineapple sauce, lettuce, and tomato.",
+    "address": "1233 N Killingsworth",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3–10 pm",
+        "fullDate": "2025-08-16"
+      }
+    ],
+    "latitude": 45.5629225,
+    "longitude": -122.6799198,
+    "geocoded_address": "1233 N Killingsworth St, Portland, OR 97217, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/haymaker_argentinian_steakhouse_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjYxMDQzMTQzOC1IYXltYWtlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Hopworks Brewery",
+    "neighborhood": "Creston - Kenilworth",
+    "burgerName": "The Heatwave",
+    "eventUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
+    "burgerUrl": "https://everout.com/portland/events/the-heatwave/e212105/",
+    "description": "A 1/4 lb beef patty topped with savory sliced ham, melted provolone and cheddar cheeses, freshly sliced jalapeños, sweet mango chutney, and crisp lettuce on a toasted bun.",
+    "address": "2944 SE Powell",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4968699,
+    "longitude": -122.6348437,
+    "geocoded_address": "2944 SE Powell Blvd, Portland, OR 97202, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/hopworks_brewery_the_heatwave.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDAzMzkyNjk5MS1Ib3B3b3Jrcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Hunny Beez",
+    "neighborhood": "Portland Downtown",
+    "burgerName": "Adobo Burger",
+    "eventUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
+    "burgerUrl": "https://everout.com/portland/events/adobo-burger/e211982/",
+    "description": "An Adobo-seasoned burger with, grilled Adobo onions, grilled pineapple, Adobo mayo, and seasonal greens on a potato bun.",
+    "address": "1434 SW Park Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5144978,
+    "longitude": -122.6831449,
+    "geocoded_address": "1434 SW Park Ave, Portland, OR 97201, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/hunny_beez_adobo_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzQ3MjkyMzI4MjQ3Mi1IdW5ueS1CZWV6LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Interurban",
+    "neighborhood": "North Portland",
+    "burgerName": "\"Chicago Dog\" Boar Burger",
+    "eventUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
+    "burgerUrl": "https://everout.com/portland/events/chicago-dog-boar-burger/e212138/",
+    "description": "Wild boar/black Angus beef blend, topped with neon relish, tomato, sweet onion, sport peppers, yellow mustard, and celery salt on Portland French poppy seed brioche.",
+    "address": "4057 N Mississippi",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5529738,
+    "longitude": -122.6757399,
+    "geocoded_address": "4057 N Mississippi Ave, Portland, OR 97227, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/interurban_chicago_dog_boar_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzE5NzI1NTcyMy1JbnRlcnVyYmFuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "John's Marketplace",
+    "neighborhood": "Beaverton",
+    "burgerName": "Beaverton Bangkok Smash",
+    "eventUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
+    "burgerUrl": "https://everout.com/portland/events/beaverton-bangkok-smash/e212146/",
+    "description": "Spicy Thai peanut sauce, grilled pineapple, pickled jalapeños, sautéed bell pepper & onion, fresh arugula, smashed Angus beef patty, melted provolone cheese, toasted pub bun. Chips included.",
+    "address": "3700 SW Hall Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4928675,
+    "longitude": -122.805312,
+    "geocoded_address": "3700 SW Hall Blvd, Beaverton, OR 97005, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/john_s_marketplace_beaverton_bangkok_smash.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQ2MTI1NjYyMS1Kb2hucy1NYXJrZXRwbGFjZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Killer Burger",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Philly Supreme",
+    "eventUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
+    "burgerUrl": "https://everout.com/portland/events/philly-supreme/e211569/",
+    "description": "Perfectly seared 5oz beef patty, Philly steak, bacon, double provolone, brined red bell peppers, Killer House sauce, grilled onion, mayo between toasted buns.",
+    "address": "510 SW 3rd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10:30 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5192748,
+    "longitude": -122.6747566,
+    "geocoded_address": "510 SW 3rd Ave, Portland, OR 97204, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/killer_burger_philly_supreme.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTUxMDYzODM5My1LaWxsZXItQnVyZ2VyLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Lardo",
+    "neighborhood": "Ladd's Addition",
+    "burgerName": "Pig Mac",
+    "eventUrl": "https://everout.com/portland/events/pig-mac/e212116/",
+    "burgerUrl": "https://everout.com/portland/events/pig-mac/e212116/",
+    "description": "Pork burger, bacon, brown butter peaches, dirty mustard, American cheese",
+    "address": "1212 SE Hawthorne",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5120637,
+    "longitude": -122.6530024,
+    "geocoded_address": "1212 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lardo_pig_mac.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM0MTkzNzYwNy1MYXJkby5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Lariat Lounge",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "The Rope",
+    "eventUrl": "https://everout.com/portland/events/the-rope/e212749/",
+    "burgerUrl": "https://everout.com/portland/events/the-rope/e212749/",
+    "description": "Tillamook sharp cheddar-stuffed cheeseburger (Juicy Lucy), frizzled onions & jalapeños, BBQ sauce, mayo, lettuce & tomato on a toasted pub bun.",
+    "address": "17238 SE Division",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.504372,
+    "longitude": -122.4852555,
+    "geocoded_address": "17238 SE Division St, Portland, OR 97236, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lariat_lounge_the_rope.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE5OTUzMzcyMDUzNS1MYXJpYXQtTG91bmdlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Lazy Days Brewing",
+    "neighborhood": "Eliot",
+    "burgerName": "Brick Cheese Breakdown",
+    "eventUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
+    "burgerUrl": "https://everout.com/portland/events/brick-cheese-breakdown/e212092/",
+    "description": "Two house-ground beef and pepperoni smash patties, brick cheese, garlic aioli, caramelized red onions and mushrooms with a dollop of our red sauce, all sandwiched between a slice of Detroit-style cheese pizza. Available with a pepperoni-spiced Impossible patty.",
+    "address": "2326 N. Flint Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5400114,
+    "longitude": -122.6684182,
+    "geocoded_address": "2326 N Flint Ave, Portland, OR 97227, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lazy_days_brewing_brick_cheese_breakdown.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzEyMzM3MTAzNTEyMS1MYXp5LURheXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Lone Star Burger Bar",
+    "neighborhood": "Vernon",
+    "burgerName": "Hamburguesa al Pastor",
+    "eventUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
+    "burgerUrl": "https://everout.com/portland/events/hamburguesa-al-pastor/e212226/",
+    "description": "1/4lb brisket and sirloin patty, pork belly burnt ends al pastor, smoked pineapple, cilantro, onion, achiote aioli",
+    "address": "1625 NE Killingsworth Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5628877,
+    "longitude": -122.6483922,
+    "geocoded_address": "1625 NE Killingsworth St, Portland, OR 97211, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lone_star_burger_bar_hamburguesa_al_pastor.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTc2MzgzODIwNi1Mb25lU3Rhci1CdXJnZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Loyal Legion",
+    "neighborhood": "Buckman",
+    "burgerName": "Peachy Keen Burger",
+    "eventUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
+    "burgerUrl": "https://everout.com/portland/events/peachy-keen-burger/e211978/",
+    "description": "1/4lb beef patty smothered in house-made bourbon-peach jalapeño jam topped with smoked provolone and arugula on a brioche bun",
+    "address": "710 SE 6th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5177857,
+    "longitude": -122.6594084,
+    "geocoded_address": "710 SE 6th Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/loyal_legion_peachy_keen_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM5Mjg1NTcxNjE0LUxveWFsLUxlZ2lvbi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Loowit Brewing - Downtown Pub",
+    "neighborhood": "Esther Short",
+    "burgerName": "Pinche Smash Burger",
+    "eventUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
+    "burgerUrl": "https://everout.com/portland/events/pinche-smash-burger/e212139/",
+    "description": "Seasoned smashed patty with pico de gallo, pepper jack cheese, cilantro lime crema, and shredded lettuce, on a toasted brioche bun.",
+    "address": "507 Columbia St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5141996,
+    "longitude": -122.680342,
+    "geocoded_address": "507 SW Columbia St, Portland, OR 97201, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/loowit_brewing_downtown_pub_pinche_smash_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTQwODU1NzY3LUxvb3dpdC1CcmV3aW5nLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Lo's Burgers",
+    "neighborhood": "Boise",
+    "burgerName": "The Kaldereta",
+    "eventUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
+    "burgerUrl": "https://everout.com/portland/events/the-kaldereta/e212275/",
+    "description": "A Filipino beef stew reduction sauce, made by our new neighbors at Sunrice, drizzled on a classic Lo’s Burger with pickled veg, served on a Dos Hermanos brioche bun",
+    "address": "3944 N Williams Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–5 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5514744,
+    "longitude": -122.6665014,
+    "geocoded_address": "3944 N Williams Ave, Portland, OR 97227, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lo_s_burgers_the_kaldereta.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzI3NjkwOTEyNC1Mb3MtQnVyZ2Vycy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Lucky Devil Lounge",
+    "neighborhood": "Hosford-Abernethy",
+    "burgerName": "The Bad HABit Burger",
+    "eventUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
+    "burgerUrl": "https://everout.com/portland/events/the-bad-habit-burger/e212672/",
+    "description": "Pub bun, shredded lettuce, tomato, pickled & grilled jalapeños, cheddar cheese, 1/4lb grass-fed beef patty, house-made aioli featuring HAB heirloom tomato & Scotch bonnet hot sauce",
+    "address": "633 SE Powell Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–2:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5017514,
+    "longitude": -122.6590968,
+    "geocoded_address": "633 SE Powell Blvd, Portland, OR 97202, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/lucky_devil_lounge_the_bad_habit_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0MzY4MTA0OTMyLUx1Y2t5LURldmlsLUxvdW5nZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Makulít",
+    "neighborhood": "Buckman",
+    "burgerName": "Spaghetti Western",
+    "eventUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
+    "burgerUrl": "https://everout.com/portland/events/spaghetti-western/e211980/",
+    "description": "Smashed meatball patty with Filipino spaghetti and shredded cheddar cheese in a garlic butter-toasted bun",
+    "address": "1015 SE Stark Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5194469,
+    "longitude": -122.6554861,
+    "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/makul_t_spaghetti_western.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjE5ODE4MDI2My1NYWt1bGl0LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "MidCity SmashedBurger @ Prost! Marketplace",
+    "neighborhood": "Boise",
+    "burgerName": "Jalapeño Popper Burger",
+    "eventUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
+    "burgerUrl": "https://everout.com/portland/events/jalapeno-popper-burger/e212504/",
+    "description": "Two 1/4lb all-beef patties, Spicy SmashSauce, bacon, jalapeño cream cheese, bun",
+    "address": "4237 N Mississippi Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5544575,
+    "longitude": -122.6758209,
+    "geocoded_address": "4237 N Mississippi Ave, Portland, OR 97217, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/midcity_smashedburger_prost_marketplace_jalape_o_p.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjQ2MzY1MjMwMS1NaWRjaXR5LVNtYXNoLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Migration Brewing Co.",
+    "neighborhood": "Kerns",
+    "burgerName": "The Don of Burgers",
+    "eventUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
+    "burgerUrl": "https://everout.com/portland/events/the-don-of-burgers/e212125/",
+    "description": "Spicy Italian sausage, pesto aioli, giardiniera relish, marinara sauce, Parmesan cheese and arugula!",
+    "address": "2828 NE Glisan",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5261915,
+    "longitude": -122.6364081,
+    "geocoded_address": "2828 NE Glisan St, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/migration_brewing_co_the_don_of_burgers.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDgwNzE5Mzc0Ny1NaWdyYXRpb24tR2xpc2FuLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Mirisata",
+    "neighborhood": "Buckman",
+    "burgerName": "The Island Burger",
+    "eventUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
+    "burgerUrl": "https://everout.com/portland/events/the-island-burger/e212149/",
+    "description": "Lankan-spiced Impossible meatball patty, pineapple sambol, deviled sauce, parippu spread, chao cheese, vegenaise, manioc chips",
+    "address": "2420 SE Belmont St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5162081,
+    "longitude": -122.6410068,
+    "geocoded_address": "2420 SE Belmont St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/mirisata_the_island_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1NDk1MTY1ODkzMDg2Mi1NaXJpc2F0YS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Migration Brewing & Papa's Frita",
+    "neighborhood": "Boise",
+    "burgerName": "Chilero Duro",
+    "eventUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
+    "burgerUrl": "https://everout.com/portland/events/chilero-duro/e212126/",
+    "description": "A spicy piece of Nicaragua in every bite: a smashed beef patty with American cheese, grilled Chilero (pickled onions and habanero), sweet fried plantain, and our house-made Mombacho sauce",
+    "address": "3947 North Williams Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5513535,
+    "longitude": -122.6668651,
+    "geocoded_address": "3947 N Williams Ave, Portland, OR 97227, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/migration_brewing_papa_s_frita_chilero_duro.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDgzMDYwMzI0OC1NaWdyYXRpb24tV2lsbGlhbXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Moreland Ale House",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "The Godfather",
+    "eventUrl": "https://everout.com/portland/events/the-godfather/e212385/",
+    "burgerUrl": "https://everout.com/portland/events/the-godfather/e212385/",
+    "description": "House-cured brown sugar pork belly on top of Tillamook cheddar cheese and a 100% Angus beef patty with shredded lettuce and our Mama Lil’s pepper aioli. Vegetarian option uses field roast patty and vegan bacon.",
+    "address": "7995 SE Milwaukie",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "1:30–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "1:30 pm–11 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4658582,
+    "longitude": -122.647633,
+    "geocoded_address": "7995 SE Milwaukie Ave, Portland, OR 97202, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/moreland_ale_house_the_godfather.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjc4NDIyMjUwNjQ5Ny1BbGVfSG91c2UuUE5HIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Next Level Burger",
+    "neighborhood": "Sunnyside",
+    "burgerName": "Smoky Mountain BBQ Burger",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
+    "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211568/",
+    "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
+    "address": "4121 SE Hawthorne",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5123551,
+    "longitude": -122.619663,
+    "geocoded_address": "Howthome Hophouse in Portland, OR, USA, 4121 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/next_level_burger_smoky_mountain_bbq_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTQ4MDc4NjU0MS1OZXh0LUxldmVsLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Nick's Famous Coney Island",
+    "neighborhood": "Richmond",
+    "burgerName": "The Jerk",
+    "eventUrl": "https://everout.com/portland/events/the-jerk/e212121/",
+    "burgerUrl": "https://everout.com/portland/events/the-jerk/e212121/",
+    "description": "Painted Hills beef patties, house made Jamaican jerk sauce, pineapple, lettuce, onion",
+    "address": "3746 SE Hawthorne Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5118806,
+    "longitude": -122.6249444,
+    "geocoded_address": "3746 SE Hawthorne Blvd, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/nick_s_famous_coney_island_the_jerk.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDM4MTI3NDgzOC1OaWNrcy1Db25leS1Jc2xhbmQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Nom Nom Wings",
+    "neighborhood": "Pearl District",
+    "burgerName": "Đặc Biệt Burger",
+    "eventUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
+    "burgerUrl": "https://everout.com/portland/events/dac-biet-burger/e211999/",
+    "description": "1/4lb. Tri-Blend Beef (Brisket, Short-Rib, Chuck), Roasted Bone Marrow Infused Aioli, Thai Basil Dust, Pickled Onion and Bean Sprouts, Sliced Jalapenos, Swiss Cheese, Martin's Potato Sesame Bun.",
+    "address": "524 NW 14th Avenue",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "1–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "1–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5269605,
+    "longitude": -122.6851308,
+    "geocoded_address": "524 NW 14th Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/nom_nom_wings_c_bi_t_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjYyNjUxODA3MS1Ob20tTm9tLVdpbmdzLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Northport",
+    "neighborhood": "Kenton",
+    "burgerName": "The Kiss Me Away",
+    "eventUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
+    "burgerUrl": "https://everout.com/portland/events/the-kiss-me-away/e212383/",
+    "description": "Brioche bun, onion sauce, smash burger patty, grilled onions, pepper jack cheese, shredded lettuce, crispy onions, horseradish mayo.",
+    "address": "8103 N Denver Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5818135,
+    "longitude": -122.6871497,
+    "geocoded_address": "8103 N Denver Ave, Portland, OR 97217, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/northport_the_kiss_me_away.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzczMzk3NDIxMDQ1OC1Ob3J0aHBvcnQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Pacific Standard",
+    "neighborhood": "Kerns",
+    "burgerName": "Get Slaw-tered",
+    "eventUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
+    "burgerUrl": "https://everout.com/portland/events/get-slaw-tered/e211998/",
+    "description": "All-beef patty layered with a crisp red cabbage and jalapeño slaw tossed in a coriander-lime vinaigrette, finished with Kewpie mayo and a pinch of furikake on a toasted Martin’s bun.",
+    "address": "100 NE Martin Luther King Jr Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5238191,
+    "longitude": -122.6615582,
+    "geocoded_address": "100 NE Martin Luther King Jr Blvd, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/pacific_standard_get_slaw_tered.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjkzNzY1MTA2Ny1QYWNpZmljLVN0YW5kYXJkLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Pambiche",
+    "neighborhood": "Kerns",
+    "burgerName": "Frita Cubana",
+    "eventUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
+    "burgerUrl": "https://everout.com/portland/events/frita-cubana/e211826/",
+    "description": "A juicy, well-seasoned pork and beef burger basted in beef tallow on a bed of minced red onion, then piled high with crisp shoestring potato sticks and served on a toasted Cuban bun slathered in our smokey Mojo Ketchup and garlicky Mojo Mustard. Add cheese $1 Add fried egg $2",
+    "address": "2811 NE Glisan St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5266381,
+    "longitude": -122.636874,
+    "geocoded_address": "2811 NE Glisan St, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/pambiche_frita_cubana.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM5ODE0ODExNTk0Mi1QYW1iaWNoZS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Papi Chulo's Taqueria",
+    "neighborhood": "Pearl District",
+    "burgerName": "Choriqueso Burger",
+    "eventUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
+    "burgerUrl": "https://everout.com/portland/events/choriqueso-burger/e212276/",
+    "description": "6oz Angus beef patty, chipotle aioli, shredded lettuce, guac, grilled onions, sesame bun",
+    "address": "611 NW 13th Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–12 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–12 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5274187,
+    "longitude": -122.6844472,
+    "geocoded_address": "611 NW 13th Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/papi_chulo_s_taqueria_choriqueso_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzgxOTE4NDM2MzI5My1QYXBpLUNodWxvcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Paymaster Lounge",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "The Veggie Medley Hash Burger",
+    "eventUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
+    "burgerUrl": "https://everout.com/portland/events/the-veggie-medley-hash-burger/e212407/",
+    "description": "The medley: grilled mushrooms, corn, onions, potato, jalapeño, smashed patty with American cheese, bacon, mayo",
+    "address": "1020 NW 17th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12:30 pm–2:30 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5304152,
+    "longitude": -122.6882649,
+    "geocoded_address": "1020 NW 17th Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/paymaster_lounge_the_veggie_medley_hash_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1NTIwNjYwMjI2NDY1Mi1QYXltYXN0ZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "PLS on Sixth",
+    "neighborhood": "Downtown Portland",
+    "burgerName": "Jam Session Smashburger",
+    "eventUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
+    "burgerUrl": "https://everout.com/portland/events/jam-session-smashburger/e212110/",
+    "description": "Natural ground beef, brioche bun, whiskey bacon jam, Tillamook cheddar, lettuce, and tomato. Burger comes with fries.",
+    "address": "515 SW Clay St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5136876,
+    "longitude": -122.6808486,
+    "geocoded_address": "515 SW Clay St, Portland, OR 97201, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/pls_on_sixth_jam_session_smashburger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDA1MjYxOTAzNC1QTFMtb24tU2l4dGguanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Portland Burger",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Pirates of the Caribbean",
+    "eventUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
+    "burgerUrl": "https://everout.com/portland/events/pirates-of-the-caribbean/e212109/",
+    "description": "Set sail on a flavor adventure with this juicy, 1/3lb all-beef patty topped with melty American cheese, crowned with Caribbean slaw and rum-caramelized onions. It's a tantalizing blend of smoky sweetness and tropical flair. Mesquite-smoked jalapeño aioli and crispy jalapeño straws add a crunchy (not too) spicy crescendo. Fire-roasted green chili drizzle and house sauce bring a richness to satisfy your craving for a taste of the islands. A burger that dares to be different & promises a voyage of",
+    "address": "304 SW 2nd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5204209,
+    "longitude": -122.6729815,
+    "geocoded_address": "304 SW 2nd Ave, Portland, OR 97204, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/portland_burger_pirates_of_the_caribbean.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIyMzI1NzMwODgzNS1Qb3J0bGFuZC1CdXJnZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Portland Cider Company",
+    "neighborhood": "Clackamas",
+    "burgerName": "Rajas Burger",
+    "eventUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
+    "burgerUrl": "https://everout.com/portland/events/rajas-burger/e211944/",
+    "description": "1/3lb beef patty, smoked rajas (poblano pepper & onion), Oaxaca cheese, chipotle aioli, topped with avocado crema slaw.",
+    "address": "8925 SE Jannsen, Building F",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "2–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4153099,
+    "longitude": -122.5726978,
+    "geocoded_address": "8925 SE Jannsen Rd building f, Clackamas, OR 97015, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/portland_cider_company_rajas_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTg1MjI1MjM4Mi1Qb3J0bGFuZC1DaWRlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Prime Tap House: West End District",
+    "neighborhood": "Beaverton",
+    "burgerName": "Spicy Pineapple Jam Smash Burger",
+    "eventUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
+    "burgerUrl": "https://everout.com/portland/events/spicy-pineapple-jam-smash-burger/e212004/",
+    "description": "3.5 oz smashed beef patty, American cheese, spicy pineapple jam (roasted jalapeño, roasted garlic, pineapple, and fresh cilantro), garlic aioli, toasted potato bun",
+    "address": "3900 SW Orbit St Suite 120",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–8:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.49153039999999,
+    "longitude": -122.8273245,
+    "geocoded_address": "3900 SW Orbit St Unit 120, Beaverton, OR 97005, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/prime_tap_house_west_end_district_spicy_pineapple_.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjkxODQ3MTQ4My1QcmltZS1UYXAtSG91c2UuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Reverend's BBQ",
+    "neighborhood": "Southeast Portland",
+    "burgerName": "The Holler Pain Ya Burger",
+    "eventUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
+    "burgerUrl": "https://everout.com/portland/events/the-holler-pain-ya-burger/e212007/",
+    "description": "Candied jalapeños, spicy pepper aioli, American cheese, fried onions on a toasted brioche bun",
+    "address": "7712 SE 13th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.46911919999999,
+    "longitude": -122.6527197,
+    "geocoded_address": "7712 SE 13th Ave, Portland, OR 97202, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/reverend_s_bbq_the_holler_pain_ya_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzIxMDM4MTg0MS1SZXZlcmVuZHMtQkJRLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "River Pig Saloon",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Pig Mac",
+    "eventUrl": "https://everout.com/portland/events/pig-mac/e212231/",
+    "burgerUrl": "https://everout.com/portland/events/pig-mac/e212231/",
+    "description": "Two beef patties, American cheese, River Pig sauce, shredded lettuce, pickles.",
+    "address": "529 NW 13th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.52688819999999,
+    "longitude": -122.6845305,
+    "geocoded_address": "529 NW 13th Ave, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/river_pig_saloon_pig_mac.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzM3MjQ4NDIzOC1SaXZlci1QaWcuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Sad Valley",
+    "neighborhood": "Humboldt",
+    "burgerName": "Homecoming Queen",
+    "eventUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
+    "burgerUrl": "https://everout.com/portland/events/homecoming-queen/e212129/",
+    "description": "Two local beef patties from Fulton Provision Co., pepper bacon, sharp cheddar, pepper jack, and garlic aioli on an egg-wash brioche bun from Dos Hermanos Bakery.",
+    "address": "832 N Killingsworth Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "2 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "2 pm–1 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5625308,
+    "longitude": -122.6757357,
+    "geocoded_address": "832 N Killingsworth St, Portland, OR 97217, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/sad_valley_homecoming_queen.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDc1MDU0MzMyOC1TYWQtVmFsbGV5LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Salvador Molly's",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Tiki Tango",
+    "eventUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
+    "burgerUrl": "https://everout.com/portland/events/tiki-tango/e212010/",
+    "description": "Island curry burger with mint chutney, aioli, lettuce and tomato",
+    "address": "1523 SW Sunset Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.479732,
+    "longitude": -122.693664,
+    "geocoded_address": "1523 SW Sunset Blvd, Portland, OR 97239, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/salvador_molly_s_tiki_tango.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI2Mzc3NzYwNy1TYWx2YWRvci1Nb2xseXMuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Sandy-O's",
+    "neighborhood": "Parkrose Heights",
+    "burgerName": "BLT Burger Gone Wild",
+    "eventUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
+    "burgerUrl": "https://everout.com/portland/events/blt-burger-gone-wild/e212277/",
+    "description": "House ground beef, LM bacon, fried mozzarella drizzled in hot honey, summer tomatoes, lettuce, basil pesto mayo on a soft bun",
+    "address": "10505 NE Sandy Blvd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5589916,
+    "longitude": -122.5545173,
+    "geocoded_address": "10505 NE Sandy Blvd, Portland, OR 97220, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/sandy_o_s_blt_burger_gone_wild.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjEwMjEwMDk0NC1TYW5keU9zLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Solo Club",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Katsu Got Your Tongue",
+    "eventUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
+    "burgerUrl": "https://everout.com/portland/events/katsu-got-your-tongue/e212124/",
+    "description": "Panko-breaded 5oz patty, Kewpie mayo, tonkatsu sauce, red cabbage, green cabbage, pickles, cheddar on a brioche bun",
+    "address": "2110 NW Raleigh St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5340537,
+    "longitude": -122.695064,
+    "geocoded_address": "Parking lot, 2110 NW Raleigh St, Portland, OR 97210, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/solo_club_katsu_got_your_tongue.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDczMDQ0Mjk0OS1Tb2xvLUNsdWIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Speed-o Cappuccino",
+    "neighborhood": "Central Eastside",
+    "burgerName": "Tickle My Pickle",
+    "eventUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
+    "burgerUrl": "https://everout.com/portland/events/tickle-my-pickle/e212128/",
+    "description": "Our famous smash with crispy deep-fried pickle chips, a juicy layer of our classic house pickles, dripping in pickle ranch.",
+    "address": "1015 SE Stark St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5194469,
+    "longitude": -122.6554861,
+    "geocoded_address": "1015 SE Stark St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/speed_o_cappuccino_tickle_my_pickle.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzM4NTg0MTIyNS1TcGVlZG8tQ2FwcHVjY2luby5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Spoke & Fork",
+    "neighborhood": "Lloyd District",
+    "burgerName": "Bridgetown BBQ Duxelle & Truffle Burger",
+    "eventUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
+    "burgerUrl": "https://everout.com/portland/events/bridgetown-bbq-duxelle-truffle-burger/e211570/",
+    "description": "1/4lb beef patty, wild mushroom duxelle, crispy fried onions, provolone, truffle aioli, Grand Central potato roll",
+    "address": "375 NE Holladay St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5304564,
+    "longitude": -122.6623777,
+    "geocoded_address": "375 NE Holladay St, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/spoke_fork_bridgetown_bbq_duxelle_truffle_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTUzNDQ5NjcyMS1TcG9rZS1hbmQtRm9yay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Steakadelphia",
+    "neighborhood": "South Tabor",
+    "burgerName": "Laughing Burger",
+    "eventUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
+    "burgerUrl": "https://everout.com/portland/events/laughing-burger/e212131/",
+    "description": "Angus burger topped with Laughing Cow cheese, red onions, spinach, ketchup and mustard on a sweet bun.",
+    "address": "5835 SE Powell",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      }
+    ],
+    "latitude": 45.4976668,
+    "longitude": -122.6020336,
+    "geocoded_address": "5835 SE Powell Blvd, Portland, OR 97206, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/steakadelphia_laughing_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM4ODg3NjM0OTk4Mi1TdGVha2FkZWxwaGlhLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Steeplejack Brewing Co.",
+    "neighborhood": "Sullivan's Gulch",
+    "burgerName": "Burgs Phở Life",
+    "eventUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
+    "burgerUrl": "https://everout.com/portland/events/burgs-pho-life/e212333/",
+    "description": "Peahini, hoisin sauce, sambal aioli, arugula, herb mix, beef patty, on a brioche roll",
+    "address": "2400 NE Broadway",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.53490559999999,
+    "longitude": -122.6407663,
+    "geocoded_address": "2400 NE Broadway, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/steeplejack_brewing_co_burgs_ph_life.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NjEzOTE5NTQzMS1TdGVlcGxlamFjay1CcmV3aW5nLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Stoopid Burger",
+    "neighborhood": "Lloyd District",
+    "burgerName": "Kooky Burger",
+    "eventUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
+    "burgerUrl": "https://everout.com/portland/events/kooky-burger/e212096/",
+    "description": "Beef, bacon, blue cheese, buffalo sauce, fried onion, strings, lettuce, and pickle Stoopid sauce",
+    "address": "2039 Lloyd Center",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–7 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5325488,
+    "longitude": -122.6540916,
+    "geocoded_address": "2039 Lloyd Center, Portland, OR 97232, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/stoopid_burger_kooky_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzYwNjQ4NTI2Mi1TdG9vcGlkLUJ1cmdlci5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "SuperDeluxe",
+    "neighborhood": "Richmond",
+    "burgerName": "Brunch Burger",
+    "eventUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
+    "burgerUrl": "https://everout.com/portland/events/brunch-burger/e212094/",
+    "description": "All-beef patty, eggs, cheese, bacon, avocado, and chipotle aioli on a toasted potato bun.",
+    "address": "5000 SE Powell",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–11 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4977425,
+    "longitude": -122.6110856,
+    "geocoded_address": "5000 SE Powell Blvd, Portland, OR 97206, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/superdeluxe_brunch_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzU4ODg2ODAyMy1TdXBlci1EZWx1eGUuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Sweet Home Bar & Grill",
+    "neighborhood": "North Portland",
+    "burgerName": "Pretzel Bacon Cheddar Burger",
+    "eventUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
+    "burgerUrl": "https://everout.com/portland/events/pretzel-bacon-cheddar-burger/e212134/",
+    "description": "House-made soft pretzel bun, all-beef Angus patty, topped with thick-cut bacon in cheese sauce.",
+    "address": "2824 N Lombard St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5768837,
+    "longitude": -122.6960746,
+    "geocoded_address": "2824 N Lombard St, Portland, OR 97217, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/sweet_home_bar_grill_pretzel_bacon_cheddar_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTA5MjY4OTc1NS1Td2VldC1Ib21lLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Take Two",
+    "neighborhood": "Concordia",
+    "burgerName": "The Messy Pickle",
+    "eventUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
+    "burgerUrl": "https://everout.com/portland/events/the-messy-pickle/e212000/",
+    "description": "Beef patty, pickle dip, heirloom tomato, provolone, garlic aioli, fried pickles",
+    "address": "3000 NE Killingsworth Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "3 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5625835,
+    "longitude": -122.6347021,
+    "geocoded_address": "3000 NE Killingsworth St, Portland, OR 97211, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/take_two_the_messy_pickle.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzM3MzQwMTkxNjc2MS1UYWtlLVR3by5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Taylor Street Tavern",
+    "neighborhood": "Downtown Portland",
+    "burgerName": "Chorizo Con Queso Burger",
+    "eventUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
+    "burgerUrl": "https://everout.com/portland/events/chorizo-con-queso-burger/e212123/",
+    "description": "1/3 lb wagyu beef chargrilled with green chilies, Manchego cheese, avocado and tomato smash, with chipotle aioli",
+    "address": "808 SW Taylor Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "9 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "9 am–2 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5181604,
+    "longitude": -122.6816695,
+    "geocoded_address": "808 SW Taylor St, Portland, OR 97205, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/taylor_street_tavern_chorizo_con_queso_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NDQxNzMzNzA3NC1UYXlsb3ItU3RyZWV0LVRhdmVybi5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "The Chinese Cowboy",
+    "neighborhood": "Buckman",
+    "burgerName": "Seoul Fire Burger",
+    "eventUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
+    "burgerUrl": "https://everout.com/portland/events/seoul-fire-burger/e212135/",
+    "description": "A bold fusion of Korean flavor and street-style heat. Featuring a juicy bulgogi-marinated patty, crisp iceberg lettuce, ginger sesame slaw, sriracha mayo, and molten red chili queso— sweet, spicy, and unapologetically crave-worthy.",
+    "address": "727 SE Washington Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–11 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5188572,
+    "longitude": -122.6579265,
+    "geocoded_address": "727 SE Washington St, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_chinese_cowboy_seoul_fire_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTEwNzcwNzY3My1DaGluZXNlLUNvd2JveS5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "The Hostel Cafe",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "Rose City Shroom",
+    "eventUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
+    "burgerUrl": "https://everout.com/portland/events/rose-city-shroom/e212001/",
+    "description": "Savory sautéed mushrooms, garlic, and onions grilled to perfection on top of our locally sourced beef patty, with melty Swiss cheese, and a lemon & dill aioli(v). Served on a Grand Central bun with spring mix and tomato. Substitute our house-made veggie patty for a vegetarian option, and omit the cheese for a vegan version. NOTE: As of lunchtime on 8/13 gluten free buns are sold out. More should be available 8/14.",
+    "address": "1810 NW Glisan",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5262655,
+    "longitude": -122.6895891,
+    "geocoded_address": "1810 NW Glisan St, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_hostel_cafe_rose_city_shroom.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjY0OTA0ODAyLUhvc3RlbC1DYWZlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "The Office Bar",
+    "neighborhood": "Milwaukie",
+    "burgerName": "Chilli Relleno Burger",
+    "eventUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
+    "burgerUrl": "https://everout.com/portland/events/chilli-relleno-burger/e212225/",
+    "description": "Fresh ground beef patty with pepper jack cheese, an Anaheim chili pepper stuffed with a pepper blend cheese, with a tomato pico de gallo sauce on a brioche bun.",
+    "address": "10598 SE 32nd Ave",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4467524,
+    "longitude": -122.6291585,
+    "geocoded_address": "10598 SE 32nd Ave, Milwaukie, OR 97222, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_office_bar_chilli_relleno_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzMwMTUxODY3NTMxNC1PZmZpY2UtQmFyLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "The Paladins League",
+    "neighborhood": "Northeast Portland",
+    "burgerName": "The Inspiration Point",
+    "eventUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
+    "burgerUrl": "https://everout.com/portland/events/the-inspiration-point/e212005/",
+    "description": "1/3 pound beef patty, spiced pickled Pink Lady apples, blueberry-basil preserves, chevre and arugula on an artisan brioche bun.",
+    "address": "4765 NE Fremont St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.54837209999999,
+    "longitude": -122.6136354,
+    "geocoded_address": "4765 NE Fremont St, Portland, OR 97213, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_paladins_league_the_inspiration_point.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk3NDY5MDkwOC1UaGUtUGFsYWRpbnMtTGVhZ3VlLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "The Secret Pizza Society",
+    "neighborhood": "Montavilla",
+    "burgerName": "Cassian And/or Burger",
+    "eventUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
+    "burgerUrl": "https://everout.com/portland/events/cassian-and-or-burger/e211977/",
+    "description": "Fennel Tamari Patty Au Gratin Potatoes Cheesy Sauce Mixed Greens On a Homemade Bun",
+    "address": "7201 NE Glisan",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:15 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:15 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:15 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5266701,
+    "longitude": -122.5884152,
+    "geocoded_address": "7201 NE Glisan St, Portland, OR 97213, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_secret_pizza_society_cassian_and_or_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzczNjYxMTg5NjUxNi1TZWNyZXQtUGl6emEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "The Social Spoon",
+    "neighborhood": "Downtown Portland",
+    "burgerName": "Ciabatta-Bing!",
+    "eventUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
+    "burgerUrl": "https://everout.com/portland/events/ciabatta-bing/e211728/",
+    "description": "4oz burger patty topped with spicy pepperoni and caramelized onion relish, pesto aioli, arugula, and provolone cheese on a ciabatta roll",
+    "address": "550 SW Oak St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4–10 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5215431,
+    "longitude": -122.676824,
+    "geocoded_address": "550 SW Oak St, Portland, OR 97204, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_social_spoon_ciabatta_bing.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTc5NDU5NTMxMS1Tb2NpYWwtU3Bvb24uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "The Tavern at Heathman",
+    "neighborhood": "Portland Downtown",
+    "burgerName": "Uncle Andy's Diabolical Burger",
+    "eventUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
+    "burgerUrl": "https://everout.com/portland/events/uncle-andys-diabolical-burger/e213089/",
+    "description": "Beer-battered onion ring, oven-dried tomato jam, house steak sauce, gouda on an English muffin",
+    "address": "1001 SW Broadway",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "5–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.51722280000001,
+    "longitude": -122.6810692,
+    "geocoded_address": "1001 SW Broadway, Portland, OR 97205, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/the_tavern_at_heathman_uncle_andy_s_diabolical_bur.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzQ2MDI3OTQ0OTIyMS1UYXZlcm4tSGVhdGhtYW4uanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Three Mermaids Public House",
+    "neighborhood": "Tigard",
+    "burgerName": "Pout-It-In-Your-Mouth Burger",
+    "eventUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
+    "burgerUrl": "https://everout.com/portland/events/pout-it-in-your-mouth-burger/e212273/",
+    "description": "Toasted pub bun, roasted garlic aioli, hand-formed 6oz beef patty, topped with cheese curds, shoestring fries, and house-made Poutine gravy, garnished with green onion.",
+    "address": "18041 SW Lower Boones Ferry Road #1B",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.3915656,
+    "longitude": -122.7515058,
+    "geocoded_address": "18041 SW Lower Boones Ferry Rd, Portland, OR 97224, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/three_mermaids_public_house_pout_it_in_your_mouth_.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2NTgxNDI5NDgxMS1UaHJlZS1NZXJtYWlkcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Veggie Grill by Next Level",
+    "neighborhood": "Southwest Portland",
+    "burgerName": "Smoky Mountain BBQ Burger",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
+    "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e211567/",
+    "description": "1/4lb beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter-toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
+    "address": "508 SW Taylor St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.517515,
+    "longitude": -122.6784768,
+    "geocoded_address": "508 SW Taylor St, Portland, OR 97204, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/veggie_grill_by_next_level_smoky_mountain_bbq_burg.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MTQ2MDE1Mzg5NS1WZWdnaWUtR3JpbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Von Ebert Brewing Glendoveer + Kitchen",
+    "neighborhood": "Hazelwood",
+    "burgerName": "Beer Cheese Philly Smash",
+    "eventUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
+    "burgerUrl": "https://everout.com/portland/events/beer-cheese-philly-smash/e212381/",
+    "description": "Bun, single smash patty, peppers, onions, mushrooms, smothered in Clubhaus beer cheese",
+    "address": "14021 NE Glisan St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5270528,
+    "longitude": -122.5184417,
+    "geocoded_address": "14021 NE Glisan St, Portland, OR 97230, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/von_ebert_brewing_glendoveer_kitchen_beer_cheese_p.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI1ODI1Mzg4NC1Wb24tRWJlcnQuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Veggie Grill - Cedar Hills Crossing",
+    "neighborhood": "Central Beaverton",
+    "burgerName": "Smoky Mountain BBQ Burger",
+    "eventUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
+    "burgerUrl": "https://everout.com/portland/events/smoky-mountain-bbq-burger/e212835/",
+    "description": "Quarter pound beefy burger topped with house-made Nashville fire seasoning, grilled jalapeños, pepper jack cheese, and crispy onion rings. Served on a butter toasted pretzel bun with Memphis sweet BBQ sauce and organic lettuce and tomato. Protein: 29g, Calories: 750",
+    "address": "3435 SW Cedar Hills Blvd D",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4947876,
+    "longitude": -122.8102583,
+    "geocoded_address": "3435 SW Cedar Hills Blvd D, Beaverton, OR 97005, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/veggie_grill_cedar_hills_crossing_smoky_mountain_b.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzIwNTA2OTY3MzcyMi1WZWdnaWUtR3JpbGwuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Wayfinder Beer",
+    "neighborhood": "Buckman",
+    "burgerName": "Sourdough jacked",
+    "eventUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
+    "burgerUrl": "https://everout.com/portland/events/sourdough-jacked/e211976/",
+    "description": "Smash patty, applewood smoked bacon, swiss cheese, tomato, mayo, ketchup on toasted sourdough, served with an egg roll, homemade sweet and sour sauce with a sprinkle of magik.",
+    "address": "304 SE 2nd",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–10 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5205223,
+    "longitude": -122.6635993,
+    "geocoded_address": "Parking lot, 304 SE 2nd Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/wayfinder_beer_sourdough_jacked.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjIzNjE4ODg4NC1XYXlmaW5kZXIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "White Owl Social Club",
+    "neighborhood": "Buckman",
+    "burgerName": "Bingo Burger",
+    "eventUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
+    "burgerUrl": "https://everout.com/portland/events/bingo-burger/e212101/",
+    "description": "Steak trim 100% beef patty, blue cheese spread, iceberg shred, natural bacon, golden crispy onions, Bingo sauce",
+    "address": "1305 SE 8th",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "4 pm–2 am",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "4 pm–12 am",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.513479,
+    "longitude": -122.6579851,
+    "geocoded_address": "1305 SE 8th Ave, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/white_owl_social_club_bingo_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzYyNzY0MzUyMi1CSU5HTy1CVVJHRVIuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  },
+  {
+    "restaurantName": "Wolf's Head Portland",
+    "neighborhood": "Central Eastside",
+    "burgerName": "Midwest Beer Cheese Burger",
+    "eventUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
+    "burgerUrl": "https://everout.com/portland/events/midwest-beer-cheese-burger/e212009/",
+    "description": "Midwest beer cheese spread, maple-bacon-pretzel chili crisp",
+    "address": "80 SE Madison Street Suite 100",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–6 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5127877,
+    "longitude": -122.6651674,
+    "geocoded_address": "The Waterman Building, 80 SE Madison St suite 100, Portland, OR 97214, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/wolf_s_head_portland_midwest_beer_cheese_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MzI0NzA5OTE5Mi1Xb2xmcy1IZWFkLmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Wonderboy's Smokestack",
+    "neighborhood": "King",
+    "burgerName": "The Sloppy Papí",
+    "eventUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
+    "burgerUrl": "https://everout.com/portland/events/the-sloppy-papi/e212006/",
+    "description": "Fresh ground brisket patties stuffed with sweet pepper cream cheese, rubbed n' rolled in mustard and black pepper. Cold-smoked, then griddle seared, slathered in jalapeño jelly and cowboy crack, with a bed of crispy fried onions, all on a Dos Hermanos pub bun. For an additional $10 we'll slap a slab of succulent, smoky brisket on there, too, making it a burgourmand's delight.",
+    "address": "1027 NE Alberta Street",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "12–8 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5591752,
+    "longitude": -122.6548461,
+    "geocoded_address": "1027 NE Alberta St, Portland, OR 97211, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/wonderboy_s_smokestack_the_sloppy_pap.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2Mjk5MjA4MDU3MS1Xb25kZXJib3ktU21va2VzdGFjay5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "World Foods",
+    "neighborhood": "Northwest Portland",
+    "burgerName": "The Souk Stack Burger",
+    "eventUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
+    "burgerUrl": "https://everout.com/portland/events/the-souk-stack-burger/e211984/",
+    "description": "Za'atar-spice beef patty, tomato, iceberg lettuce, cucumber, honeyed labneh, brioche bun.",
+    "address": "830 NW Everett St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "10 am–7:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5249199,
+    "longitude": -122.6798799,
+    "geocoded_address": "830 NW Everett St, Portland, OR 97209, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/world_foods_the_souk_stack_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU3MDk3NTA5NS1Xb3JsZC1Gb29kcy5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsiZml0IjogImluc2lkZSIsICJwb3NpdGlvbiI6ICJjZW50cmUiLCAid2lkdGgiOiA5NjAsICJoZWlnaHQiOiA2MDAsICJ3aXRob3V0RW5sYXJnZW1lbnQiOiBmYWxzZX0sICJyb3RhdGUiOiBudWxsfX0="
+  },
+  {
+    "restaurantName": "Wow Cow",
+    "neighborhood": "Tigard",
+    "burgerName": "KOREAN HULK— Kalbi smash burger",
+    "eventUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
+    "burgerUrl": "https://everout.com/portland/events/korean-hulk-kalbi-smash-burger/e212670/",
+    "description": "Kalbi smash burger patty with 100-year-old Korean BBQ recipe, melted Tillamook cheese, toasted brioche bun, gochugaru aioli and garlic aioli spread, grilled kimchi and pickles. Available vegetarian with a sweet and tangy seasoned tofu patty!",
+    "address": "9100 SW Burnham st",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11 am–7:30 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.4287172,
+    "longitude": -122.7712153,
+    "geocoded_address": "9100 SW Burnham St, Tigard, OR 97223, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/wow_cow_korean_hulk_kalbi_smash_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1MzE0NDI3NTQ3NDk5OC1Xb3ctQ293LmpwZyIsICJlZGl0cyI6IHsicmVzaXplIjogeyJmaXQiOiAiaW5zaWRlIiwgInBvc2l0aW9uIjogImNlbnRyZSIsICJ3aWR0aCI6IDk2MCwgImhlaWdodCI6IDYwMCwgIndpdGhvdXRFbmxhcmdlbWVudCI6IGZhbHNlfSwgInJvdGF0ZSI6IG51bGx9fQ=="
+  },
+  {
+    "restaurantName": "Ya Hala",
+    "neighborhood": "Montavilla",
+    "burgerName": "Falafel-Flavored Beef Burger",
+    "eventUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
+    "burgerUrl": "https://everout.com/portland/events/falafel-flavored-beef-burger/e211983/",
+    "description": "Beef patty, falafel spices, roasted pepper hummus, yogurt-tahini sauce, iceberg lettuce, tomato, cucumber pickles, brioche bun.",
+    "address": "8005 SE Stark St",
+    "hours": [
+      {
+        "dayOfWeek": "Fri",
+        "date": "Aug 15",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-15"
+      },
+      {
+        "dayOfWeek": "Sat",
+        "date": "Aug 16",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-16"
+      },
+      {
+        "dayOfWeek": "Sun",
+        "date": "Aug 17",
+        "hours": "11:30 am–9 pm",
+        "fullDate": "2025-08-17"
+      }
+    ],
+    "latitude": 45.5193312,
+    "longitude": -122.58129,
+    "geocoded_address": "8005 SE Stark St, Portland, OR 97215, USA",
+    "geocoding_method": "google_api",
+    "image": "/images/ya_hala_falafel_flavored_beef_burger.jpg",
+    "imageUrl": "https://d2sa0osf92td39.cloudfront.net/eyJidWNrZXQiOiAiZXZlcm91dC1pbWFnZXMtcHJvZHVjdGlvbiIsICJrZXkiOiAiaW1hZ2UtMTc1Mjg2MjU1NTIxMjk2LVlhLUhhbGEuanBnIiwgImVkaXRzIjogeyJyZXNpemUiOiB7ImZpdCI6ICJpbnNpZGUiLCAicG9zaXRpb24iOiAiY2VudHJlIiwgIndpZHRoIjogOTYwLCAiaGVpZ2h0IjogNjAwLCAid2l0aG91dEVubGFyZ2VtZW50IjogZmFsc2V9LCAicm90YXRlIjogbnVsbH19"
+  }
+]
